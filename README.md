@@ -29,3 +29,12 @@ Riley -  check ETL, and machine learning model, help Samita with Tableau
 Samita -  READme, Tableau dashboards, and final story of findings 
 
 
+ETL Steps: 
+
+1. read csv
+2. filter for "Country"
+3. get the maximum levels for details in a list (hierarchy)
+4. Add the level columns in the dataframe
+5. populate initially based on levels
+6. populate the dessendents/ below level hierarchy 
+7. export the output/dataframe 

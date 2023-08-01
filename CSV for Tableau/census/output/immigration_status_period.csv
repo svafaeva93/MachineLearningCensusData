@@ -1,0 +1,1281 @@
+GEO_NAME,COUNT_TOTAL,COUNT_MEN,COUNT_WOMEN,immigration_status,period_of_immigration
+St. John's,194935,94205,100735,Non-immigrants,0
+St. John's,9505,4890,4610,Immigrants,0
+St. John's,1820,925,890,Immigrants,Before 1980
+St. John's,555,355,195,Immigrants,1980 to 1990
+St. John's,705,360,345,Immigrants,1991 to 2000
+St. John's,1780,940,840,Immigrants,2001 to 2010
+St. John's,4650,2310,2340,Immigrants,2011 to 2021
+St. John's,4375,2475,1895,Non-permanent residents,0
+Grand Falls-Windsor,13250,6365,6880,Non-immigrants,0
+Grand Falls-Windsor,255,130,130,Immigrants,0
+Grand Falls-Windsor,90,40,55,Immigrants,Before 1980
+Grand Falls-Windsor,25,15,10,Immigrants,1980 to 1990
+Grand Falls-Windsor,20,0,10,Immigrants,1991 to 2000
+Grand Falls-Windsor,40,20,15,Immigrants,2001 to 2010
+Grand Falls-Windsor,90,45,45,Immigrants,2011 to 2021
+Grand Falls-Windsor,100,55,45,Non-permanent residents,0
+Gander,12695,6205,6490,Non-immigrants,0
+Gander,300,165,140,Immigrants,0
+Gander,35,0,30,Immigrants,Before 1980
+Gander,0,0,0,Immigrants,1980 to 1990
+Gander,15,10,0,Immigrants,1991 to 2000
+Gander,60,30,30,Immigrants,2001 to 2010
+Gander,190,115,75,Immigrants,2011 to 2021
+Gander,80,50,25,Non-permanent residents,0
+Corner Brook,28160,13615,14540,Non-immigrants,0
+Corner Brook,660,355,305,Immigrants,0
+Corner Brook,190,100,90,Immigrants,Before 1980
+Corner Brook,40,15,20,Immigrants,1980 to 1990
+Corner Brook,50,30,20,Immigrants,1991 to 2000
+Corner Brook,120,65,60,Immigrants,2001 to 2010
+Corner Brook,265,145,120,Immigrants,2011 to 2021
+Corner Brook,160,90,70,Non-permanent residents,0
+Charlottetown,64980,31235,33745,Non-immigrants,0
+Charlottetown,8380,4165,4215,Immigrants,0
+Charlottetown,1065,470,595,Immigrants,Before 1980
+Charlottetown,435,225,210,Immigrants,1980 to 1990
+Charlottetown,460,210,255,Immigrants,1991 to 2000
+Charlottetown,1235,615,625,Immigrants,2001 to 2010
+Charlottetown,5180,2655,2530,Immigrants,2011 to 2021
+Charlottetown,4020,2290,1730,Non-permanent residents,0
+Summerside,15965,7575,8385,Non-immigrants,0
+Summerside,1075,545,530,Immigrants,0
+Summerside,240,120,115,Immigrants,Before 1980
+Summerside,70,45,30,Immigrants,1980 to 1990
+Summerside,70,30,40,Immigrants,1991 to 2000
+Summerside,140,55,80,Immigrants,2001 to 2010
+Summerside,550,285,260,Immigrants,2011 to 2021
+Summerside,640,330,305,Non-permanent residents,0
+Halifax,392615,189995,202615,Non-immigrants,0
+Halifax,51485,25630,25855,Immigrants,0
+Halifax,8740,4180,4560,Immigrants,Before 1980
+Halifax,3550,1730,1820,Immigrants,1980 to 1990
+Halifax,4920,2400,2520,Immigrants,1991 to 2000
+Halifax,9175,4640,4535,Immigrants,2001 to 2010
+Halifax,25100,12675,12420,Immigrants,2011 to 2021
+Halifax,17040,9450,7590,Non-permanent residents,0
+Kentville,24830,11940,12885,Non-immigrants,0
+Kentville,1400,715,690,Immigrants,0
+Kentville,490,220,270,Immigrants,Before 1980
+Kentville,115,60,55,Immigrants,1980 to 1990
+Kentville,135,50,80,Immigrants,1991 to 2000
+Kentville,180,90,85,Immigrants,2001 to 2010
+Kentville,480,280,200,Immigrants,2011 to 2021
+Kentville,370,250,120,Non-permanent residents,0
+Truro,42640,20610,22030,Non-immigrants,0
+Truro,2090,1065,1030,Immigrants,0
+Truro,720,365,355,Immigrants,Before 1980
+Truro,185,90,90,Immigrants,1980 to 1990
+Truro,230,115,110,Immigrants,1991 to 2000
+Truro,320,155,165,Immigrants,2001 to 2010
+Truro,640,325,310,Immigrants,2011 to 2021
+Truro,590,285,300,Non-permanent residents,0
+New Glasgow,32645,15800,16840,Non-immigrants,0
+New Glasgow,985,480,495,Immigrants,0
+New Glasgow,375,175,205,Immigrants,Before 1980
+New Glasgow,50,20,35,Immigrants,1980 to 1990
+New Glasgow,70,30,40,Immigrants,1991 to 2000
+New Glasgow,140,70,65,Immigrants,2001 to 2010
+New Glasgow,345,190,155,Immigrants,2011 to 2021
+New Glasgow,155,95,60,Non-permanent residents,0
+Cape Breton,92120,43985,48135,Non-immigrants,0
+Cape Breton,2185,1085,1100,Immigrants,0
+Cape Breton,830,385,445,Immigrants,Before 1980
+Cape Breton,150,85,70,Immigrants,1980 to 1990
+Cape Breton,165,75,85,Immigrants,1991 to 2000
+Cape Breton,355,160,200,Immigrants,2001 to 2010
+Cape Breton,680,390,295,Immigrants,2011 to 2021
+Cape Breton,2335,1345,990,Non-permanent residents,0
+Moncton,136130,66255,69870,Non-immigrants,0
+Moncton,13345,6735,6610,Immigrants,0
+Moncton,1790,880,910,Immigrants,Before 1980
+Moncton,515,275,240,Immigrants,1980 to 1990
+Moncton,615,315,305,Immigrants,1991 to 2000
+Moncton,1905,915,990,Immigrants,2001 to 2010
+Moncton,8520,4345,4175,Immigrants,2011 to 2021
+Moncton,4775,2525,2250,Non-permanent residents,0
+Saint John,118110,57320,60795,Non-immigrants,0
+Saint John,8460,4160,4300,Immigrants,0
+Saint John,1985,945,1035,Immigrants,Before 1980
+Saint John,550,255,295,Immigrants,1980 to 1990
+Saint John,490,235,255,Immigrants,1991 to 2000
+Saint John,1205,580,620,Immigrants,2001 to 2010
+Saint John,4230,2135,2095,Immigrants,2011 to 2021
+Saint John,1815,1075,735,Non-permanent residents,0
+Fredericton,95865,46950,48915,Non-immigrants,0
+Fredericton,9510,4595,4915,Immigrants,0
+Fredericton,1725,740,985,Immigrants,Before 1980
+Fredericton,480,230,250,Immigrants,1980 to 1990
+Fredericton,805,360,445,Immigrants,1991 to 2000
+Fredericton,1625,820,805,Immigrants,2001 to 2010
+Fredericton,4880,2450,2430,Immigrants,2011 to 2021
+Fredericton,1790,955,835,Non-permanent residents,0
+Bathurst,29505,14495,15010,Non-immigrants,0
+Bathurst,755,375,380,Immigrants,0
+Bathurst,220,140,85,Immigrants,Before 1980
+Bathurst,50,15,30,Immigrants,1980 to 1990
+Bathurst,55,15,40,Immigrants,1991 to 2000
+Bathurst,115,55,55,Immigrants,2001 to 2010
+Bathurst,310,150,160,Immigrants,2011 to 2021
+Bathurst,290,200,90,Non-permanent residents,0
+Miramichi,26065,12620,13445,Non-immigrants,0
+Miramichi,865,400,465,Immigrants,0
+Miramichi,250,115,140,Immigrants,Before 1980
+Miramichi,65,35,35,Immigrants,1980 to 1990
+Miramichi,70,25,45,Immigrants,1991 to 2000
+Miramichi,145,65,75,Immigrants,2001 to 2010
+Miramichi,335,160,170,Immigrants,2011 to 2021
+Miramichi,110,45,60,Non-permanent residents,0
+Campbellton,12290,5975,6310,Non-immigrants,0
+Campbellton,290,180,105,Immigrants,0
+Campbellton,70,40,25,Immigrants,Before 1980
+Campbellton,0,0,0,Immigrants,1980 to 1990
+Campbellton,40,15,30,Immigrants,1991 to 2000
+Campbellton,40,30,15,Immigrants,2001 to 2010
+Campbellton,130,95,35,Immigrants,2011 to 2021
+Campbellton,75,40,35,Non-permanent residents,0
+Campbellton (New Brunswick part),10980,5330,5650,Non-immigrants,0
+Campbellton (New Brunswick part),275,175,105,Immigrants,0
+Campbellton (New Brunswick part),60,40,25,Immigrants,Before 1980
+Campbellton (New Brunswick part),0,0,0,Immigrants,1980 to 1990
+Campbellton (New Brunswick part),40,0,30,Immigrants,1991 to 2000
+Campbellton (New Brunswick part),40,30,15,Immigrants,2001 to 2010
+Campbellton (New Brunswick part),130,95,35,Immigrants,2011 to 2021
+Campbellton (New Brunswick part),75,40,35,Non-permanent residents,0
+Campbellton (Quebec part),1305,655,660,Non-immigrants,0
+Campbellton (Quebec part),10,10,0,Immigrants,0
+Campbellton (Quebec part),10,0,0,Immigrants,Before 1980
+Campbellton (Quebec part),0,0,0,Immigrants,1980 to 1990
+Campbellton (Quebec part),0,0,0,Immigrants,1991 to 2000
+Campbellton (Quebec part),0,0,0,Immigrants,2001 to 2010
+Campbellton (Quebec part),0,0,0,Immigrants,2011 to 2021
+Campbellton (Quebec part),0,0,0,Non-permanent residents,0
+Edmundston,19915,9700,10215,Non-immigrants,0
+Edmundston,715,325,390,Immigrants,0
+Edmundston,215,80,135,Immigrants,Before 1980
+Edmundston,35,20,15,Immigrants,1980 to 1990
+Edmundston,55,25,30,Immigrants,1991 to 2000
+Edmundston,100,45,50,Immigrants,2001 to 2010
+Edmundston,310,155,155,Immigrants,2011 to 2021
+Edmundston,295,195,105,Non-permanent residents,0
+Matane,17520,8715,8805,Non-immigrants,0
+Matane,215,95,115,Immigrants,0
+Matane,40,20,20,Immigrants,Before 1980
+Matane,20,10,10,Immigrants,1980 to 1990
+Matane,15,0,15,Immigrants,1991 to 2000
+Matane,75,50,30,Immigrants,2001 to 2010
+Matane,65,15,50,Immigrants,2011 to 2021
+Matane,290,190,100,Non-permanent residents,0
+Rimouski,50805,24730,26075,Non-immigrants,0
+Rimouski,1185,665,520,Immigrants,0
+Rimouski,110,75,35,Immigrants,Before 1980
+Rimouski,75,40,35,Immigrants,1980 to 1990
+Rimouski,165,85,80,Immigrants,1991 to 2000
+Rimouski,315,155,155,Immigrants,2001 to 2010
+Rimouski,520,310,210,Immigrants,2011 to 2021
+Rimouski,485,225,260,Non-permanent residents,0
+RiviÃ¨re-du-Loup,27805,13740,14070,Non-immigrants,0
+RiviÃ¨re-du-Loup,480,240,240,Immigrants,0
+RiviÃ¨re-du-Loup,45,15,25,Immigrants,Before 1980
+RiviÃ¨re-du-Loup,60,40,20,Immigrants,1980 to 1990
+RiviÃ¨re-du-Loup,40,15,25,Immigrants,1991 to 2000
+RiviÃ¨re-du-Loup,115,65,50,Immigrants,2001 to 2010
+RiviÃ¨re-du-Loup,220,100,115,Immigrants,2011 to 2021
+RiviÃ¨re-du-Loup,385,255,130,Non-permanent residents,0
+Baie-Comeau,25260,12755,12500,Non-immigrants,0
+Baie-Comeau,315,140,175,Immigrants,0
+Baie-Comeau,50,35,10,Immigrants,Before 1980
+Baie-Comeau,15,10,10,Immigrants,1980 to 1990
+Baie-Comeau,30,20,10,Immigrants,1991 to 2000
+Baie-Comeau,110,35,75,Immigrants,2001 to 2010
+Baie-Comeau,115,45,70,Immigrants,2011 to 2021
+Baie-Comeau,145,90,55,Non-permanent residents,0
+Saguenay,154185,77510,76675,Non-immigrants,0
+Saguenay,2065,1020,1045,Immigrants,0
+Saguenay,255,125,125,Immigrants,Before 1980
+Saguenay,140,50,90,Immigrants,1980 to 1990
+Saguenay,275,130,145,Immigrants,1991 to 2000
+Saguenay,630,335,290,Immigrants,2001 to 2010
+Saguenay,775,375,400,Immigrants,2011 to 2021
+Saguenay,1650,965,685,Non-permanent residents,0
+Alma,28955,14420,14535,Non-immigrants,0
+Alma,265,145,120,Immigrants,0
+Alma,60,35,25,Immigrants,Before 1980
+Alma,0,0,0,Immigrants,1980 to 1990
+Alma,15,10,10,Immigrants,1991 to 2000
+Alma,75,50,20,Immigrants,2001 to 2010
+Alma,120,50,65,Immigrants,2011 to 2021
+Alma,105,75,25,Non-permanent residents,0
+Dolbeau-Mistassini,14515,7320,7205,Non-immigrants,0
+Dolbeau-Mistassini,120,55,65,Immigrants,0
+Dolbeau-Mistassini,0,0,0,Immigrants,Before 1980
+Dolbeau-Mistassini,0,0,0,Immigrants,1980 to 1990
+Dolbeau-Mistassini,10,0,10,Immigrants,1991 to 2000
+Dolbeau-Mistassini,30,30,0,Immigrants,2001 to 2010
+Dolbeau-Mistassini,75,30,45,Immigrants,2011 to 2021
+Dolbeau-Mistassini,85,70,15,Non-permanent residents,0
+Sept-ÃŽles,26520,13285,13235,Non-immigrants,0
+Sept-ÃŽles,490,245,240,Immigrants,0
+Sept-ÃŽles,90,55,35,Immigrants,Before 1980
+Sept-ÃŽles,10,10,0,Immigrants,1980 to 1990
+Sept-ÃŽles,20,15,10,Immigrants,1991 to 2000
+Sept-ÃŽles,100,55,45,Immigrants,2001 to 2010
+Sept-ÃŽles,265,115,155,Immigrants,2011 to 2021
+Sept-ÃŽles,150,85,65,Non-permanent residents,0
+QuÃ©bec,746855,368115,378740,Non-immigrants,0
+QuÃ©bec,54855,27410,27450,Immigrants,0
+QuÃ©bec,4220,2360,1865,Immigrants,Before 1980
+QuÃ©bec,3090,1670,1425,Immigrants,1980 to 1990
+QuÃ©bec,5875,2885,2985,Immigrants,1991 to 2000
+QuÃ©bec,15545,7775,7765,Immigrants,2001 to 2010
+QuÃ©bec,26130,12720,13410,Immigrants,2011 to 2021
+QuÃ©bec,15395,8245,7145,Non-permanent residents,0
+Sainte-Marie,12115,6055,6060,Non-immigrants,0
+Sainte-Marie,315,165,155,Immigrants,0
+Sainte-Marie,45,30,15,Immigrants,Before 1980
+Sainte-Marie,25,0,25,Immigrants,1980 to 1990
+Sainte-Marie,10,0,0,Immigrants,1991 to 2000
+Sainte-Marie,120,70,50,Immigrants,2001 to 2010
+Sainte-Marie,120,55,65,Immigrants,2011 to 2021
+Sainte-Marie,210,140,70,Non-permanent residents,0
+Saint-Georges,32810,16365,16445,Non-immigrants,0
+Saint-Georges,615,325,290,Immigrants,0
+Saint-Georges,110,75,35,Immigrants,Before 1980
+Saint-Georges,40,10,30,Immigrants,1980 to 1990
+Saint-Georges,40,15,30,Immigrants,1991 to 2000
+Saint-Georges,95,50,45,Immigrants,2001 to 2010
+Saint-Georges,330,180,150,Immigrants,2011 to 2021
+Saint-Georges,565,350,220,Non-permanent residents,0
+Thetford Mines,25555,12650,12905,Non-immigrants,0
+Thetford Mines,470,230,240,Immigrants,0
+Thetford Mines,85,25,60,Immigrants,Before 1980
+Thetford Mines,80,50,35,Immigrants,1980 to 1990
+Thetford Mines,50,20,30,Immigrants,1991 to 2000
+Thetford Mines,110,75,30,Immigrants,2001 to 2010
+Thetford Mines,150,65,90,Immigrants,2011 to 2021
+Thetford Mines,400,260,140,Non-permanent residents,0
+Sherbrooke,199560,98095,101465,Non-immigrants,0
+Sherbrooke,16730,8515,8210,Immigrants,0
+Sherbrooke,1735,975,760,Immigrants,Before 1980
+Sherbrooke,985,490,495,Immigrants,1980 to 1990
+Sherbrooke,2245,1190,1060,Immigrants,1991 to 2000
+Sherbrooke,4515,2305,2205,Immigrants,2001 to 2010
+Sherbrooke,7245,3555,3690,Immigrants,2011 to 2021
+Sherbrooke,3815,2210,1600,Non-permanent residents,0
+Cowansville,13755,6700,7055,Non-immigrants,0
+Cowansville,485,200,285,Immigrants,0
+Cowansville,220,100,115,Immigrants,Before 1980
+Cowansville,50,15,35,Immigrants,1980 to 1990
+Cowansville,35,15,20,Immigrants,1991 to 2000
+Cowansville,100,30,70,Immigrants,2001 to 2010
+Cowansville,75,40,40,Immigrants,2011 to 2021
+Cowansville,45,35,15,Non-permanent residents,0
+Victoriaville,48565,23915,24645,Non-immigrants,0
+Victoriaville,1580,760,820,Immigrants,0
+Victoriaville,160,85,75,Immigrants,Before 1980
+Victoriaville,120,65,55,Immigrants,1980 to 1990
+Victoriaville,185,80,110,Immigrants,1991 to 2000
+Victoriaville,480,215,260,Immigrants,2001 to 2010
+Victoriaville,640,320,320,Immigrants,2011 to 2021
+Victoriaville,415,260,150,Non-permanent residents,0
+Trois-RiviÃ¨res,146760,72140,74625,Non-immigrants,0
+Trois-RiviÃ¨res,6360,3215,3145,Immigrants,0
+Trois-RiviÃ¨res,600,310,290,Immigrants,Before 1980
+Trois-RiviÃ¨res,400,215,190,Immigrants,1980 to 1990
+Trois-RiviÃ¨res,520,225,290,Immigrants,1991 to 2000
+Trois-RiviÃ¨res,1930,960,975,Immigrants,2001 to 2010
+Trois-RiviÃ¨res,2905,1505,1400,Immigrants,2011 to 2021
+Trois-RiviÃ¨res,2415,1375,1040,Non-permanent residents,0
+Shawinigan,46310,22840,23470,Non-immigrants,0
+Shawinigan,1015,505,505,Immigrants,0
+Shawinigan,115,65,50,Immigrants,Before 1980
+Shawinigan,95,55,40,Immigrants,1980 to 1990
+Shawinigan,90,35,55,Immigrants,1991 to 2000
+Shawinigan,270,120,145,Immigrants,2001 to 2010
+Shawinigan,445,235,210,Immigrants,2011 to 2021
+Shawinigan,320,210,110,Non-permanent residents,0
+Drummondville,93735,46820,46915,Non-immigrants,0
+Drummondville,3700,1975,1725,Immigrants,0
+Drummondville,350,210,140,Immigrants,Before 1980
+Drummondville,220,120,100,Immigrants,1980 to 1990
+Drummondville,405,195,210,Immigrants,1991 to 2000
+Drummondville,1025,545,480,Immigrants,2001 to 2010
+Drummondville,1705,905,800,Immigrants,2011 to 2021
+Drummondville,1130,745,385,Non-permanent residents,0
+Granby,83155,41070,42085,Non-immigrants,0
+Granby,4420,2285,2130,Immigrants,0
+Granby,725,395,330,Immigrants,Before 1980
+Granby,275,150,120,Immigrants,1980 to 1990
+Granby,475,235,240,Immigrants,1991 to 2000
+Granby,1310,675,635,Immigrants,2001 to 2010
+Granby,1630,830,800,Immigrants,2011 to 2021
+Granby,670,370,310,Non-permanent residents,0
+Saint-Hyacinthe,51915,25260,26655,Non-immigrants,0
+Saint-Hyacinthe,4295,2140,2155,Immigrants,0
+Saint-Hyacinthe,305,175,130,Immigrants,Before 1980
+Saint-Hyacinthe,105,60,45,Immigrants,1980 to 1990
+Saint-Hyacinthe,275,115,160,Immigrants,1991 to 2000
+Saint-Hyacinthe,1205,620,590,Immigrants,2001 to 2010
+Saint-Hyacinthe,2405,1175,1225,Immigrants,2011 to 2021
+Saint-Hyacinthe,1365,750,615,Non-permanent residents,0
+Sorel-Tracy,39275,19620,19655,Non-immigrants,0
+Sorel-Tracy,1020,485,535,Immigrants,0
+Sorel-Tracy,250,135,120,Immigrants,Before 1980
+Sorel-Tracy,110,55,55,Immigrants,1980 to 1990
+Sorel-Tracy,120,65,60,Immigrants,1991 to 2000
+Sorel-Tracy,250,95,155,Immigrants,2001 to 2010
+Sorel-Tracy,295,135,155,Immigrants,2011 to 2021
+Sorel-Tracy,160,95,70,Non-permanent residents,0
+Joliette,47725,22715,25015,Non-immigrants,0
+Joliette,2120,1035,1080,Immigrants,0
+Joliette,295,155,140,Immigrants,Before 1980
+Joliette,190,95,90,Immigrants,1980 to 1990
+Joliette,265,135,135,Immigrants,1991 to 2000
+Joliette,505,270,235,Immigrants,2001 to 2010
+Joliette,855,385,475,Immigrants,2011 to 2021
+Joliette,320,175,140,Non-permanent residents,0
+MontrÃ©al,3021825,1489185,1532640,Non-immigrants,0
+MontrÃ©al,1022940,494930,528015,Immigrants,0
+MontrÃ©al,161700,77950,83745,Immigrants,Before 1980
+MontrÃ©al,110220,54450,55775,Immigrants,1980 to 1990
+MontrÃ©al,166745,80125,86620,Immigrants,1991 to 2000
+MontrÃ©al,262345,126040,136310,Immigrants,2001 to 2010
+MontrÃ©al,321940,156365,165565,Immigrants,2011 to 2021
+MontrÃ©al,161680,87735,73945,Non-permanent residents,0
+Salaberry-de-Valleyfield,39740,19575,20165,Non-immigrants,0
+Salaberry-de-Valleyfield,1310,645,665,Immigrants,0
+Salaberry-de-Valleyfield,270,120,155,Immigrants,Before 1980
+Salaberry-de-Valleyfield,115,50,60,Immigrants,1980 to 1990
+Salaberry-de-Valleyfield,165,120,50,Immigrants,1991 to 2000
+Salaberry-de-Valleyfield,355,170,180,Immigrants,2001 to 2010
+Salaberry-de-Valleyfield,405,185,220,Immigrants,2011 to 2021
+Salaberry-de-Valleyfield,150,120,25,Non-permanent residents,0
+Sainte-Agathe-des-Monts,18240,8870,9375,Non-immigrants,0
+Sainte-Agathe-des-Monts,1085,565,525,Immigrants,0
+Sainte-Agathe-des-Monts,310,180,135,Immigrants,Before 1980
+Sainte-Agathe-des-Monts,100,35,65,Immigrants,1980 to 1990
+Sainte-Agathe-des-Monts,185,85,100,Immigrants,1991 to 2000
+Sainte-Agathe-des-Monts,235,150,80,Immigrants,2001 to 2010
+Sainte-Agathe-des-Monts,255,115,145,Immigrants,2011 to 2021
+Sainte-Agathe-des-Monts,85,55,30,Non-permanent residents,0
+Lachute,13030,6400,6625,Non-immigrants,0
+Lachute,320,155,165,Immigrants,0
+Lachute,130,70,60,Immigrants,Before 1980
+Lachute,50,30,25,Immigrants,1980 to 1990
+Lachute,30,25,10,Immigrants,1991 to 2000
+Lachute,60,20,45,Immigrants,2001 to 2010
+Lachute,50,20,30,Immigrants,2011 to 2021
+Lachute,15,15,0,Non-permanent residents,0
+Val-d'Or,32420,16465,15955,Non-immigrants,0
+Val-d'Or,735,365,370,Immigrants,0
+Val-d'Or,80,45,40,Immigrants,Before 1980
+Val-d'Or,35,20,20,Immigrants,1980 to 1990
+Val-d'Or,30,15,15,Immigrants,1991 to 2000
+Val-d'Or,125,75,55,Immigrants,2001 to 2010
+Val-d'Or,465,225,245,Immigrants,2011 to 2021
+Val-d'Or,265,165,95,Non-permanent residents,0
+Amos,17870,8930,8940,Non-immigrants,0
+Amos,235,135,95,Immigrants,0
+Amos,30,20,10,Immigrants,Before 1980
+Amos,25,10,15,Immigrants,1980 to 1990
+Amos,20,20,0,Immigrants,1991 to 2000
+Amos,40,30,15,Immigrants,2001 to 2010
+Amos,120,60,55,Immigrants,2011 to 2021
+Amos,110,65,45,Non-permanent residents,0
+Rouyn-Noranda,40110,20220,19890,Non-immigrants,0
+Rouyn-Noranda,750,390,360,Immigrants,0
+Rouyn-Noranda,120,40,75,Immigrants,Before 1980
+Rouyn-Noranda,25,20,10,Immigrants,1980 to 1990
+Rouyn-Noranda,45,15,30,Immigrants,1991 to 2000
+Rouyn-Noranda,205,115,90,Immigrants,2001 to 2010
+Rouyn-Noranda,365,205,160,Immigrants,2011 to 2021
+Rouyn-Noranda,425,280,140,Non-permanent residents,0
+Cornwall,54655,26820,27830,Non-immigrants,0
+Cornwall,4525,2130,2395,Immigrants,0
+Cornwall,1415,630,785,Immigrants,Before 1980
+Cornwall,395,210,185,Immigrants,1980 to 1990
+Cornwall,680,330,355,Immigrants,1991 to 2000
+Cornwall,905,430,480,Immigrants,2001 to 2010
+Cornwall,1135,540,590,Immigrants,2011 to 2021
+Cornwall,570,360,210,Non-permanent residents,0
+Hawkesbury,10980,5265,5720,Non-immigrants,0
+Hawkesbury,630,290,340,Immigrants,0
+Hawkesbury,155,60,95,Immigrants,Before 1980
+Hawkesbury,50,35,15,Immigrants,1980 to 1990
+Hawkesbury,95,50,45,Immigrants,1991 to 2000
+Hawkesbury,135,60,70,Immigrants,2001 to 2010
+Hawkesbury,195,80,105,Immigrants,2011 to 2021
+Hawkesbury,35,30,0,Non-permanent residents,0
+Hawkesbury (Quebec part),1770,875,895,Non-immigrants,0
+Hawkesbury (Quebec part),45,20,25,Immigrants,0
+Hawkesbury (Quebec part),0,0,0,Immigrants,Before 1980
+Hawkesbury (Quebec part),0,0,0,Immigrants,1980 to 1990
+Hawkesbury (Quebec part),0,0,0,Immigrants,1991 to 2000
+Hawkesbury (Quebec part),35,10,25,Immigrants,2001 to 2010
+Hawkesbury (Quebec part),0,0,0,Immigrants,2011 to 2021
+Hawkesbury (Quebec part),0,0,0,Non-permanent residents,0
+Hawkesbury (Ontario part),9215,4390,4820,Non-immigrants,0
+Hawkesbury (Ontario part),585,270,310,Immigrants,0
+Hawkesbury (Ontario part),155,60,95,Immigrants,Before 1980
+Hawkesbury (Ontario part),50,35,15,Immigrants,1980 to 1990
+Hawkesbury (Ontario part),95,50,40,Immigrants,1991 to 2000
+Hawkesbury (Ontario part),100,45,50,Immigrants,2001 to 2010
+Hawkesbury (Ontario part),185,80,105,Immigrants,2011 to 2021
+Hawkesbury (Ontario part),35,30,0,Non-permanent residents,0
+Ottawa - Gatineau,1115495,550335,565155,Non-immigrants,0
+Ottawa - Gatineau,313845,148710,165135,Immigrants,0
+Ottawa - Gatineau,49870,24210,25660,Immigrants,Before 1980
+Ottawa - Gatineau,34740,16445,18300,Immigrants,1980 to 1990
+Ottawa - Gatineau,60105,28080,32030,Immigrants,1991 to 2000
+Ottawa - Gatineau,70535,32250,38285,Immigrants,2001 to 2010
+Ottawa - Gatineau,98590,47725,50865,Immigrants,2011 to 2021
+Ottawa - Gatineau,35160,18375,16780,Non-permanent residents,0
+Ottawa - Gatineau (Quebec part),295560,145670,149885,Non-immigrants,0
+Ottawa - Gatineau (Quebec part),46785,22665,24115,Immigrants,0
+Ottawa - Gatineau (Quebec part),4125,2175,1950,Immigrants,Before 1980
+Ottawa - Gatineau (Quebec part),3895,1950,1940,Immigrants,1980 to 1990
+Ottawa - Gatineau (Quebec part),7340,3445,3895,Immigrants,1991 to 2000
+Ottawa - Gatineau (Quebec part),13055,6205,6850,Immigrants,2001 to 2010
+Ottawa - Gatineau (Quebec part),18370,8885,9480,Immigrants,2011 to 2021
+Ottawa - Gatineau (Quebec part),5360,2795,2560,Non-permanent residents,0
+Ottawa - Gatineau (Ontario part),819935,404665,415270,Non-immigrants,0
+Ottawa - Gatineau (Ontario part),267060,126045,141020,Immigrants,0
+Ottawa - Gatineau (Ontario part),45745,22035,23705,Immigrants,Before 1980
+Ottawa - Gatineau (Ontario part),30850,14490,16355,Immigrants,1980 to 1990
+Ottawa - Gatineau (Ontario part),52770,24630,28140,Immigrants,1991 to 2000
+Ottawa - Gatineau (Ontario part),57480,26045,31435,Immigrants,2001 to 2010
+Ottawa - Gatineau (Ontario part),80220,38835,41380,Immigrants,2011 to 2021
+Ottawa - Gatineau (Ontario part),29800,15580,14225,Non-permanent residents,0
+Brockville,27930,13435,14500,Non-immigrants,0
+Brockville,2860,1275,1575,Immigrants,0
+Brockville,1450,660,790,Immigrants,Before 1980
+Brockville,325,135,195,Immigrants,1980 to 1990
+Brockville,295,110,190,Immigrants,1991 to 2000
+Brockville,355,145,210,Immigrants,2001 to 2010
+Brockville,425,230,195,Immigrants,2011 to 2021
+Brockville,95,65,30,Non-permanent residents,0
+Pembroke,22060,10790,11275,Non-immigrants,0
+Pembroke,970,430,535,Immigrants,0
+Pembroke,435,215,220,Immigrants,Before 1980
+Pembroke,120,50,75,Immigrants,1980 to 1990
+Pembroke,145,70,80,Immigrants,1991 to 2000
+Pembroke,125,65,65,Immigrants,2001 to 2010
+Pembroke,135,40,95,Immigrants,2011 to 2021
+Pembroke,50,15,30,Non-permanent residents,0
+Petawawa,16125,8540,7590,Non-immigrants,0
+Petawawa,1065,455,610,Immigrants,0
+Petawawa,210,110,95,Immigrants,Before 1980
+Petawawa,110,30,80,Immigrants,1980 to 1990
+Petawawa,175,85,95,Immigrants,1991 to 2000
+Petawawa,285,120,160,Immigrants,2001 to 2010
+Petawawa,285,105,180,Immigrants,2011 to 2021
+Petawawa,100,60,45,Non-permanent residents,0
+Kingston,144460,70325,74130,Non-immigrants,0
+Kingston,20295,9495,10795,Immigrants,0
+Kingston,7700,3535,4165,Immigrants,Before 1980
+Kingston,2205,1080,1130,Immigrants,1980 to 1990
+Kingston,2465,1205,1260,Immigrants,1991 to 2000
+Kingston,3475,1655,1820,Immigrants,2001 to 2010
+Kingston,4450,2020,2435,Immigrants,2011 to 2021
+Kingston,3320,1695,1625,Non-permanent residents,0
+Belleville - Quinte West,99070,48920,50145,Non-immigrants,0
+Belleville - Quinte West,9065,4360,4705,Immigrants,0
+Belleville - Quinte West,3975,1910,2060,Immigrants,Before 1980
+Belleville - Quinte West,1000,500,500,Immigrants,1980 to 1990
+Belleville - Quinte West,1065,545,525,Immigrants,1991 to 2000
+Belleville - Quinte West,1470,700,775,Immigrants,2001 to 2010
+Belleville - Quinte West,1555,710,840,Immigrants,2011 to 2021
+Belleville - Quinte West,1115,550,570,Non-permanent residents,0
+Cobourg,17190,8035,9160,Non-immigrants,0
+Cobourg,2550,1195,1345,Immigrants,0
+Cobourg,1610,750,860,Immigrants,Before 1980
+Cobourg,290,140,150,Immigrants,1980 to 1990
+Cobourg,180,100,75,Immigrants,1991 to 2000
+Cobourg,170,70,100,Immigrants,2001 to 2010
+Cobourg,300,135,165,Immigrants,2011 to 2021
+Cobourg,40,15,30,Non-permanent residents,0
+Port Hope,15150,7385,7765,Non-immigrants,0
+Port Hope,1720,830,885,Immigrants,0
+Port Hope,1120,550,570,Immigrants,Before 1980
+Port Hope,195,85,105,Immigrants,1980 to 1990
+Port Hope,190,110,80,Immigrants,1991 to 2000
+Port Hope,150,65,90,Immigrants,2001 to 2010
+Port Hope,65,20,40,Immigrants,2011 to 2021
+Port Hope,15,10,0,Non-permanent residents,0
+Peterborough,113400,54735,58660,Non-immigrants,0
+Peterborough,10975,5240,5735,Immigrants,0
+Peterborough,4805,2290,2515,Immigrants,Before 1980
+Peterborough,1230,590,640,Immigrants,1980 to 1990
+Peterborough,1260,565,695,Immigrants,1991 to 2000
+Peterborough,1590,740,855,Immigrants,2001 to 2010
+Peterborough,2090,1055,1030,Immigrants,2011 to 2021
+Peterborough,1615,920,695,Non-permanent residents,0
+Kawartha Lakes,70930,35160,35770,Non-immigrants,0
+Kawartha Lakes,6100,2980,3125,Immigrants,0
+Kawartha Lakes,3760,1840,1925,Immigrants,Before 1980
+Kawartha Lakes,755,380,375,Immigrants,1980 to 1990
+Kawartha Lakes,610,285,320,Immigrants,1991 to 2000
+Kawartha Lakes,545,265,280,Immigrants,2001 to 2010
+Kawartha Lakes,430,205,230,Immigrants,2011 to 2021
+Kawartha Lakes,195,100,105,Non-permanent residents,0
+Centre Wellington,27085,13285,13800,Non-immigrants,0
+Centre Wellington,3450,1690,1760,Immigrants,0
+Centre Wellington,1695,845,850,Immigrants,Before 1980
+Centre Wellington,500,235,265,Immigrants,1980 to 1990
+Centre Wellington,425,190,230,Immigrants,1991 to 2000
+Centre Wellington,440,240,205,Immigrants,2001 to 2010
+Centre Wellington,395,185,215,Immigrants,2011 to 2021
+Centre Wellington,110,60,50,Non-permanent residents,0
+Oshawa,315710,155880,159835,Non-immigrants,0
+Oshawa,91815,43460,48355,Immigrants,0
+Oshawa,24140,11365,12775,Immigrants,Before 1980
+Oshawa,10625,4980,5650,Immigrants,1980 to 1990
+Oshawa,16420,7865,8550,Immigrants,1991 to 2000
+Oshawa,19475,9160,10310,Immigrants,2001 to 2010
+Oshawa,21150,10085,11070,Immigrants,2011 to 2021
+Oshawa,3880,2160,1715,Non-permanent residents,0
+Ingersoll,12485,6190,6295,Non-immigrants,0
+Ingersoll,1035,485,545,Immigrants,0
+Ingersoll,490,235,250,Immigrants,Before 1980
+Ingersoll,105,35,75,Immigrants,1980 to 1990
+Ingersoll,120,55,60,Immigrants,1991 to 2000
+Ingersoll,160,80,80,Immigrants,2001 to 2010
+Ingersoll,155,85,70,Immigrants,2011 to 2021
+Ingersoll,30,10,15,Non-permanent residents,0
+Toronto,3030045,1523055,1506995,Non-immigrants,0
+Toronto,2862850,1343200,1519655,Immigrants,0
+Toronto,473315,218520,254795,Immigrants,Before 1980
+Toronto,348930,166145,182790,Immigrants,1980 to 1990
+Toronto,634830,296180,338650,Immigrants,1991 to 2000
+Toronto,689395,321245,368150,Immigrants,2001 to 2010
+Toronto,716380,341105,375275,Immigrants,2011 to 2021
+Toronto,249980,133290,116690,Non-permanent residents,0
+Hamilton,561180,276500,284680,Non-immigrants,0
+Hamilton,197845,93805,104045,Immigrants,0
+Hamilton,56360,26310,30055,Immigrants,Before 1980
+Hamilton,22965,11125,11840,Immigrants,1980 to 1990
+Hamilton,33875,15970,17905,Immigrants,1991 to 2000
+Hamilton,38275,18045,20230,Immigrants,2001 to 2010
+Hamilton,46365,22355,24010,Immigrants,2011 to 2021
+Hamilton,14410,8030,6385,Non-permanent residents,0
+St. Catharines - Niagara,340945,167210,173735,Non-immigrants,0
+St. Catharines - Niagara,76300,35985,40320,Immigrants,0
+St. Catharines - Niagara,30160,14285,15880,Immigrants,Before 1980
+St. Catharines - Niagara,8680,4080,4605,Immigrants,1980 to 1990
+St. Catharines - Niagara,10590,4895,5700,Immigrants,1991 to 2000
+St. Catharines - Niagara,12470,5770,6700,Immigrants,2001 to 2010
+St. Catharines - Niagara,14400,6960,7445,Immigrants,2011 to 2021
+St. Catharines - Niagara,8235,4260,3970,Non-permanent residents,0
+Kitchener - Cambridge - Waterloo,399245,198830,200410,Non-immigrants,0
+Kitchener - Cambridge - Waterloo,146575,71600,74975,Immigrants,0
+Kitchener - Cambridge - Waterloo,28615,13895,14715,Immigrants,Before 1980
+Kitchener - Cambridge - Waterloo,16865,8390,8475,Immigrants,1980 to 1990
+Kitchener - Cambridge - Waterloo,25005,12225,12780,Immigrants,1991 to 2000
+Kitchener - Cambridge - Waterloo,31495,15035,16455,Immigrants,2001 to 2010
+Kitchener - Cambridge - Waterloo,44595,22055,22540,Immigrants,2011 to 2021
+Kitchener - Cambridge - Waterloo,22250,13165,9085,Non-permanent residents,0
+Brantford,120245,59250,60990,Non-immigrants,0
+Brantford,20230,9885,10345,Immigrants,0
+Brantford,6880,3375,3500,Immigrants,Before 1980
+Brantford,2580,1320,1260,Immigrants,1980 to 1990
+Brantford,3030,1435,1595,Immigrants,1991 to 2000
+Brantford,3590,1745,1850,Immigrants,2001 to 2010
+Brantford,4155,2010,2145,Immigrants,2011 to 2021
+Brantford,1435,820,610,Non-permanent residents,0
+Woodstock,38855,18975,19875,Non-immigrants,0
+Woodstock,6810,3355,3450,Immigrants,0
+Woodstock,2115,1065,1040,Immigrants,Before 1980
+Woodstock,735,380,355,Immigrants,1980 to 1990
+Woodstock,820,370,455,Immigrants,1991 to 2000
+Woodstock,1355,680,680,Immigrants,2001 to 2010
+Woodstock,1785,865,925,Immigrants,2011 to 2021
+Woodstock,285,190,95,Non-permanent residents,0
+Tillsonburg,15985,7685,8295,Non-immigrants,0
+Tillsonburg,2295,1070,1220,Immigrants,0
+Tillsonburg,1150,525,625,Immigrants,Before 1980
+Tillsonburg,410,225,185,Immigrants,1980 to 1990
+Tillsonburg,245,105,135,Immigrants,1991 to 2000
+Tillsonburg,255,130,125,Immigrants,2001 to 2010
+Tillsonburg,235,85,145,Immigrants,2011 to 2021
+Tillsonburg,20,15,0,Non-permanent residents,0
+Norfolk,58905,29270,29635,Non-immigrants,0
+Norfolk,7080,3440,3640,Immigrants,0
+Norfolk,3490,1650,1840,Immigrants,Before 1980
+Norfolk,1030,480,545,Immigrants,1980 to 1990
+Norfolk,900,450,450,Immigrants,1991 to 2000
+Norfolk,860,470,390,Immigrants,2001 to 2010
+Norfolk,800,390,410,Immigrants,2011 to 2021
+Norfolk,245,145,95,Non-permanent residents,0
+Guelph,123670,60890,62780,Non-immigrants,0
+Guelph,37100,17840,19265,Immigrants,0
+Guelph,8450,3935,4510,Immigrants,Before 1980
+Guelph,4315,2250,2070,Immigrants,1980 to 1990
+Guelph,6210,2955,3250,Immigrants,1991 to 2000
+Guelph,7645,3610,4035,Immigrants,2001 to 2010
+Guelph,10475,5080,5395,Immigrants,2011 to 2021
+Guelph,2715,1690,1020,Non-permanent residents,0
+Stratford,28625,13950,14675,Non-immigrants,0
+Stratford,3555,1670,1885,Immigrants,0
+Stratford,1565,760,805,Immigrants,Before 1980
+Stratford,530,230,295,Immigrants,1980 to 1990
+Stratford,405,175,235,Immigrants,1991 to 2000
+Stratford,405,180,225,Immigrants,2001 to 2010
+Stratford,655,330,325,Immigrants,2011 to 2021
+Stratford,300,185,115,Non-permanent residents,0
+London,400620,196520,204095,Non-immigrants,0
+London,115600,55485,60120,Immigrants,0
+London,27795,13055,14740,Immigrants,Before 1980
+London,13830,6750,7085,Immigrants,1980 to 1990
+London,17085,8215,8870,Immigrants,1991 to 2000
+London,22335,10445,11890,Immigrants,2001 to 2010
+London,34550,17015,17535,Immigrants,2011 to 2021
+London,19560,10655,8905,Non-permanent residents,0
+Chatham-Kent,92315,45690,46625,Non-immigrants,0
+Chatham-Kent,9245,4360,4885,Immigrants,0
+Chatham-Kent,3940,1810,2140,Immigrants,Before 1980
+Chatham-Kent,1245,605,645,Immigrants,1980 to 1990
+Chatham-Kent,1100,520,580,Immigrants,1991 to 2000
+Chatham-Kent,1520,715,805,Immigrants,2001 to 2010
+Chatham-Kent,1435,710,725,Immigrants,2011 to 2021
+Chatham-Kent,530,345,185,Non-permanent residents,0
+Windsor,309340,153905,155440,Non-immigrants,0
+Windsor,96910,46735,50170,Immigrants,0
+Windsor,23230,11085,12145,Immigrants,Before 1980
+Windsor,10365,5185,5170,Immigrants,1980 to 1990
+Windsor,17865,8685,9185,Immigrants,1991 to 2000
+Windsor,18355,8555,9800,Immigrants,2001 to 2010
+Windsor,27095,13225,13870,Immigrants,2011 to 2021
+Windsor,9255,5915,3340,Non-permanent residents,0
+Sarnia,84845,41940,42905,Non-immigrants,0
+Sarnia,10080,4585,5505,Immigrants,0
+Sarnia,5280,2405,2875,Immigrants,Before 1980
+Sarnia,1235,500,730,Immigrants,1980 to 1990
+Sarnia,905,425,480,Immigrants,1991 to 2000
+Sarnia,1250,595,655,Immigrants,2001 to 2010
+Sarnia,1415,650,760,Immigrants,2011 to 2021
+Sarnia,1365,845,515,Non-permanent residents,0
+Essa,20005,10175,9830,Non-immigrants,0
+Essa,2680,1235,1450,Immigrants,0
+Essa,765,385,380,Immigrants,Before 1980
+Essa,415,205,215,Immigrants,1980 to 1990
+Essa,550,260,290,Immigrants,1991 to 2000
+Essa,505,215,290,Immigrants,2001 to 2010
+Essa,445,175,270,Immigrants,2011 to 2021
+Essa,100,85,20,Non-permanent residents,0
+Wasaga Beach,20170,9800,10370,Non-immigrants,0
+Wasaga Beach,4280,2070,2205,Immigrants,0
+Wasaga Beach,2765,1360,1400,Immigrants,Before 1980
+Wasaga Beach,550,270,280,Immigrants,1980 to 1990
+Wasaga Beach,395,200,195,Immigrants,1991 to 2000
+Wasaga Beach,305,125,180,Immigrants,2001 to 2010
+Wasaga Beach,270,115,150,Immigrants,2011 to 2021
+Wasaga Beach,140,100,35,Non-permanent residents,0
+Owen Sound,29410,14240,15170,Non-immigrants,0
+Owen Sound,2340,1150,1190,Immigrants,0
+Owen Sound,1095,540,555,Immigrants,Before 1980
+Owen Sound,275,130,140,Immigrants,1980 to 1990
+Owen Sound,250,115,130,Immigrants,1991 to 2000
+Owen Sound,300,155,140,Immigrants,2001 to 2010
+Owen Sound,415,200,215,Immigrants,2011 to 2021
+Owen Sound,125,80,45,Non-permanent residents,0
+Collingwood,20950,10015,10935,Non-immigrants,0
+Collingwood,3205,1440,1770,Immigrants,0
+Collingwood,1635,720,915,Immigrants,Before 1980
+Collingwood,385,155,225,Immigrants,1980 to 1990
+Collingwood,320,170,150,Immigrants,1991 to 2000
+Collingwood,425,185,240,Immigrants,2001 to 2010
+Collingwood,440,200,240,Immigrants,2011 to 2021
+Collingwood,115,45,70,Non-permanent residents,0
+Barrie,171405,85185,86220,Non-immigrants,0
+Barrie,35340,16820,18525,Immigrants,0
+Barrie,10290,4810,5485,Immigrants,Before 1980
+Barrie,4385,2155,2235,Immigrants,1980 to 1990
+Barrie,5715,2600,3115,Immigrants,1991 to 2000
+Barrie,7005,3395,3615,Immigrants,2001 to 2010
+Barrie,7940,3860,4075,Immigrants,2011 to 2021
+Barrie,3410,1965,1440,Non-permanent residents,0
+Orillia,28970,13755,15220,Non-immigrants,0
+Orillia,3115,1380,1735,Immigrants,0
+Orillia,1460,645,820,Immigrants,Before 1980
+Orillia,375,185,190,Immigrants,1980 to 1990
+Orillia,400,150,250,Immigrants,1991 to 2000
+Orillia,405,170,235,Immigrants,2001 to 2010
+Orillia,475,230,240,Immigrants,2011 to 2021
+Orillia,185,80,100,Non-permanent residents,0
+Midland,24020,11600,12420,Non-immigrants,0
+Midland,2260,1060,1205,Immigrants,0
+Midland,1140,515,630,Immigrants,Before 1980
+Midland,290,170,125,Immigrants,1980 to 1990
+Midland,185,70,120,Immigrants,1991 to 2000
+Midland,320,155,165,Immigrants,2001 to 2010
+Midland,320,150,170,Immigrants,2011 to 2021
+Midland,80,20,60,Non-permanent residents,0
+North Bay,66260,32500,33760,Non-immigrants,0
+North Bay,3375,1555,1820,Immigrants,0
+North Bay,1535,725,815,Immigrants,Before 1980
+North Bay,380,190,195,Immigrants,1980 to 1990
+North Bay,385,155,230,Immigrants,1991 to 2000
+North Bay,505,210,295,Immigrants,2001 to 2010
+North Bay,565,270,290,Immigrants,2011 to 2021
+North Bay,535,325,210,Non-permanent residents,0
+Greater Sudbury / Grand Sudbury,154070,75985,78090,Non-immigrants,0
+Greater Sudbury / Grand Sudbury,9985,4765,5220,Immigrants,0
+Greater Sudbury / Grand Sudbury,4290,1955,2340,Immigrants,Before 1980
+Greater Sudbury / Grand Sudbury,750,350,400,Immigrants,1980 to 1990
+Greater Sudbury / Grand Sudbury,870,430,440,Immigrants,1991 to 2000
+Greater Sudbury / Grand Sudbury,1310,680,630,Immigrants,2001 to 2010
+Greater Sudbury / Grand Sudbury,2765,1355,1410,Immigrants,2011 to 2021
+Greater Sudbury / Grand Sudbury,3560,2035,1530,Non-permanent residents,0
+Elliot Lake,10030,4955,5075,Non-immigrants,0
+Elliot Lake,1180,550,630,Immigrants,0
+Elliot Lake,805,400,405,Immigrants,Before 1980
+Elliot Lake,180,75,105,Immigrants,1980 to 1990
+Elliot Lake,100,35,65,Immigrants,1991 to 2000
+Elliot Lake,55,20,40,Immigrants,2001 to 2010
+Elliot Lake,40,20,20,Immigrants,2011 to 2021
+Elliot Lake,15,10,0,Non-permanent residents,0
+Timmins,38290,19175,19115,Non-immigrants,0
+Timmins,1370,645,730,Immigrants,0
+Timmins,590,260,330,Immigrants,Before 1980
+Timmins,75,35,45,Immigrants,1980 to 1990
+Timmins,135,80,55,Immigrants,1991 to 2000
+Timmins,180,85,95,Immigrants,2001 to 2010
+Timmins,390,180,215,Immigrants,2011 to 2021
+Timmins,650,380,265,Non-permanent residents,0
+Sault Ste. Marie,68400,33355,35050,Non-immigrants,0
+Sault Ste. Marie,6095,2900,3200,Immigrants,0
+Sault Ste. Marie,4005,1870,2135,Immigrants,Before 1980
+Sault Ste. Marie,325,145,180,Immigrants,1980 to 1990
+Sault Ste. Marie,325,140,190,Immigrants,1991 to 2000
+Sault Ste. Marie,520,280,235,Immigrants,2001 to 2010
+Sault Ste. Marie,920,465,460,Immigrants,2011 to 2021
+Sault Ste. Marie,930,605,320,Non-permanent residents,0
+Thunder Bay,108275,53305,54970,Non-immigrants,0
+Thunder Bay,9980,4845,5130,Immigrants,0
+Thunder Bay,5300,2570,2725,Immigrants,Before 1980
+Thunder Bay,965,415,550,Immigrants,1980 to 1990
+Thunder Bay,835,400,435,Immigrants,1991 to 2000
+Thunder Bay,1155,585,570,Immigrants,2001 to 2010
+Thunder Bay,1730,880,850,Immigrants,2011 to 2021
+Thunder Bay,2710,1630,1075,Non-permanent residents,0
+Kenora,13855,6840,7015,Non-immigrants,0
+Kenora,640,300,340,Immigrants,0
+Kenora,315,145,170,Immigrants,Before 1980
+Kenora,75,35,40,Immigrants,1980 to 1990
+Kenora,60,15,40,Immigrants,1991 to 2000
+Kenora,65,40,25,Immigrants,2001 to 2010
+Kenora,130,60,65,Immigrants,2011 to 2021
+Kenora,115,70,45,Non-permanent residents,0
+Winnipeg,581540,287950,293595,Non-immigrants,0
+Winnipeg,207950,100875,107075,Immigrants,0
+Winnipeg,31370,14680,16690,Immigrants,Before 1980
+Winnipeg,18260,9125,9140,Immigrants,1980 to 1990
+Winnipeg,17770,8150,9620,Immigrants,1991 to 2000
+Winnipeg,50065,24425,25640,Immigrants,2001 to 2010
+Winnipeg,90485,44500,45985,Immigrants,2011 to 2021
+Winnipeg,30220,16970,13250,Non-permanent residents,0
+Winkler,23785,11795,11990,Non-immigrants,0
+Winkler,8155,4085,4070,Immigrants,0
+Winkler,1035,545,490,Immigrants,Before 1980
+Winkler,385,150,235,Immigrants,1980 to 1990
+Winkler,445,235,210,Immigrants,1991 to 2000
+Winkler,3280,1650,1625,Immigrants,2001 to 2010
+Winkler,3010,1505,1505,Immigrants,2011 to 2021
+Winkler,270,170,100,Non-permanent residents,0
+Steinbach,13585,6650,6935,Non-immigrants,0
+Steinbach,3745,1815,1925,Immigrants,0
+Steinbach,445,210,235,Immigrants,Before 1980
+Steinbach,200,110,95,Immigrants,1980 to 1990
+Steinbach,265,145,125,Immigrants,1991 to 2000
+Steinbach,1170,550,615,Immigrants,2001 to 2010
+Steinbach,1655,805,855,Immigrants,2011 to 2021
+Steinbach,255,110,140,Non-permanent residents,0
+Portage la Prairie,11420,5485,5930,Non-immigrants,0
+Portage la Prairie,1190,560,625,Immigrants,0
+Portage la Prairie,160,60,100,Immigrants,Before 1980
+Portage la Prairie,65,40,25,Immigrants,1980 to 1990
+Portage la Prairie,45,15,25,Immigrants,1991 to 2000
+Portage la Prairie,190,110,80,Immigrants,2001 to 2010
+Portage la Prairie,730,335,390,Immigrants,2011 to 2021
+Portage la Prairie,225,145,80,Non-permanent residents,0
+Brandon,42410,20690,21715,Non-immigrants,0
+Brandon,9180,4555,4630,Immigrants,0
+Brandon,575,270,310,Immigrants,Before 1980
+Brandon,315,180,135,Immigrants,1980 to 1990
+Brandon,390,180,210,Immigrants,1991 to 2000
+Brandon,2990,1465,1520,Immigrants,2001 to 2010
+Brandon,4915,2465,2450,Immigrants,2011 to 2021
+Brandon,1160,680,480,Non-permanent residents,0
+Thompson,10935,5465,5465,Non-immigrants,0
+Thompson,1730,875,855,Immigrants,0
+Thompson,150,85,65,Immigrants,Before 1980
+Thompson,110,75,35,Immigrants,1980 to 1990
+Thompson,80,30,50,Immigrants,1991 to 2000
+Thompson,350,165,185,Immigrants,2001 to 2010
+Thompson,1040,525,515,Immigrants,2011 to 2021
+Thompson,220,130,85,Non-permanent residents,0
+Regina,192745,94765,97980,Non-immigrants,0
+Regina,46050,22900,23155,Immigrants,0
+Regina,4045,2010,2035,Immigrants,Before 1980
+Regina,1935,980,955,Immigrants,1980 to 1990
+Regina,2785,1295,1495,Immigrants,1991 to 2000
+Regina,9340,4535,4805,Immigrants,2001 to 2010
+Regina,27945,14080,13870,Immigrants,2011 to 2021
+Regina,6155,3455,2700,Non-permanent residents,0
+Yorkton,17105,8395,8710,Non-immigrants,0
+Yorkton,2060,980,1075,Immigrants,0
+Yorkton,165,65,100,Immigrants,Before 1980
+Yorkton,50,30,20,Immigrants,1980 to 1990
+Yorkton,70,45,25,Immigrants,1991 to 2000
+Yorkton,410,170,235,Immigrants,2001 to 2010
+Yorkton,1360,665,700,Immigrants,2011 to 2021
+Yorkton,345,195,150,Non-permanent residents,0
+Moose Jaw,30475,15005,15465,Non-immigrants,0
+Moose Jaw,3110,1505,1610,Immigrants,0
+Moose Jaw,460,205,250,Immigrants,Before 1980
+Moose Jaw,165,95,75,Immigrants,1980 to 1990
+Moose Jaw,195,100,95,Immigrants,1991 to 2000
+Moose Jaw,575,255,320,Immigrants,2001 to 2010
+Moose Jaw,1715,840,875,Immigrants,2011 to 2021
+Moose Jaw,570,385,185,Non-permanent residents,0
+Swift Current,15685,7650,8040,Non-immigrants,0
+Swift Current,2135,1080,1055,Immigrants,0
+Swift Current,225,100,125,Immigrants,Before 1980
+Swift Current,65,40,20,Immigrants,1980 to 1990
+Swift Current,90,50,45,Immigrants,1991 to 2000
+Swift Current,450,260,195,Immigrants,2001 to 2010
+Swift Current,1305,635,665,Immigrants,2011 to 2021
+Swift Current,245,130,110,Non-permanent residents,0
+Saskatoon,249955,123055,126895,Non-immigrants,0
+Saskatoon,56070,27920,28155,Immigrants,0
+Saskatoon,4460,2145,2315,Immigrants,Before 1980
+Saskatoon,2600,1265,1330,Immigrants,1980 to 1990
+Saskatoon,3875,1840,2035,Immigrants,1991 to 2000
+Saskatoon,12775,6395,6380,Immigrants,2001 to 2010
+Saskatoon,32360,16265,16090,Immigrants,2011 to 2021
+Saskatoon,5490,2925,2565,Non-permanent residents,0
+North Battleford,16315,7755,8560,Non-immigrants,0
+North Battleford,2190,1070,1120,Immigrants,0
+North Battleford,180,75,105,Immigrants,Before 1980
+North Battleford,90,45,40,Immigrants,1980 to 1990
+North Battleford,90,50,40,Immigrants,1991 to 2000
+North Battleford,500,250,245,Immigrants,2001 to 2010
+North Battleford,1330,645,685,Immigrants,2011 to 2021
+North Battleford,280,120,155,Non-permanent residents,0
+Prince Albert,39120,18870,20250,Non-immigrants,0
+Prince Albert,3700,1845,1850,Immigrants,0
+Prince Albert,305,155,145,Immigrants,Before 1980
+Prince Albert,145,100,45,Immigrants,1980 to 1990
+Prince Albert,155,75,75,Immigrants,1991 to 2000
+Prince Albert,695,305,385,Immigrants,2001 to 2010
+Prince Albert,2400,1200,1205,Immigrants,2011 to 2021
+Prince Albert,515,310,200,Non-permanent residents,0
+Estevan,11075,5645,5430,Non-immigrants,0
+Estevan,1350,645,700,Immigrants,0
+Estevan,75,45,30,Immigrants,Before 1980
+Estevan,25,0,25,Immigrants,1980 to 1990
+Estevan,75,35,40,Immigrants,1991 to 2000
+Estevan,275,150,130,Immigrants,2001 to 2010
+Estevan,890,415,475,Immigrants,2011 to 2021
+Estevan,130,85,45,Non-permanent residents,0
+Weyburn,10500,5115,5385,Non-immigrants,0
+Weyburn,1230,630,600,Immigrants,0
+Weyburn,125,70,60,Immigrants,Before 1980
+Weyburn,40,15,20,Immigrants,1980 to 1990
+Weyburn,40,20,20,Immigrants,1991 to 2000
+Weyburn,205,110,90,Immigrants,2001 to 2010
+Weyburn,820,410,410,Immigrants,2011 to 2021
+Weyburn,90,55,35,Non-permanent residents,0
+Medicine Hat,66665,32875,33790,Non-immigrants,0
+Medicine Hat,7225,3645,3580,Immigrants,0
+Medicine Hat,1590,790,800,Immigrants,Before 1980
+Medicine Hat,515,245,270,Immigrants,1980 to 1990
+Medicine Hat,870,445,425,Immigrants,1991 to 2000
+Medicine Hat,1480,790,695,Immigrants,2001 to 2010
+Medicine Hat,2765,1370,1395,Immigrants,2011 to 2021
+Medicine Hat,700,325,375,Non-permanent residents,0
+Brooks,8860,4535,4325,Non-immigrants,0
+Brooks,5435,2790,2645,Immigrants,0
+Brooks,190,85,105,Immigrants,Before 1980
+Brooks,190,110,75,Immigrants,1980 to 1990
+Brooks,330,210,125,Immigrants,1991 to 2000
+Brooks,1065,550,515,Immigrants,2001 to 2010
+Brooks,3660,1835,1825,Immigrants,2011 to 2021
+Brooks,350,280,70,Non-permanent residents,0
+Lethbridge,101375,50375,51005,Non-immigrants,0
+Lethbridge,17380,8545,8840,Immigrants,0
+Lethbridge,4070,1965,2105,Immigrants,Before 1980
+Lethbridge,1435,745,690,Immigrants,1980 to 1990
+Lethbridge,1555,695,855,Immigrants,1991 to 2000
+Lethbridge,3645,1840,1800,Immigrants,2001 to 2010
+Lethbridge,6680,3300,3385,Immigrants,2011 to 2021
+Lethbridge,1735,905,830,Non-permanent residents,0
+Okotoks,25925,12925,13000,Non-immigrants,0
+Okotoks,3990,1870,2130,Immigrants,0
+Okotoks,835,355,480,Immigrants,Before 1980
+Okotoks,410,190,220,Immigrants,1980 to 1990
+Okotoks,350,160,185,Immigrants,1991 to 2000
+Okotoks,1055,540,515,Immigrants,2001 to 2010
+Okotoks,1345,615,725,Immigrants,2011 to 2021
+Okotoks,100,70,35,Non-permanent residents,0
+High River,11315,5565,5745,Non-immigrants,0
+High River,2650,1280,1370,Immigrants,0
+High River,450,205,245,Immigrants,Before 1980
+High River,140,65,75,Immigrants,1980 to 1990
+High River,160,70,95,Immigrants,1991 to 2000
+High River,310,165,145,Immigrants,2001 to 2010
+High River,1590,775,810,Immigrants,2011 to 2021
+High River,150,100,50,Non-permanent residents,0
+Calgary,976430,492820,483615,Non-immigrants,0
+Calgary,460875,221635,239240,Immigrants,0
+Calgary,53400,25920,27480,Immigrants,Before 1980
+Calgary,43715,21400,22310,Immigrants,1980 to 1990
+Calgary,65945,31675,34280,Immigrants,1991 to 2000
+Calgary,124645,59840,64800,Immigrants,2001 to 2010
+Calgary,173170,82800,90365,Immigrants,2011 to 2021
+Calgary,27865,14575,13285,Non-permanent residents,0
+Strathmore,12730,6230,6500,Non-immigrants,0
+Strathmore,1250,590,665,Immigrants,0
+Strathmore,345,180,170,Immigrants,Before 1980
+Strathmore,105,30,70,Immigrants,1980 to 1990
+Strathmore,125,65,65,Immigrants,1991 to 2000
+Strathmore,260,130,130,Immigrants,2001 to 2010
+Strathmore,420,190,230,Immigrants,2011 to 2021
+Strathmore,130,70,55,Non-permanent residents,0
+Canmore,11705,5735,5970,Non-immigrants,0
+Canmore,3265,1660,1605,Immigrants,0
+Canmore,645,340,305,Immigrants,Before 1980
+Canmore,265,125,135,Immigrants,1980 to 1990
+Canmore,350,140,210,Immigrants,1991 to 2000
+Canmore,665,380,290,Immigrants,2001 to 2010
+Canmore,1340,670,675,Immigrants,2011 to 2021
+Canmore,550,265,280,Non-permanent residents,0
+Red Deer,80665,39980,40690,Non-immigrants,0
+Red Deer,16540,7920,8615,Immigrants,0
+Red Deer,1770,795,980,Immigrants,Before 1980
+Red Deer,1170,590,585,Immigrants,1980 to 1990
+Red Deer,1390,705,685,Immigrants,1991 to 2000
+Red Deer,3870,1840,2030,Immigrants,2001 to 2010
+Red Deer,8325,3995,4340,Immigrants,2011 to 2021
+Red Deer,840,395,445,Non-permanent residents,0
+Sylvan Lake,15285,7620,7670,Non-immigrants,0
+Sylvan Lake,1070,495,575,Immigrants,0
+Sylvan Lake,235,100,135,Immigrants,Before 1980
+Sylvan Lake,95,35,55,Immigrants,1980 to 1990
+Sylvan Lake,125,65,55,Immigrants,1991 to 2000
+Sylvan Lake,250,95,150,Immigrants,2001 to 2010
+Sylvan Lake,365,195,175,Immigrants,2011 to 2021
+Sylvan Lake,80,30,50,Non-permanent residents,0
+Lacombe,11410,5570,5840,Non-immigrants,0
+Lacombe,1555,700,855,Immigrants,0
+Lacombe,290,125,165,Immigrants,Before 1980
+Lacombe,125,45,80,Immigrants,1980 to 1990
+Lacombe,140,80,65,Immigrants,1991 to 2000
+Lacombe,270,120,150,Immigrants,2001 to 2010
+Lacombe,725,330,395,Immigrants,2011 to 2021
+Lacombe,100,45,60,Non-permanent residents,0
+Camrose,16145,7770,8380,Non-immigrants,0
+Camrose,1860,885,980,Immigrants,0
+Camrose,350,200,155,Immigrants,Before 1980
+Camrose,110,45,65,Immigrants,1980 to 1990
+Camrose,150,55,90,Immigrants,1991 to 2000
+Camrose,225,95,135,Immigrants,2001 to 2010
+Camrose,1020,490,530,Immigrants,2011 to 2021
+Camrose,180,110,65,Non-permanent residents,0
+Edmonton,1008260,506940,501320,Non-immigrants,0
+Edmonton,363910,175900,188010,Immigrants,0
+Edmonton,47660,23575,24085,Immigrants,Before 1980
+Edmonton,36605,17975,18630,Immigrants,1980 to 1990
+Edmonton,45840,21345,24490,Immigrants,1991 to 2000
+Edmonton,84305,40770,43535,Immigrants,2001 to 2010
+Edmonton,149505,72235,77270,Immigrants,2011 to 2021
+Edmonton,25580,13470,12110,Non-permanent residents,0
+Lloydminster,31030,15715,15315,Non-immigrants,0
+Lloydminster,4620,2190,2430,Immigrants,0
+Lloydminster,225,105,120,Immigrants,Before 1980
+Lloydminster,145,60,85,Immigrants,1980 to 1990
+Lloydminster,225,90,130,Immigrants,1991 to 2000
+Lloydminster,1120,570,555,Immigrants,2001 to 2010
+Lloydminster,2910,1365,1540,Immigrants,2011 to 2021
+Lloydminster,270,155,115,Non-permanent residents,0
+Lloydminster (Saskatchewan part),14120,7230,6895,Non-immigrants,0
+Lloydminster (Saskatchewan part),2480,1180,1300,Immigrants,0
+Lloydminster (Saskatchewan part),80,35,50,Immigrants,Before 1980
+Lloydminster (Saskatchewan part),35,15,25,Immigrants,1980 to 1990
+Lloydminster (Saskatchewan part),45,20,25,Immigrants,1991 to 2000
+Lloydminster (Saskatchewan part),580,290,290,Immigrants,2001 to 2010
+Lloydminster (Saskatchewan part),1735,830,910,Immigrants,2011 to 2021
+Lloydminster (Saskatchewan part),90,45,45,Non-permanent residents,0
+Lloydminster (Alberta part),16905,8490,8420,Non-immigrants,0
+Lloydminster (Alberta part),2140,1010,1125,Immigrants,0
+Lloydminster (Alberta part),145,70,75,Immigrants,Before 1980
+Lloydminster (Alberta part),105,45,55,Immigrants,1980 to 1990
+Lloydminster (Alberta part),175,75,100,Immigrants,1991 to 2000
+Lloydminster (Alberta part),540,280,260,Immigrants,2001 to 2010
+Lloydminster (Alberta part),1170,540,635,Immigrants,2011 to 2021
+Lloydminster (Alberta part),185,105,75,Non-permanent residents,0
+Grande Prairie,53815,27505,26305,Non-immigrants,0
+Grande Prairie,8360,3960,4400,Immigrants,0
+Grande Prairie,710,365,345,Immigrants,Before 1980
+Grande Prairie,455,215,240,Immigrants,1980 to 1990
+Grande Prairie,810,430,385,Immigrants,1991 to 2000
+Grande Prairie,1510,685,830,Immigrants,2001 to 2010
+Grande Prairie,4865,2270,2600,Immigrants,2011 to 2021
+Grande Prairie,1000,510,490,Non-permanent residents,0
+Wood Buffalo,57005,30340,26665,Non-immigrants,0
+Wood Buffalo,15425,7735,7685,Immigrants,0
+Wood Buffalo,650,405,245,Immigrants,Before 1980
+Wood Buffalo,615,330,280,Immigrants,1980 to 1990
+Wood Buffalo,1550,905,645,Immigrants,1991 to 2000
+Wood Buffalo,4530,2325,2210,Immigrants,2001 to 2010
+Wood Buffalo,8080,3760,4310,Immigrants,2011 to 2021
+Wood Buffalo,865,435,430,Non-permanent residents,0
+Wetaskiwin,10420,5040,5380,Non-immigrants,0
+Wetaskiwin,1595,800,795,Immigrants,0
+Wetaskiwin,350,170,180,Immigrants,Before 1980
+Wetaskiwin,140,50,90,Immigrants,1980 to 1990
+Wetaskiwin,175,115,65,Immigrants,1991 to 2000
+Wetaskiwin,310,145,160,Immigrants,2001 to 2010
+Wetaskiwin,625,320,305,Immigrants,2011 to 2021
+Wetaskiwin,100,65,35,Non-permanent residents,0
+Cranbrook,23590,11730,11855,Non-immigrants,0
+Cranbrook,2320,1110,1210,Immigrants,0
+Cranbrook,970,485,485,Immigrants,Before 1980
+Cranbrook,215,95,120,Immigrants,1980 to 1990
+Cranbrook,225,75,150,Immigrants,1991 to 2000
+Cranbrook,340,180,165,Immigrants,2001 to 2010
+Cranbrook,565,275,290,Immigrants,2011 to 2021
+Cranbrook,390,190,195,Non-permanent residents,0
+Nelson,15720,7775,7950,Non-immigrants,0
+Nelson,2565,1265,1300,Immigrants,0
+Nelson,955,500,455,Immigrants,Before 1980
+Nelson,215,95,115,Immigrants,1980 to 1990
+Nelson,240,110,135,Immigrants,1991 to 2000
+Nelson,495,245,250,Immigrants,2001 to 2010
+Nelson,665,320,345,Immigrants,2011 to 2021
+Nelson,425,220,205,Non-permanent residents,0
+Trail,12570,6275,6300,Non-immigrants,0
+Trail,1075,480,600,Immigrants,0
+Trail,575,290,285,Immigrants,Before 1980
+Trail,120,45,80,Immigrants,1980 to 1990
+Trail,115,35,85,Immigrants,1991 to 2000
+Trail,95,30,60,Immigrants,2001 to 2010
+Trail,180,85,90,Immigrants,2011 to 2021
+Trail,210,120,85,Non-permanent residents,0
+Penticton,39620,19120,20505,Non-immigrants,0
+Penticton,6135,2770,3355,Immigrants,0
+Penticton,2950,1275,1675,Immigrants,Before 1980
+Penticton,750,345,400,Immigrants,1980 to 1990
+Penticton,710,300,410,Immigrants,1991 to 2000
+Penticton,695,330,370,Immigrants,2001 to 2010
+Penticton,1030,525,505,Immigrants,2011 to 2021
+Penticton,405,175,230,Non-permanent residents,0
+Kelowna,182660,89820,92850,Non-immigrants,0
+Kelowna,31575,14830,16745,Immigrants,0
+Kelowna,10415,4895,5520,Immigrants,Before 1980
+Kelowna,3545,1635,1905,Immigrants,1980 to 1990
+Kelowna,4175,1865,2310,Immigrants,1991 to 2000
+Kelowna,5850,2780,3070,Immigrants,2001 to 2010
+Kelowna,7595,3655,3940,Immigrants,2011 to 2021
+Kelowna,4290,2235,2055,Non-permanent residents,0
+Vernon,56995,27785,29205,Non-immigrants,0
+Vernon,7825,3615,4205,Immigrants,0
+Vernon,3345,1575,1770,Immigrants,Before 1980
+Vernon,845,370,475,Immigrants,1980 to 1990
+Vernon,830,400,430,Immigrants,1991 to 2000
+Vernon,1430,640,790,Immigrants,2001 to 2010
+Vernon,1370,625,750,Immigrants,2011 to 2021
+Vernon,510,255,255,Non-permanent residents,0
+Salmon Arm,16855,8105,8750,Non-immigrants,0
+Salmon Arm,1915,850,1060,Immigrants,0
+Salmon Arm,860,385,480,Immigrants,Before 1980
+Salmon Arm,160,70,95,Immigrants,1980 to 1990
+Salmon Arm,240,95,145,Immigrants,1991 to 2000
+Salmon Arm,260,130,135,Immigrants,2001 to 2010
+Salmon Arm,390,175,220,Immigrants,2011 to 2021
+Salmon Arm,125,75,45,Non-permanent residents,0
+Kamloops,96970,48050,48920,Non-immigrants,0
+Kamloops,10825,5195,5625,Immigrants,0
+Kamloops,4240,2035,2205,Immigrants,Before 1980
+Kamloops,1095,505,585,Immigrants,1980 to 1990
+Kamloops,1235,585,650,Immigrants,1991 to 2000
+Kamloops,1650,755,895,Immigrants,2001 to 2010
+Kamloops,2605,1310,1290,Immigrants,2011 to 2021
+Kamloops,2750,1530,1225,Non-permanent residents,0
+Chilliwack,94570,46840,47730,Non-immigrants,0
+Chilliwack,16195,7605,8590,Immigrants,0
+Chilliwack,5655,2635,3020,Immigrants,Before 1980
+Chilliwack,1930,920,1015,Immigrants,1980 to 1990
+Chilliwack,2265,1015,1250,Immigrants,1991 to 2000
+Chilliwack,2930,1425,1510,Immigrants,2001 to 2010
+Chilliwack,3415,1615,1795,Immigrants,2011 to 2021
+Chilliwack,795,420,370,Non-permanent residents,0
+Abbotsford - Mission,136190,68345,67850,Non-immigrants,0
+Abbotsford - Mission,50085,24040,26045,Immigrants,0
+Abbotsford - Mission,8765,4280,4485,Immigrants,Before 1980
+Abbotsford - Mission,5455,2665,2790,Immigrants,1980 to 1990
+Abbotsford - Mission,9805,4535,5270,Immigrants,1991 to 2000
+Abbotsford - Mission,12830,6165,6660,Immigrants,2001 to 2010
+Abbotsford - Mission,13230,6390,6840,Immigrants,2011 to 2021
+Abbotsford - Mission,5840,3255,2585,Non-permanent residents,0
+Vancouver,1384550,702470,682080,Non-immigrants,0
+Vancouver,1089185,507280,581900,Immigrants,0
+Vancouver,158270,75060,83210,Immigrants,Before 1980
+Vancouver,126870,59335,67530,Immigrants,1980 to 1990
+Vancouver,255475,117730,137750,Immigrants,1991 to 2000
+Vancouver,259830,119250,140585,Immigrants,2001 to 2010
+Vancouver,288735,135905,152830,Immigrants,2011 to 2021
+Vancouver,133275,67495,65785,Non-permanent residents,0
+Squamish,18495,9370,9125,Non-immigrants,0
+Squamish,4775,2365,2415,Immigrants,0
+Squamish,1020,520,500,Immigrants,Before 1980
+Squamish,390,165,220,Immigrants,1980 to 1990
+Squamish,730,360,375,Immigrants,1991 to 2000
+Squamish,805,365,435,Immigrants,2001 to 2010
+Squamish,1840,955,885,Immigrants,2011 to 2021
+Squamish,685,395,290,Non-permanent residents,0
+Victoria,306395,149770,156625,Non-immigrants,0
+Victoria,73345,33955,39385,Immigrants,0
+Victoria,25145,11620,13525,Immigrants,Before 1980
+Victoria,8235,3975,4260,Immigrants,1980 to 1990
+Victoria,9595,4290,5305,Immigrants,1991 to 2000
+Victoria,12675,5755,6925,Immigrants,2001 to 2010
+Victoria,17700,8320,9380,Immigrants,2011 to 2021
+Victoria,8730,4420,4310,Non-permanent residents,0
+Ladysmith,13440,6650,6790,Non-immigrants,0
+Ladysmith,1710,795,915,Immigrants,0
+Ladysmith,1040,460,580,Immigrants,Before 1980
+Ladysmith,160,75,90,Immigrants,1980 to 1990
+Ladysmith,165,95,70,Immigrants,1991 to 2000
+Ladysmith,245,135,110,Immigrants,2001 to 2010
+Ladysmith,100,30,70,Immigrants,2011 to 2021
+Ladysmith,80,35,45,Non-permanent residents,0
+Duncan,40330,19600,20730,Non-immigrants,0
+Duncan,5835,2720,3110,Immigrants,0
+Duncan,2955,1415,1545,Immigrants,Before 1980
+Duncan,705,295,410,Immigrants,1980 to 1990
+Duncan,475,245,230,Immigrants,1991 to 2000
+Duncan,715,335,380,Immigrants,2001 to 2010
+Duncan,985,430,550,Immigrants,2011 to 2021
+Duncan,275,120,155,Non-permanent residents,0
+Nanaimo,93330,45930,47400,Non-immigrants,0
+Nanaimo,17195,7995,9200,Immigrants,0
+Nanaimo,6480,3120,3360,Immigrants,Before 1980
+Nanaimo,1950,880,1065,Immigrants,1980 to 1990
+Nanaimo,1940,820,1115,Immigrants,1991 to 2000
+Nanaimo,2845,1350,1490,Immigrants,2001 to 2010
+Nanaimo,3980,1820,2165,Immigrants,2011 to 2021
+Nanaimo,1885,905,975,Non-permanent residents,0
+Parksville,24565,11515,13050,Non-immigrants,0
+Parksville,5325,2410,2910,Immigrants,0
+Parksville,3530,1640,1885,Immigrants,Before 1980
+Parksville,560,245,315,Immigrants,1980 to 1990
+Parksville,305,105,195,Immigrants,1991 to 2000
+Parksville,475,195,280,Immigrants,2001 to 2010
+Parksville,455,220,235,Immigrants,2011 to 2021
+Parksville,125,50,75,Non-permanent residents,0
+Port Alberni,22905,11300,11610,Non-immigrants,0
+Port Alberni,2365,1140,1225,Immigrants,0
+Port Alberni,1490,765,730,Immigrants,Before 1980
+Port Alberni,235,100,130,Immigrants,1980 to 1990
+Port Alberni,145,50,90,Immigrants,1991 to 2000
+Port Alberni,200,95,100,Immigrants,2001 to 2010
+Port Alberni,300,125,170,Immigrants,2011 to 2021
+Port Alberni,105,55,50,Non-permanent residents,0
+Courtenay,53470,25855,27620,Non-immigrants,0
+Courtenay,8005,3695,4305,Immigrants,0
+Courtenay,4015,1825,2185,Immigrants,Before 1980
+Courtenay,965,440,525,Immigrants,1980 to 1990
+Courtenay,755,370,385,Immigrants,1991 to 2000
+Courtenay,990,450,540,Immigrants,2001 to 2010
+Courtenay,1275,615,660,Immigrants,2011 to 2021
+Courtenay,550,225,330,Non-permanent residents,0
+Campbell River,35595,17770,17835,Non-immigrants,0
+Campbell River,4105,1885,2220,Immigrants,0
+Campbell River,1970,910,1060,Immigrants,Before 1980
+Campbell River,430,175,255,Immigrants,1980 to 1990
+Campbell River,405,130,275,Immigrants,1991 to 2000
+Campbell River,515,260,255,Immigrants,2001 to 2010
+Campbell River,790,410,375,Immigrants,2011 to 2021
+Campbell River,230,120,110,Non-permanent residents,0
+Powell River,15090,7495,7590,Non-immigrants,0
+Powell River,2275,970,1305,Immigrants,0
+Powell River,1270,575,695,Immigrants,Before 1980
+Powell River,275,120,160,Immigrants,1980 to 1990
+Powell River,145,40,100,Immigrants,1991 to 2000
+Powell River,190,40,145,Immigrants,2001 to 2010
+Powell River,400,195,205,Immigrants,2011 to 2021
+Powell River,100,40,60,Non-permanent residents,0
+Williams Lake,21160,10685,10475,Non-immigrants,0
+Williams Lake,1990,965,1025,Immigrants,0
+Williams Lake,905,470,435,Immigrants,Before 1980
+Williams Lake,165,75,90,Immigrants,1980 to 1990
+Williams Lake,245,95,145,Immigrants,1991 to 2000
+Williams Lake,225,120,100,Immigrants,2001 to 2010
+Williams Lake,455,205,250,Immigrants,2011 to 2021
+Williams Lake,190,100,95,Non-permanent residents,0
+Quesnel,21150,10750,10400,Non-immigrants,0
+Quesnel,1650,755,900,Immigrants,0
+Quesnel,875,440,435,Immigrants,Before 1980
+Quesnel,170,75,100,Immigrants,1980 to 1990
+Quesnel,120,50,70,Immigrants,1991 to 2000
+Quesnel,205,80,130,Immigrants,2001 to 2010
+Quesnel,275,110,170,Immigrants,2011 to 2021
+Quesnel,100,40,65,Non-permanent residents,0
+Prince Rupert,11380,5895,5490,Non-immigrants,0
+Prince Rupert,1620,795,820,Immigrants,0
+Prince Rupert,475,255,220,Immigrants,Before 1980
+Prince Rupert,260,150,110,Immigrants,1980 to 1990
+Prince Rupert,225,110,115,Immigrants,1991 to 2000
+Prince Rupert,250,95,160,Immigrants,2001 to 2010
+Prince Rupert,410,190,215,Immigrants,2011 to 2021
+Prince Rupert,295,180,110,Non-permanent residents,0
+Terrace,17435,8750,8690,Non-immigrants,0
+Terrace,1640,775,860,Immigrants,0
+Terrace,825,405,415,Immigrants,Before 1980
+Terrace,180,90,95,Immigrants,1980 to 1990
+Terrace,185,70,110,Immigrants,1991 to 2000
+Terrace,145,70,75,Immigrants,2001 to 2010
+Terrace,310,140,170,Immigrants,2011 to 2021
+Terrace,440,285,150,Non-permanent residents,0
+Prince George,77685,39035,38645,Non-immigrants,0
+Prince George,8495,3970,4530,Immigrants,0
+Prince George,3025,1480,1545,Immigrants,Before 1980
+Prince George,910,395,510,Immigrants,1980 to 1990
+Prince George,1025,445,580,Immigrants,1991 to 2000
+Prince George,1155,510,645,Immigrants,2001 to 2010
+Prince George,2385,1140,1245,Immigrants,2011 to 2021
+Prince George,1730,895,835,Non-permanent residents,0
+Dawson Creek,15415,7775,7640,Non-immigrants,0
+Dawson Creek,1520,685,830,Immigrants,0
+Dawson Creek,350,165,185,Immigrants,Before 1980
+Dawson Creek,130,50,80,Immigrants,1980 to 1990
+Dawson Creek,135,55,80,Immigrants,1991 to 2000
+Dawson Creek,170,60,115,Immigrants,2001 to 2010
+Dawson Creek,735,365,375,Immigrants,2011 to 2021
+Dawson Creek,445,245,200,Non-permanent residents,0
+Fort St. John,24685,12820,11865,Non-immigrants,0
+Fort St. John,3025,1460,1565,Immigrants,0
+Fort St. John,410,190,220,Immigrants,Before 1980
+Fort St. John,135,50,80,Immigrants,1980 to 1990
+Fort St. John,275,140,135,Immigrants,1991 to 2000
+Fort St. John,580,255,330,Immigrants,2001 to 2010
+Fort St. John,1625,825,800,Immigrants,2011 to 2021
+Fort St. John,720,425,295,Non-permanent residents,0
+Whitehorse,25940,12945,12990,Non-immigrants,0
+Whitehorse,4630,2150,2480,Immigrants,0
+Whitehorse,890,430,465,Immigrants,Before 1980
+Whitehorse,290,125,160,Immigrants,1980 to 1990
+Whitehorse,565,220,345,Immigrants,1991 to 2000
+Whitehorse,950,455,495,Immigrants,2001 to 2010
+Whitehorse,1935,920,1010,Immigrants,2011 to 2021
+Whitehorse,855,445,410,Non-permanent residents,0
+Yellowknife,16300,8100,8205,Non-immigrants,0
+Yellowknife,3265,1625,1640,Immigrants,0
+Yellowknife,400,215,185,Immigrants,Before 1980
+Yellowknife,260,140,120,Immigrants,1980 to 1990
+Yellowknife,505,235,270,Immigrants,1991 to 2000
+Yellowknife,820,375,445,Immigrants,2001 to 2010
+Yellowknife,1280,660,620,Immigrants,2011 to 2021
+Yellowknife,345,165,175,Non-permanent residents,0

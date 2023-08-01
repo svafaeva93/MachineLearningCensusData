@@ -1,0 +1,1281 @@
+GEO_NAME,COUNT_TOTAL,private_dwellings
+St. John's,49215,Single-detached house
+St. John's,4210,Semi-detached house
+St. John's,6285,Row house
+St. John's,22210,Apartment or flat in a duplex
+St. John's,7225,Apartment in a building that has fewer than five storeys
+St. John's,550,Apartment in a building that has five or more storeys
+St. John's,155,Other single-attached house
+St. John's,150,Movable dwelling
+Grand Falls-Windsor,3950,Single-detached house
+Grand Falls-Windsor,370,Semi-detached house
+Grand Falls-Windsor,540,Row house
+Grand Falls-Windsor,750,Apartment or flat in a duplex
+Grand Falls-Windsor,495,Apartment in a building that has fewer than five storeys
+Grand Falls-Windsor,0,Apartment in a building that has five or more storeys
+Grand Falls-Windsor,20,Other single-attached house
+Grand Falls-Windsor,5,Movable dwelling
+Gander,3955,Single-detached house
+Gander,355,Semi-detached house
+Gander,285,Row house
+Gander,480,Apartment or flat in a duplex
+Gander,595,Apartment in a building that has fewer than five storeys
+Gander,15,Apartment in a building that has five or more storeys
+Gander,0,Other single-attached house
+Gander,50,Movable dwelling
+Corner Brook,9320,Single-detached house
+Corner Brook,440,Semi-detached house
+Corner Brook,425,Row house
+Corner Brook,1925,Apartment or flat in a duplex
+Corner Brook,1055,Apartment in a building that has fewer than five storeys
+Corner Brook,0,Apartment in a building that has five or more storeys
+Corner Brook,60,Other single-attached house
+Corner Brook,10,Movable dwelling
+Charlottetown,19775,Single-detached house
+Charlottetown,2305,Semi-detached house
+Charlottetown,1175,Row house
+Charlottetown,710,Apartment or flat in a duplex
+Charlottetown,7905,Apartment in a building that has fewer than five storeys
+Charlottetown,85,Apartment in a building that has five or more storeys
+Charlottetown,35,Other single-attached house
+Charlottetown,945,Movable dwelling
+Summerside,4210,Single-detached house
+Summerside,760,Semi-detached house
+Summerside,785,Row house
+Summerside,265,Apartment or flat in a duplex
+Summerside,1365,Apartment in a building that has fewer than five storeys
+Summerside,35,Apartment in a building that has five or more storeys
+Summerside,10,Other single-attached house
+Summerside,520,Movable dwelling
+Halifax,99440,Single-detached house
+Halifax,12855,Semi-detached house
+Halifax,7545,Row house
+Halifax,6715,Apartment or flat in a duplex
+Halifax,41235,Apartment in a building that has fewer than five storeys
+Halifax,28325,Apartment in a building that has five or more storeys
+Halifax,215,Other single-attached house
+Halifax,4800,Movable dwelling
+Kentville,8160,Single-detached house
+Kentville,850,Semi-detached house
+Kentville,100,Row house
+Kentville,555,Apartment or flat in a duplex
+Kentville,1835,Apartment in a building that has fewer than five storeys
+Kentville,10,Apartment in a building that has five or more storeys
+Kentville,30,Other single-attached house
+Kentville,395,Movable dwelling
+Truro,13715,Single-detached house
+Truro,655,Semi-detached house
+Truro,230,Row house
+Truro,1055,Apartment or flat in a duplex
+Truro,3720,Apartment in a building that has fewer than five storeys
+Truro,5,Apartment in a building that has five or more storeys
+Truro,65,Other single-attached house
+Truro,1250,Movable dwelling
+New Glasgow,11220,Single-detached house
+New Glasgow,695,Semi-detached house
+New Glasgow,435,Row house
+New Glasgow,350,Apartment or flat in a duplex
+New Glasgow,1940,Apartment in a building that has fewer than five storeys
+New Glasgow,10,Apartment in a building that has five or more storeys
+New Glasgow,20,Other single-attached house
+New Glasgow,815,Movable dwelling
+Cape Breton,32275,Single-detached house
+Cape Breton,2860,Semi-detached house
+Cape Breton,760,Row house
+Cape Breton,1905,Apartment or flat in a duplex
+Cape Breton,4550,Apartment in a building that has fewer than five storeys
+Cape Breton,215,Apartment in a building that has five or more storeys
+Cape Breton,70,Other single-attached house
+Cape Breton,1170,Movable dwelling
+Moncton,36025,Single-detached house
+Moncton,6875,Semi-detached house
+Moncton,2240,Row house
+Moncton,3280,Apartment or flat in a duplex
+Moncton,14635,Apartment in a building that has fewer than five storeys
+Moncton,1305,Apartment in a building that has five or more storeys
+Moncton,140,Other single-attached house
+Moncton,2675,Movable dwelling
+Saint John,33095,Single-detached house
+Saint John,1270,Semi-detached house
+Saint John,2325,Row house
+Saint John,3860,Apartment or flat in a duplex
+Saint John,11265,Apartment in a building that has fewer than five storeys
+Saint John,2155,Apartment in a building that has five or more storeys
+Saint John,130,Other single-attached house
+Saint John,1760,Movable dwelling
+Fredericton,27300,Single-detached house
+Fredericton,920,Semi-detached house
+Fredericton,1290,Row house
+Fredericton,2775,Apartment or flat in a duplex
+Fredericton,10120,Apartment in a building that has fewer than five storeys
+Fredericton,415,Apartment in a building that has five or more storeys
+Fredericton,190,Other single-attached house
+Fredericton,3345,Movable dwelling
+Bathurst,10295,Single-detached house
+Bathurst,510,Semi-detached house
+Bathurst,770,Row house
+Bathurst,830,Apartment or flat in a duplex
+Bathurst,1595,Apartment in a building that has fewer than five storeys
+Bathurst,5,Apartment in a building that has five or more storeys
+Bathurst,85,Other single-attached house
+Bathurst,315,Movable dwelling
+Miramichi,9315,Single-detached house
+Miramichi,415,Semi-detached house
+Miramichi,55,Row house
+Miramichi,190,Apartment or flat in a duplex
+Miramichi,1460,Apartment in a building that has fewer than five storeys
+Miramichi,0,Apartment in a building that has five or more storeys
+Miramichi,20,Other single-attached house
+Miramichi,850,Movable dwelling
+Campbellton,3970,Single-detached house
+Campbellton,170,Semi-detached house
+Campbellton,255,Row house
+Campbellton,325,Apartment or flat in a duplex
+Campbellton,1175,Apartment in a building that has fewer than five storeys
+Campbellton,0,Apartment in a building that has five or more storeys
+Campbellton,95,Other single-attached house
+Campbellton,145,Movable dwelling
+Campbellton (New Brunswick part),3525,Single-detached house
+Campbellton (New Brunswick part),135,Semi-detached house
+Campbellton (New Brunswick part),250,Row house
+Campbellton (New Brunswick part),310,Apartment or flat in a duplex
+Campbellton (New Brunswick part),1040,Apartment in a building that has fewer than five storeys
+Campbellton (New Brunswick part),0,Apartment in a building that has five or more storeys
+Campbellton (New Brunswick part),95,Other single-attached house
+Campbellton (New Brunswick part),140,Movable dwelling
+Campbellton (Quebec part),445,Single-detached house
+Campbellton (Quebec part),30,Semi-detached house
+Campbellton (Quebec part),10,Row house
+Campbellton (Quebec part),15,Apartment or flat in a duplex
+Campbellton (Quebec part),135,Apartment in a building that has fewer than five storeys
+Campbellton (Quebec part),0,Apartment in a building that has five or more storeys
+Campbellton (Quebec part),0,Other single-attached house
+Campbellton (Quebec part),5,Movable dwelling
+Edmundston,6805,Single-detached house
+Edmundston,340,Semi-detached house
+Edmundston,260,Row house
+Edmundston,615,Apartment or flat in a duplex
+Edmundston,1725,Apartment in a building that has fewer than five storeys
+Edmundston,125,Apartment in a building that has five or more storeys
+Edmundston,40,Other single-attached house
+Edmundston,355,Movable dwelling
+Matane,5860,Single-detached house
+Matane,395,Semi-detached house
+Matane,100,Row house
+Matane,570,Apartment or flat in a duplex
+Matane,1995,Apartment in a building that has fewer than five storeys
+Matane,10,Apartment in a building that has five or more storeys
+Matane,40,Other single-attached house
+Matane,195,Movable dwelling
+Rimouski,13310,Single-detached house
+Rimouski,2280,Semi-detached house
+Rimouski,635,Row house
+Rimouski,1195,Apartment or flat in a duplex
+Rimouski,7360,Apartment in a building that has fewer than five storeys
+Rimouski,490,Apartment in a building that has five or more storeys
+Rimouski,130,Other single-attached house
+Rimouski,220,Movable dwelling
+RiviÃ¨re-du-Loup,7425,Single-detached house
+RiviÃ¨re-du-Loup,820,Semi-detached house
+RiviÃ¨re-du-Loup,185,Row house
+RiviÃ¨re-du-Loup,680,Apartment or flat in a duplex
+RiviÃ¨re-du-Loup,4315,Apartment in a building that has fewer than five storeys
+RiviÃ¨re-du-Loup,45,Apartment in a building that has five or more storeys
+RiviÃ¨re-du-Loup,115,Other single-attached house
+RiviÃ¨re-du-Loup,140,Movable dwelling
+Baie-Comeau,7180,Single-detached house
+Baie-Comeau,750,Semi-detached house
+Baie-Comeau,295,Row house
+Baie-Comeau,375,Apartment or flat in a duplex
+Baie-Comeau,2315,Apartment in a building that has fewer than five storeys
+Baie-Comeau,100,Apartment in a building that has five or more storeys
+Baie-Comeau,65,Other single-attached house
+Baie-Comeau,1280,Movable dwelling
+Saguenay,38465,Single-detached house
+Saguenay,5755,Semi-detached house
+Saguenay,1660,Row house
+Saguenay,9325,Apartment or flat in a duplex
+Saguenay,17870,Apartment in a building that has fewer than five storeys
+Saguenay,1050,Apartment in a building that has five or more storeys
+Saguenay,240,Other single-attached house
+Saguenay,445,Movable dwelling
+Alma,7145,Single-detached house
+Alma,1070,Semi-detached house
+Alma,250,Row house
+Alma,1895,Apartment or flat in a duplex
+Alma,3225,Apartment in a building that has fewer than five storeys
+Alma,30,Apartment in a building that has five or more storeys
+Alma,135,Other single-attached house
+Alma,70,Movable dwelling
+Dolbeau-Mistassini,4385,Single-detached house
+Dolbeau-Mistassini,345,Semi-detached house
+Dolbeau-Mistassini,65,Row house
+Dolbeau-Mistassini,645,Apartment or flat in a duplex
+Dolbeau-Mistassini,1330,Apartment in a building that has fewer than five storeys
+Dolbeau-Mistassini,0,Apartment in a building that has five or more storeys
+Dolbeau-Mistassini,80,Other single-attached house
+Dolbeau-Mistassini,110,Movable dwelling
+Sept-ÃŽles,6265,Single-detached house
+Sept-ÃŽles,540,Semi-detached house
+Sept-ÃŽles,470,Row house
+Sept-ÃŽles,510,Apartment or flat in a duplex
+Sept-ÃŽles,2945,Apartment in a building that has fewer than five storeys
+Sept-ÃŽles,175,Apartment in a building that has five or more storeys
+Sept-ÃŽles,20,Other single-attached house
+Sept-ÃŽles,1360,Movable dwelling
+QuÃ©bec,156805,Single-detached house
+QuÃ©bec,22600,Semi-detached house
+QuÃ©bec,9380,Row house
+QuÃ©bec,22840,Apartment or flat in a duplex
+QuÃ©bec,145325,Apartment in a building that has fewer than five storeys
+QuÃ©bec,26870,Apartment in a building that has five or more storeys
+QuÃ©bec,1325,Other single-attached house
+QuÃ©bec,2815,Movable dwelling
+Sainte-Marie,3200,Single-detached house
+Sainte-Marie,850,Semi-detached house
+Sainte-Marie,125,Row house
+Sainte-Marie,150,Apartment or flat in a duplex
+Sainte-Marie,1095,Apartment in a building that has fewer than five storeys
+Sainte-Marie,5,Apartment in a building that has five or more storeys
+Sainte-Marie,10,Other single-attached house
+Sainte-Marie,70,Movable dwelling
+Saint-Georges,9125,Single-detached house
+Saint-Georges,1745,Semi-detached house
+Saint-Georges,230,Row house
+Saint-Georges,700,Apartment or flat in a duplex
+Saint-Georges,3865,Apartment in a building that has fewer than five storeys
+Saint-Georges,315,Apartment in a building that has five or more storeys
+Saint-Georges,120,Other single-attached house
+Saint-Georges,45,Movable dwelling
+Thetford Mines,8615,Single-detached house
+Thetford Mines,220,Semi-detached house
+Thetford Mines,90,Row house
+Thetford Mines,1430,Apartment or flat in a duplex
+Thetford Mines,2690,Apartment in a building that has fewer than five storeys
+Thetford Mines,0,Apartment in a building that has five or more storeys
+Thetford Mines,70,Other single-attached house
+Thetford Mines,145,Movable dwelling
+Sherbrooke,45580,Single-detached house
+Sherbrooke,4895,Semi-detached house
+Sherbrooke,2800,Row house
+Sherbrooke,6015,Apartment or flat in a duplex
+Sherbrooke,41950,Apartment in a building that has fewer than five storeys
+Sherbrooke,2480,Apartment in a building that has five or more storeys
+Sherbrooke,365,Other single-attached house
+Sherbrooke,570,Movable dwelling
+Cowansville,2805,Single-detached house
+Cowansville,330,Semi-detached house
+Cowansville,80,Row house
+Cowansville,550,Apartment or flat in a duplex
+Cowansville,3120,Apartment in a building that has fewer than five storeys
+Cowansville,5,Apartment in a building that has five or more storeys
+Cowansville,60,Other single-attached house
+Cowansville,35,Movable dwelling
+Victoriaville,12215,Single-detached house
+Victoriaville,2420,Semi-detached house
+Victoriaville,195,Row house
+Victoriaville,1290,Apartment or flat in a duplex
+Victoriaville,7685,Apartment in a building that has fewer than five storeys
+Victoriaville,5,Apartment in a building that has five or more storeys
+Victoriaville,35,Other single-attached house
+Victoriaville,70,Movable dwelling
+Trois-RiviÃ¨res,35045,Single-detached house
+Trois-RiviÃ¨res,5115,Semi-detached house
+Trois-RiviÃ¨res,1975,Row house
+Trois-RiviÃ¨res,5215,Apartment or flat in a duplex
+Trois-RiviÃ¨res,27535,Apartment in a building that has fewer than five storeys
+Trois-RiviÃ¨res,1115,Apartment in a building that has five or more storeys
+Trois-RiviÃ¨res,365,Other single-attached house
+Trois-RiviÃ¨res,265,Movable dwelling
+Shawinigan,12495,Single-detached house
+Shawinigan,700,Semi-detached house
+Shawinigan,220,Row house
+Shawinigan,2420,Apartment or flat in a duplex
+Shawinigan,8815,Apartment in a building that has fewer than five storeys
+Shawinigan,15,Apartment in a building that has five or more storeys
+Shawinigan,300,Other single-attached house
+Shawinigan,90,Movable dwelling
+Drummondville,24180,Single-detached house
+Drummondville,2405,Semi-detached house
+Drummondville,820,Row house
+Drummondville,3545,Apartment or flat in a duplex
+Drummondville,13610,Apartment in a building that has fewer than five storeys
+Drummondville,490,Apartment in a building that has five or more storeys
+Drummondville,170,Other single-attached house
+Drummondville,480,Movable dwelling
+Granby,18520,Single-detached house
+Granby,3125,Semi-detached house
+Granby,580,Row house
+Granby,2575,Apartment or flat in a duplex
+Granby,14470,Apartment in a building that has fewer than five storeys
+Granby,520,Apartment in a building that has five or more storeys
+Granby,505,Other single-attached house
+Granby,815,Movable dwelling
+Saint-Hyacinthe,10100,Single-detached house
+Saint-Hyacinthe,1565,Semi-detached house
+Saint-Hyacinthe,645,Row house
+Saint-Hyacinthe,2310,Apartment or flat in a duplex
+Saint-Hyacinthe,12890,Apartment in a building that has fewer than five storeys
+Saint-Hyacinthe,145,Apartment in a building that has five or more storeys
+Saint-Hyacinthe,205,Other single-attached house
+Saint-Hyacinthe,95,Movable dwelling
+Sorel-Tracy,11330,Single-detached house
+Sorel-Tracy,1105,Semi-detached house
+Sorel-Tracy,375,Row house
+Sorel-Tracy,1770,Apartment or flat in a duplex
+Sorel-Tracy,5430,Apartment in a building that has fewer than five storeys
+Sorel-Tracy,150,Apartment in a building that has five or more storeys
+Sorel-Tracy,95,Other single-attached house
+Sorel-Tracy,55,Movable dwelling
+Joliette,11155,Single-detached house
+Joliette,730,Semi-detached house
+Joliette,515,Row house
+Joliette,1925,Apartment or flat in a duplex
+Joliette,9810,Apartment in a building that has fewer than five storeys
+Joliette,210,Apartment in a building that has five or more storeys
+Joliette,165,Other single-attached house
+Joliette,55,Movable dwelling
+MontrÃ©al,582875,Single-detached house
+MontrÃ©al,89790,Semi-detached house
+MontrÃ©al,59765,Row house
+MontrÃ©al,150110,Apartment or flat in a duplex
+MontrÃ©al,758875,Apartment in a building that has fewer than five storeys
+MontrÃ©al,183500,Apartment in a building that has five or more storeys
+MontrÃ©al,6420,Other single-attached house
+MontrÃ©al,4370,Movable dwelling
+Salaberry-de-Valleyfield,9150,Single-detached house
+Salaberry-de-Valleyfield,1235,Semi-detached house
+Salaberry-de-Valleyfield,390,Row house
+Salaberry-de-Valleyfield,2700,Apartment or flat in a duplex
+Salaberry-de-Valleyfield,6535,Apartment in a building that has fewer than five storeys
+Salaberry-de-Valleyfield,0,Apartment in a building that has five or more storeys
+Salaberry-de-Valleyfield,60,Other single-attached house
+Salaberry-de-Valleyfield,0,Movable dwelling
+Sainte-Agathe-des-Monts,5900,Single-detached house
+Sainte-Agathe-des-Monts,185,Semi-detached house
+Sainte-Agathe-des-Monts,220,Row house
+Sainte-Agathe-des-Monts,1570,Apartment or flat in a duplex
+Sainte-Agathe-des-Monts,1590,Apartment in a building that has fewer than five storeys
+Sainte-Agathe-des-Monts,5,Apartment in a building that has five or more storeys
+Sainte-Agathe-des-Monts,35,Other single-attached house
+Sainte-Agathe-des-Monts,160,Movable dwelling
+Lachute,3225,Single-detached house
+Lachute,195,Semi-detached house
+Lachute,115,Row house
+Lachute,675,Apartment or flat in a duplex
+Lachute,2255,Apartment in a building that has fewer than five storeys
+Lachute,0,Apartment in a building that has five or more storeys
+Lachute,60,Other single-attached house
+Lachute,5,Movable dwelling
+Val-d'Or,8030,Single-detached house
+Val-d'Or,620,Semi-detached house
+Val-d'Or,295,Row house
+Val-d'Or,1595,Apartment or flat in a duplex
+Val-d'Or,4350,Apartment in a building that has fewer than five storeys
+Val-d'Or,225,Apartment in a building that has five or more storeys
+Val-d'Or,40,Other single-attached house
+Val-d'Or,220,Movable dwelling
+Amos,5235,Single-detached house
+Amos,275,Semi-detached house
+Amos,185,Row house
+Amos,600,Apartment or flat in a duplex
+Amos,1830,Apartment in a building that has fewer than five storeys
+Amos,5,Apartment in a building that has five or more storeys
+Amos,45,Other single-attached house
+Amos,70,Movable dwelling
+Rouyn-Noranda,10295,Single-detached house
+Rouyn-Noranda,1115,Semi-detached house
+Rouyn-Noranda,110,Row house
+Rouyn-Noranda,1680,Apartment or flat in a duplex
+Rouyn-Noranda,5655,Apartment in a building that has fewer than five storeys
+Rouyn-Noranda,55,Apartment in a building that has five or more storeys
+Rouyn-Noranda,140,Other single-attached house
+Rouyn-Noranda,230,Movable dwelling
+Cornwall,15395,Single-detached house
+Cornwall,2275,Semi-detached house
+Cornwall,1265,Row house
+Cornwall,1810,Apartment or flat in a duplex
+Cornwall,4665,Apartment in a building that has fewer than five storeys
+Cornwall,1150,Apartment in a building that has five or more storeys
+Cornwall,120,Other single-attached house
+Cornwall,115,Movable dwelling
+Hawkesbury,2245,Single-detached house
+Hawkesbury,740,Semi-detached house
+Hawkesbury,315,Row house
+Hawkesbury,925,Apartment or flat in a duplex
+Hawkesbury,1725,Apartment in a building that has fewer than five storeys
+Hawkesbury,0,Apartment in a building that has five or more storeys
+Hawkesbury,35,Other single-attached house
+Hawkesbury,5,Movable dwelling
+Hawkesbury (Quebec part),425,Single-detached house
+Hawkesbury (Quebec part),55,Semi-detached house
+Hawkesbury (Quebec part),50,Row house
+Hawkesbury (Quebec part),110,Apartment or flat in a duplex
+Hawkesbury (Quebec part),250,Apartment in a building that has fewer than five storeys
+Hawkesbury (Quebec part),0,Apartment in a building that has five or more storeys
+Hawkesbury (Quebec part),5,Other single-attached house
+Hawkesbury (Quebec part),5,Movable dwelling
+Hawkesbury (Ontario part),1815,Single-detached house
+Hawkesbury (Ontario part),680,Semi-detached house
+Hawkesbury (Ontario part),265,Row house
+Hawkesbury (Ontario part),810,Apartment or flat in a duplex
+Hawkesbury (Ontario part),1470,Apartment in a building that has fewer than five storeys
+Hawkesbury (Ontario part),0,Apartment in a building that has five or more storeys
+Hawkesbury (Ontario part),30,Other single-attached house
+Hawkesbury (Ontario part),0,Movable dwelling
+Ottawa - Gatineau,272125,Single-detached house
+Ottawa - Gatineau,43225,Semi-detached house
+Ottawa - Gatineau,98330,Row house
+Ottawa - Gatineau,16795,Apartment or flat in a duplex
+Ottawa - Gatineau,87770,Apartment in a building that has fewer than five storeys
+Ottawa - Gatineau,84155,Apartment in a building that has five or more storeys
+Ottawa - Gatineau,845,Other single-attached house
+Ottawa - Gatineau,1480,Movable dwelling
+Ottawa - Gatineau (Quebec part),67640,Single-detached house
+Ottawa - Gatineau (Quebec part),18960,Semi-detached house
+Ottawa - Gatineau (Quebec part),8405,Row house
+Ottawa - Gatineau (Quebec part),8355,Apartment or flat in a duplex
+Ottawa - Gatineau (Quebec part),40240,Apartment in a building that has fewer than five storeys
+Ottawa - Gatineau (Quebec part),6995,Apartment in a building that has five or more storeys
+Ottawa - Gatineau (Quebec part),275,Other single-attached house
+Ottawa - Gatineau (Quebec part),270,Movable dwelling
+Ottawa - Gatineau (Ontario part),204485,Single-detached house
+Ottawa - Gatineau (Ontario part),24265,Semi-detached house
+Ottawa - Gatineau (Ontario part),89915,Row house
+Ottawa - Gatineau (Ontario part),8440,Apartment or flat in a duplex
+Ottawa - Gatineau (Ontario part),47530,Apartment in a building that has fewer than five storeys
+Ottawa - Gatineau (Ontario part),77160,Apartment in a building that has five or more storeys
+Ottawa - Gatineau (Ontario part),570,Other single-attached house
+Ottawa - Gatineau (Ontario part),1210,Movable dwelling
+Brockville,8655,Single-detached house
+Brockville,990,Semi-detached house
+Brockville,845,Row house
+Brockville,125,Apartment or flat in a duplex
+Brockville,3005,Apartment in a building that has fewer than five storeys
+Brockville,685,Apartment in a building that has five or more storeys
+Brockville,90,Other single-attached house
+Brockville,35,Movable dwelling
+Pembroke,7245,Single-detached house
+Pembroke,590,Semi-detached house
+Pembroke,310,Row house
+Pembroke,245,Apartment or flat in a duplex
+Pembroke,1835,Apartment in a building that has fewer than five storeys
+Pembroke,0,Apartment in a building that has five or more storeys
+Pembroke,25,Other single-attached house
+Pembroke,5,Movable dwelling
+Petawawa,4760,Single-detached house
+Petawawa,455,Semi-detached house
+Petawawa,840,Row house
+Petawawa,45,Apartment or flat in a duplex
+Petawawa,635,Apartment in a building that has fewer than five storeys
+Petawawa,0,Apartment in a building that has five or more storeys
+Petawawa,15,Other single-attached house
+Petawawa,5,Movable dwelling
+Kingston,41665,Single-detached house
+Kingston,4580,Semi-detached house
+Kingston,4605,Row house
+Kingston,2395,Apartment or flat in a duplex
+Kingston,9925,Apartment in a building that has fewer than five storeys
+Kingston,9880,Apartment in a building that has five or more storeys
+Kingston,145,Other single-attached house
+Kingston,315,Movable dwelling
+Belleville - Quinte West,31790,Single-detached house
+Belleville - Quinte West,1600,Semi-detached house
+Belleville - Quinte West,2245,Row house
+Belleville - Quinte West,1030,Apartment or flat in a duplex
+Belleville - Quinte West,6360,Apartment in a building that has fewer than five storeys
+Belleville - Quinte West,2630,Apartment in a building that has five or more storeys
+Belleville - Quinte West,165,Other single-attached house
+Belleville - Quinte West,385,Movable dwelling
+Cobourg,5255,Single-detached house
+Cobourg,410,Semi-detached house
+Cobourg,1125,Row house
+Cobourg,170,Apartment or flat in a duplex
+Cobourg,1785,Apartment in a building that has fewer than five storeys
+Cobourg,365,Apartment in a building that has five or more storeys
+Cobourg,30,Other single-attached house
+Cobourg,0,Movable dwelling
+Port Hope,5285,Single-detached house
+Port Hope,270,Semi-detached house
+Port Hope,425,Row house
+Port Hope,90,Apartment or flat in a duplex
+Port Hope,770,Apartment in a building that has fewer than five storeys
+Port Hope,450,Apartment in a building that has five or more storeys
+Port Hope,15,Other single-attached house
+Port Hope,5,Movable dwelling
+Peterborough,36900,Single-detached house
+Peterborough,875,Semi-detached house
+Peterborough,3195,Row house
+Peterborough,2745,Apartment or flat in a duplex
+Peterborough,6785,Apartment in a building that has fewer than five storeys
+Peterborough,2590,Apartment in a building that has five or more storeys
+Peterborough,100,Other single-attached house
+Peterborough,175,Movable dwelling
+Kawartha Lakes,27395,Single-detached house
+Kawartha Lakes,555,Semi-detached house
+Kawartha Lakes,650,Row house
+Kawartha Lakes,840,Apartment or flat in a duplex
+Kawartha Lakes,2220,Apartment in a building that has fewer than five storeys
+Kawartha Lakes,730,Apartment in a building that has five or more storeys
+Kawartha Lakes,80,Other single-attached house
+Kawartha Lakes,230,Movable dwelling
+Centre Wellington,8685,Single-detached house
+Centre Wellington,570,Semi-detached house
+Centre Wellington,740,Row house
+Centre Wellington,180,Apartment or flat in a duplex
+Centre Wellington,1570,Apartment in a building that has fewer than five storeys
+Centre Wellington,110,Apartment in a building that has five or more storeys
+Centre Wellington,15,Other single-attached house
+Centre Wellington,100,Movable dwelling
+Oshawa,97240,Single-detached house
+Oshawa,7790,Semi-detached house
+Oshawa,15705,Row house
+Oshawa,5425,Apartment or flat in a duplex
+Oshawa,11200,Apartment in a building that has fewer than five storeys
+Oshawa,11415,Apartment in a building that has five or more storeys
+Oshawa,195,Other single-attached house
+Oshawa,80,Movable dwelling
+Ingersoll,3895,Single-detached house
+Ingersoll,405,Semi-detached house
+Ingersoll,385,Row house
+Ingersoll,80,Apartment or flat in a duplex
+Ingersoll,625,Apartment in a building that has fewer than five storeys
+Ingersoll,65,Apartment in a building that has five or more storeys
+Ingersoll,10,Other single-attached house
+Ingersoll,0,Movable dwelling
+Toronto,883125,Single-detached house
+Toronto,164580,Semi-detached house
+Toronto,210100,Row house
+Toronto,90500,Apartment or flat in a duplex
+Toronto,215325,Apartment in a building that has fewer than five storeys
+Toronto,694735,Apartment in a building that has five or more storeys
+Toronto,3470,Other single-attached house
+Toronto,635,Movable dwelling
+Hamilton,169265,Single-detached house
+Hamilton,10110,Semi-detached house
+Hamilton,43785,Row house
+Hamilton,8300,Apartment or flat in a duplex
+Hamilton,25560,Apartment in a building that has fewer than five storeys
+Hamilton,49645,Apartment in a building that has five or more storeys
+Hamilton,555,Other single-attached house
+Hamilton,160,Movable dwelling
+St. Catharines - Niagara,118200,Single-detached house
+St. Catharines - Niagara,9680,Semi-detached house
+St. Catharines - Niagara,12395,Row house
+St. Catharines - Niagara,6415,Apartment or flat in a duplex
+St. Catharines - Niagara,20980,Apartment in a building that has fewer than five storeys
+St. Catharines - Niagara,10430,Apartment in a building that has five or more storeys
+St. Catharines - Niagara,580,Other single-attached house
+St. Catharines - Niagara,555,Movable dwelling
+Kitchener - Cambridge - Waterloo,116045,Single-detached house
+Kitchener - Cambridge - Waterloo,12905,Semi-detached house
+Kitchener - Cambridge - Waterloo,25590,Row house
+Kitchener - Cambridge - Waterloo,6240,Apartment or flat in a duplex
+Kitchener - Cambridge - Waterloo,29035,Apartment in a building that has fewer than five storeys
+Kitchener - Cambridge - Waterloo,28685,Apartment in a building that has five or more storeys
+Kitchener - Cambridge - Waterloo,300,Other single-attached house
+Kitchener - Cambridge - Waterloo,250,Movable dwelling
+Brantford,36835,Single-detached house
+Brantford,2905,Semi-detached house
+Brantford,4735,Row house
+Brantford,1780,Apartment or flat in a duplex
+Brantford,5025,Apartment in a building that has fewer than five storeys
+Brantford,4550,Apartment in a building that has five or more storeys
+Brantford,105,Other single-attached house
+Brantford,70,Movable dwelling
+Woodstock,10855,Single-detached house
+Woodstock,1455,Semi-detached house
+Woodstock,2200,Row house
+Woodstock,390,Apartment or flat in a duplex
+Woodstock,2285,Apartment in a building that has fewer than five storeys
+Woodstock,1680,Apartment in a building that has five or more storeys
+Woodstock,25,Other single-attached house
+Woodstock,0,Movable dwelling
+Tillsonburg,5575,Single-detached house
+Tillsonburg,285,Semi-detached house
+Tillsonburg,495,Row house
+Tillsonburg,205,Apartment or flat in a duplex
+Tillsonburg,1135,Apartment in a building that has fewer than five storeys
+Tillsonburg,495,Apartment in a building that has five or more storeys
+Tillsonburg,25,Other single-attached house
+Tillsonburg,10,Movable dwelling
+Norfolk,22815,Single-detached house
+Norfolk,770,Semi-detached house
+Norfolk,945,Row house
+Norfolk,570,Apartment or flat in a duplex
+Norfolk,1890,Apartment in a building that has fewer than five storeys
+Norfolk,385,Apartment in a building that has five or more storeys
+Norfolk,90,Other single-attached house
+Norfolk,130,Movable dwelling
+Guelph,34325,Single-detached house
+Guelph,2600,Semi-detached house
+Guelph,8935,Row house
+Guelph,3720,Apartment or flat in a duplex
+Guelph,7950,Apartment in a building that has fewer than five storeys
+Guelph,6510,Apartment in a building that has five or more storeys
+Guelph,60,Other single-attached house
+Guelph,65,Movable dwelling
+Stratford,7805,Single-detached house
+Stratford,1535,Semi-detached house
+Stratford,940,Row house
+Stratford,670,Apartment or flat in a duplex
+Stratford,2950,Apartment in a building that has fewer than five storeys
+Stratford,820,Apartment in a building that has five or more storeys
+Stratford,30,Other single-attached house
+Stratford,0,Movable dwelling
+London,122265,Single-detached house
+London,8205,Semi-detached house
+London,24860,Row house
+London,5250,Apartment or flat in a duplex
+London,22505,Apartment in a building that has fewer than five storeys
+London,38340,Apartment in a building that has five or more storeys
+London,240,Other single-attached house
+London,585,Movable dwelling
+Chatham-Kent,33575,Single-detached house
+Chatham-Kent,1445,Semi-detached house
+Chatham-Kent,1540,Row house
+Chatham-Kent,735,Apartment or flat in a duplex
+Chatham-Kent,5090,Apartment in a building that has fewer than five storeys
+Chatham-Kent,1535,Apartment in a building that has five or more storeys
+Chatham-Kent,80,Other single-attached house
+Chatham-Kent,175,Movable dwelling
+Windsor,115360,Single-detached house
+Windsor,7490,Semi-detached house
+Windsor,9230,Row house
+Windsor,4665,Apartment or flat in a duplex
+Windsor,13905,Apartment in a building that has fewer than five storeys
+Windsor,14110,Apartment in a building that has five or more storeys
+Windsor,160,Other single-attached house
+Windsor,745,Movable dwelling
+Sarnia,30940,Single-detached house
+Sarnia,1375,Semi-detached house
+Sarnia,2170,Row house
+Sarnia,800,Apartment or flat in a duplex
+Sarnia,3190,Apartment in a building that has fewer than five storeys
+Sarnia,3985,Apartment in a building that has five or more storeys
+Sarnia,75,Other single-attached house
+Sarnia,45,Movable dwelling
+Essa,6110,Single-detached house
+Essa,800,Semi-detached house
+Essa,470,Row house
+Essa,155,Apartment or flat in a duplex
+Essa,225,Apartment in a building that has fewer than five storeys
+Essa,55,Apartment in a building that has five or more storeys
+Essa,15,Other single-attached house
+Essa,120,Movable dwelling
+Wasaga Beach,8930,Single-detached house
+Wasaga Beach,255,Semi-detached house
+Wasaga Beach,910,Row house
+Wasaga Beach,140,Apartment or flat in a duplex
+Wasaga Beach,510,Apartment in a building that has fewer than five storeys
+Wasaga Beach,0,Apartment in a building that has five or more storeys
+Wasaga Beach,25,Other single-attached house
+Wasaga Beach,35,Movable dwelling
+Owen Sound,9240,Single-detached house
+Owen Sound,435,Semi-detached house
+Owen Sound,725,Row house
+Owen Sound,290,Apartment or flat in a duplex
+Owen Sound,2770,Apartment in a building that has fewer than five storeys
+Owen Sound,735,Apartment in a building that has five or more storeys
+Owen Sound,30,Other single-attached house
+Owen Sound,165,Movable dwelling
+Collingwood,6300,Single-detached house
+Collingwood,750,Semi-detached house
+Collingwood,1385,Row house
+Collingwood,250,Apartment or flat in a duplex
+Collingwood,2010,Apartment in a building that has fewer than five storeys
+Collingwood,450,Apartment in a building that has five or more storeys
+Collingwood,25,Other single-attached house
+Collingwood,0,Movable dwelling
+Barrie,53395,Single-detached house
+Barrie,2475,Semi-detached house
+Barrie,7020,Row house
+Barrie,4180,Apartment or flat in a duplex
+Barrie,6895,Apartment in a building that has fewer than five storeys
+Barrie,4430,Apartment in a building that has five or more storeys
+Barrie,70,Other single-attached house
+Barrie,75,Movable dwelling
+Orillia,8035,Single-detached house
+Orillia,360,Semi-detached house
+Orillia,1245,Row house
+Orillia,905,Apartment or flat in a duplex
+Orillia,2760,Apartment in a building that has fewer than five storeys
+Orillia,920,Apartment in a building that has five or more storeys
+Orillia,30,Other single-attached house
+Orillia,170,Movable dwelling
+Midland,7805,Single-detached house
+Midland,470,Semi-detached house
+Midland,540,Row house
+Midland,770,Apartment or flat in a duplex
+Midland,1620,Apartment in a building that has fewer than five storeys
+Midland,535,Apartment in a building that has five or more storeys
+Midland,80,Other single-attached house
+Midland,5,Movable dwelling
+North Bay,18575,Single-detached house
+North Bay,2215,Semi-detached house
+North Bay,2105,Row house
+North Bay,1665,Apartment or flat in a duplex
+North Bay,4310,Apartment in a building that has fewer than five storeys
+North Bay,2080,Apartment in a building that has five or more storeys
+North Bay,70,Other single-attached house
+North Bay,170,Movable dwelling
+Greater Sudbury / Grand Sudbury,45025,Single-detached house
+Greater Sudbury / Grand Sudbury,3295,Semi-detached house
+Greater Sudbury / Grand Sudbury,2935,Row house
+Greater Sudbury / Grand Sudbury,4485,Apartment or flat in a duplex
+Greater Sudbury / Grand Sudbury,12130,Apartment in a building that has fewer than five storeys
+Greater Sudbury / Grand Sudbury,4790,Apartment in a building that has five or more storeys
+Greater Sudbury / Grand Sudbury,135,Other single-attached house
+Greater Sudbury / Grand Sudbury,590,Movable dwelling
+Elliot Lake,2625,Single-detached house
+Elliot Lake,1100,Semi-detached house
+Elliot Lake,605,Row house
+Elliot Lake,50,Apartment or flat in a duplex
+Elliot Lake,880,Apartment in a building that has fewer than five storeys
+Elliot Lake,575,Apartment in a building that has five or more storeys
+Elliot Lake,0,Other single-attached house
+Elliot Lake,0,Movable dwelling
+Timmins,11650,Single-detached house
+Timmins,1185,Semi-detached house
+Timmins,605,Row house
+Timmins,1100,Apartment or flat in a duplex
+Timmins,2480,Apartment in a building that has fewer than five storeys
+Timmins,510,Apartment in a building that has five or more storeys
+Timmins,85,Other single-attached house
+Timmins,265,Movable dwelling
+Sault Ste. Marie,22990,Single-detached house
+Sault Ste. Marie,1825,Semi-detached house
+Sault Ste. Marie,945,Row house
+Sault Ste. Marie,1450,Apartment or flat in a duplex
+Sault Ste. Marie,4970,Apartment in a building that has fewer than five storeys
+Sault Ste. Marie,2060,Apartment in a building that has five or more storeys
+Sault Ste. Marie,95,Other single-attached house
+Sault Ste. Marie,80,Movable dwelling
+Thunder Bay,37165,Single-detached house
+Thunder Bay,2100,Semi-detached house
+Thunder Bay,1495,Row house
+Thunder Bay,2440,Apartment or flat in a duplex
+Thunder Bay,7925,Apartment in a building that has fewer than five storeys
+Thunder Bay,2575,Apartment in a building that has five or more storeys
+Thunder Bay,120,Other single-attached house
+Thunder Bay,400,Movable dwelling
+Kenora,5020,Single-detached house
+Kenora,175,Semi-detached house
+Kenora,85,Row house
+Kenora,245,Apartment or flat in a duplex
+Kenora,715,Apartment in a building that has fewer than five storeys
+Kenora,160,Apartment in a building that has five or more storeys
+Kenora,15,Other single-attached house
+Kenora,90,Movable dwelling
+Winnipeg,199120,Single-detached house
+Winnipeg,12395,Semi-detached house
+Winnipeg,12290,Row house
+Winnipeg,5600,Apartment or flat in a duplex
+Winnipeg,57665,Apartment in a building that has fewer than five storeys
+Winnipeg,41290,Apartment in a building that has five or more storeys
+Winnipeg,310,Other single-attached house
+Winnipeg,1655,Movable dwelling
+Winkler,7945,Single-detached house
+Winkler,690,Semi-detached house
+Winkler,1025,Row house
+Winkler,60,Apartment or flat in a duplex
+Winkler,845,Apartment in a building that has fewer than five storeys
+Winkler,350,Apartment in a building that has five or more storeys
+Winkler,10,Other single-attached house
+Winkler,440,Movable dwelling
+Steinbach,3750,Single-detached house
+Steinbach,620,Semi-detached house
+Steinbach,290,Row house
+Steinbach,255,Apartment or flat in a duplex
+Steinbach,1495,Apartment in a building that has fewer than five storeys
+Steinbach,255,Apartment in a building that has five or more storeys
+Steinbach,5,Other single-attached house
+Steinbach,165,Movable dwelling
+Portage la Prairie,3975,Single-detached house
+Portage la Prairie,140,Semi-detached house
+Portage la Prairie,345,Row house
+Portage la Prairie,40,Apartment or flat in a duplex
+Portage la Prairie,795,Apartment in a building that has fewer than five storeys
+Portage la Prairie,255,Apartment in a building that has five or more storeys
+Portage la Prairie,5,Other single-attached house
+Portage la Prairie,80,Movable dwelling
+Brandon,12075,Single-detached house
+Brandon,915,Semi-detached house
+Brandon,1600,Row house
+Brandon,530,Apartment or flat in a duplex
+Brandon,5220,Apartment in a building that has fewer than five storeys
+Brandon,725,Apartment in a building that has five or more storeys
+Brandon,30,Other single-attached house
+Brandon,1185,Movable dwelling
+Thompson,2300,Single-detached house
+Thompson,165,Semi-detached house
+Thompson,435,Row house
+Thompson,5,Apartment or flat in a duplex
+Thompson,1175,Apartment in a building that has fewer than five storeys
+Thompson,155,Apartment in a building that has five or more storeys
+Thompson,5,Other single-attached house
+Thompson,435,Movable dwelling
+Regina,65495,Single-detached house
+Regina,2715,Semi-detached house
+Regina,6195,Row house
+Regina,2220,Apartment or flat in a duplex
+Regina,18660,Apartment in a building that has fewer than five storeys
+Regina,4395,Apartment in a building that has five or more storeys
+Regina,45,Other single-attached house
+Regina,495,Movable dwelling
+Yorkton,6310,Single-detached house
+Yorkton,280,Semi-detached house
+Yorkton,235,Row house
+Yorkton,60,Apartment or flat in a duplex
+Yorkton,1345,Apartment in a building that has fewer than five storeys
+Yorkton,0,Apartment in a building that has five or more storeys
+Yorkton,5,Other single-attached house
+Yorkton,195,Movable dwelling
+Moose Jaw,10750,Single-detached house
+Moose Jaw,430,Semi-detached house
+Moose Jaw,445,Row house
+Moose Jaw,360,Apartment or flat in a duplex
+Moose Jaw,2245,Apartment in a building that has fewer than five storeys
+Moose Jaw,640,Apartment in a building that has five or more storeys
+Moose Jaw,80,Other single-attached house
+Moose Jaw,265,Movable dwelling
+Swift Current,5360,Single-detached house
+Swift Current,400,Semi-detached house
+Swift Current,365,Row house
+Swift Current,165,Apartment or flat in a duplex
+Swift Current,1280,Apartment in a building that has fewer than five storeys
+Swift Current,100,Apartment in a building that has five or more storeys
+Swift Current,5,Other single-attached house
+Swift Current,265,Movable dwelling
+Saskatoon,73655,Single-detached house
+Saskatoon,4605,Semi-detached house
+Saskatoon,8260,Row house
+Saskatoon,6800,Apartment or flat in a duplex
+Saskatoon,26055,Apartment in a building that has fewer than five storeys
+Saskatoon,4720,Apartment in a building that has five or more storeys
+Saskatoon,55,Other single-attached house
+Saskatoon,945,Movable dwelling
+North Battleford,5620,Single-detached house
+North Battleford,270,Semi-detached house
+North Battleford,245,Row house
+North Battleford,115,Apartment or flat in a duplex
+North Battleford,1195,Apartment in a building that has fewer than five storeys
+North Battleford,150,Apartment in a building that has five or more storeys
+North Battleford,35,Other single-attached house
+North Battleford,235,Movable dwelling
+Prince Albert,11735,Single-detached house
+Prince Albert,485,Semi-detached house
+Prince Albert,490,Row house
+Prince Albert,310,Apartment or flat in a duplex
+Prince Albert,3145,Apartment in a building that has fewer than five storeys
+Prince Albert,625,Apartment in a building that has five or more storeys
+Prince Albert,15,Other single-attached house
+Prince Albert,260,Movable dwelling
+Estevan,3680,Single-detached house
+Estevan,165,Semi-detached house
+Estevan,155,Row house
+Estevan,75,Apartment or flat in a duplex
+Estevan,930,Apartment in a building that has fewer than five storeys
+Estevan,45,Apartment in a building that has five or more storeys
+Estevan,10,Other single-attached house
+Estevan,280,Movable dwelling
+Weyburn,3480,Single-detached house
+Weyburn,140,Semi-detached house
+Weyburn,110,Row house
+Weyburn,55,Apartment or flat in a duplex
+Weyburn,1055,Apartment in a building that has fewer than five storeys
+Weyburn,115,Apartment in a building that has five or more storeys
+Weyburn,5,Other single-attached house
+Weyburn,135,Movable dwelling
+Medicine Hat,21370,Single-detached house
+Medicine Hat,1630,Semi-detached house
+Medicine Hat,1755,Row house
+Medicine Hat,500,Apartment or flat in a duplex
+Medicine Hat,5365,Apartment in a building that has fewer than five storeys
+Medicine Hat,230,Apartment in a building that has five or more storeys
+Medicine Hat,30,Other single-attached house
+Medicine Hat,1175,Movable dwelling
+Brooks,2800,Single-detached house
+Brooks,405,Semi-detached house
+Brooks,560,Row house
+Brooks,180,Apartment or flat in a duplex
+Brooks,800,Apartment in a building that has fewer than five storeys
+Brooks,0,Apartment in a building that has five or more storeys
+Brooks,0,Other single-attached house
+Brooks,395,Movable dwelling
+Lethbridge,32300,Single-detached house
+Lethbridge,2750,Semi-detached house
+Lethbridge,2725,Row house
+Lethbridge,3105,Apartment or flat in a duplex
+Lethbridge,5625,Apartment in a building that has fewer than five storeys
+Lethbridge,825,Apartment in a building that has five or more storeys
+Lethbridge,20,Other single-attached house
+Lethbridge,1295,Movable dwelling
+Okotoks,8140,Single-detached house
+Okotoks,515,Semi-detached house
+Okotoks,645,Row house
+Okotoks,110,Apartment or flat in a duplex
+Okotoks,955,Apartment in a building that has fewer than five storeys
+Okotoks,5,Apartment in a building that has five or more storeys
+Okotoks,5,Other single-attached house
+Okotoks,110,Movable dwelling
+High River,2910,Single-detached house
+High River,1035,Semi-detached house
+High River,730,Row house
+High River,105,Apartment or flat in a duplex
+High River,725,Apartment in a building that has fewer than five storeys
+High River,0,Apartment in a building that has five or more storeys
+High River,5,Other single-attached house
+High River,275,Movable dwelling
+Calgary,320530,Single-detached house
+Calgary,36290,Semi-detached house
+Calgary,55260,Row house
+Calgary,21405,Apartment or flat in a duplex
+Calgary,86640,Apartment in a building that has fewer than five storeys
+Calgary,40750,Apartment in a building that has five or more storeys
+Calgary,315,Other single-attached house
+Calgary,2255,Movable dwelling
+Strathmore,3235,Single-detached house
+Strathmore,700,Semi-detached house
+Strathmore,560,Row house
+Strathmore,60,Apartment or flat in a duplex
+Strathmore,740,Apartment in a building that has fewer than five storeys
+Strathmore,0,Apartment in a building that has five or more storeys
+Strathmore,0,Other single-attached house
+Strathmore,225,Movable dwelling
+Canmore,2575,Single-detached house
+Canmore,560,Semi-detached house
+Canmore,1340,Row house
+Canmore,385,Apartment or flat in a duplex
+Canmore,1670,Apartment in a building that has fewer than five storeys
+Canmore,255,Apartment in a building that has five or more storeys
+Canmore,5,Other single-attached house
+Canmore,10,Movable dwelling
+Red Deer,21515,Single-detached house
+Red Deer,3275,Semi-detached house
+Red Deer,4075,Row house
+Red Deer,1480,Apartment or flat in a duplex
+Red Deer,8495,Apartment in a building that has fewer than five storeys
+Red Deer,590,Apartment in a building that has five or more storeys
+Red Deer,30,Other single-attached house
+Red Deer,1045,Movable dwelling
+Sylvan Lake,4430,Single-detached house
+Sylvan Lake,310,Semi-detached house
+Sylvan Lake,775,Row house
+Sylvan Lake,235,Apartment or flat in a duplex
+Sylvan Lake,535,Apartment in a building that has fewer than five storeys
+Sylvan Lake,135,Apartment in a building that has five or more storeys
+Sylvan Lake,5,Other single-attached house
+Sylvan Lake,190,Movable dwelling
+Lacombe,3285,Single-detached house
+Lacombe,460,Semi-detached house
+Lacombe,255,Row house
+Lacombe,110,Apartment or flat in a duplex
+Lacombe,695,Apartment in a building that has fewer than five storeys
+Lacombe,0,Apartment in a building that has five or more storeys
+Lacombe,15,Other single-attached house
+Lacombe,365,Movable dwelling
+Camrose,5075,Single-detached house
+Camrose,560,Semi-detached house
+Camrose,455,Row house
+Camrose,205,Apartment or flat in a duplex
+Camrose,1605,Apartment in a building that has fewer than five storeys
+Camrose,60,Apartment in a building that has five or more storeys
+Camrose,10,Other single-attached house
+Camrose,170,Movable dwelling
+Edmonton,309965,Single-detached house
+Edmonton,38475,Semi-detached house
+Edmonton,46405,Row house
+Edmonton,10955,Apartment or flat in a duplex
+Edmonton,105235,Apartment in a building that has fewer than five storeys
+Edmonton,30920,Apartment in a building that has five or more storeys
+Edmonton,140,Other single-attached house
+Edmonton,6525,Movable dwelling
+Lloydminster,9420,Single-detached house
+Lloydminster,335,Semi-detached house
+Lloydminster,1095,Row house
+Lloydminster,110,Apartment or flat in a duplex
+Lloydminster,2385,Apartment in a building that has fewer than five storeys
+Lloydminster,105,Apartment in a building that has five or more storeys
+Lloydminster,5,Other single-attached house
+Lloydminster,435,Movable dwelling
+Lloydminster (Saskatchewan part),4200,Single-detached house
+Lloydminster (Saskatchewan part),120,Semi-detached house
+Lloydminster (Saskatchewan part),770,Row house
+Lloydminster (Saskatchewan part),40,Apartment or flat in a duplex
+Lloydminster (Saskatchewan part),815,Apartment in a building that has fewer than five storeys
+Lloydminster (Saskatchewan part),70,Apartment in a building that has five or more storeys
+Lloydminster (Saskatchewan part),5,Other single-attached house
+Lloydminster (Saskatchewan part),230,Movable dwelling
+Lloydminster (Alberta part),5225,Single-detached house
+Lloydminster (Alberta part),215,Semi-detached house
+Lloydminster (Alberta part),325,Row house
+Lloydminster (Alberta part),65,Apartment or flat in a duplex
+Lloydminster (Alberta part),1570,Apartment in a building that has fewer than five storeys
+Lloydminster (Alberta part),40,Apartment in a building that has five or more storeys
+Lloydminster (Alberta part),0,Other single-attached house
+Lloydminster (Alberta part),205,Movable dwelling
+Grande Prairie,15280,Single-detached house
+Grande Prairie,1755,Semi-detached house
+Grande Prairie,1085,Row house
+Grande Prairie,1105,Apartment or flat in a duplex
+Grande Prairie,4580,Apartment in a building that has fewer than five storeys
+Grande Prairie,160,Apartment in a building that has five or more storeys
+Grande Prairie,5,Other single-attached house
+Grande Prairie,835,Movable dwelling
+Wood Buffalo,12915,Single-detached house
+Wood Buffalo,1235,Semi-detached house
+Wood Buffalo,2755,Row house
+Wood Buffalo,470,Apartment or flat in a duplex
+Wood Buffalo,5645,Apartment in a building that has fewer than five storeys
+Wood Buffalo,845,Apartment in a building that has five or more storeys
+Wood Buffalo,5,Other single-attached house
+Wood Buffalo,2605,Movable dwelling
+Wetaskiwin,3015,Single-detached house
+Wetaskiwin,405,Semi-detached house
+Wetaskiwin,445,Row house
+Wetaskiwin,170,Apartment or flat in a duplex
+Wetaskiwin,980,Apartment in a building that has fewer than five storeys
+Wetaskiwin,0,Apartment in a building that has five or more storeys
+Wetaskiwin,10,Other single-attached house
+Wetaskiwin,165,Movable dwelling
+Cranbrook,7890,Single-detached house
+Cranbrook,510,Semi-detached house
+Cranbrook,530,Row house
+Cranbrook,255,Apartment or flat in a duplex
+Cranbrook,1300,Apartment in a building that has fewer than five storeys
+Cranbrook,0,Apartment in a building that has five or more storeys
+Cranbrook,50,Other single-attached house
+Cranbrook,850,Movable dwelling
+Nelson,5595,Single-detached house
+Nelson,320,Semi-detached house
+Nelson,265,Row house
+Nelson,780,Apartment or flat in a duplex
+Nelson,1050,Apartment in a building that has fewer than five storeys
+Nelson,0,Apartment in a building that has five or more storeys
+Nelson,120,Other single-attached house
+Nelson,370,Movable dwelling
+Trail,4950,Single-detached house
+Trail,240,Semi-detached house
+Trail,200,Row house
+Trail,225,Apartment or flat in a duplex
+Trail,780,Apartment in a building that has fewer than five storeys
+Trail,0,Apartment in a building that has five or more storeys
+Trail,15,Other single-attached house
+Trail,95,Movable dwelling
+Penticton,10525,Single-detached house
+Penticton,720,Semi-detached house
+Penticton,1970,Row house
+Penticton,945,Apartment or flat in a duplex
+Penticton,5210,Apartment in a building that has fewer than five storeys
+Penticton,1210,Apartment in a building that has five or more storeys
+Penticton,135,Other single-attached house
+Penticton,1220,Movable dwelling
+Kelowna,46335,Single-detached house
+Kelowna,4605,Semi-detached house
+Kelowna,5955,Row house
+Kelowna,9045,Apartment or flat in a duplex
+Kelowna,21395,Apartment in a building that has fewer than five storeys
+Kelowna,2585,Apartment in a building that has five or more storeys
+Kelowna,175,Other single-attached house
+Kelowna,4235,Movable dwelling
+Vernon,16285,Single-detached house
+Vernon,1680,Semi-detached house
+Vernon,2200,Row house
+Vernon,2205,Apartment or flat in a duplex
+Vernon,4905,Apartment in a building that has fewer than five storeys
+Vernon,350,Apartment in a building that has five or more storeys
+Vernon,100,Other single-attached house
+Vernon,1005,Movable dwelling
+Salmon Arm,5155,Single-detached house
+Salmon Arm,225,Semi-detached house
+Salmon Arm,605,Row house
+Salmon Arm,680,Apartment or flat in a duplex
+Salmon Arm,1105,Apartment in a building that has fewer than five storeys
+Salmon Arm,0,Apartment in a building that has five or more storeys
+Salmon Arm,30,Other single-attached house
+Salmon Arm,420,Movable dwelling
+Kamloops,24995,Single-detached house
+Kamloops,3360,Semi-detached house
+Kamloops,4215,Row house
+Kamloops,4060,Apartment or flat in a duplex
+Kamloops,7350,Apartment in a building that has fewer than five storeys
+Kamloops,855,Apartment in a building that has five or more storeys
+Kamloops,85,Other single-attached house
+Kamloops,2190,Movable dwelling
+Chilliwack,25495,Single-detached house
+Chilliwack,1655,Semi-detached house
+Chilliwack,5935,Row house
+Chilliwack,1745,Apartment or flat in a duplex
+Chilliwack,7580,Apartment in a building that has fewer than five storeys
+Chilliwack,290,Apartment in a building that has five or more storeys
+Chilliwack,45,Other single-attached house
+Chilliwack,1625,Movable dwelling
+Abbotsford - Mission,29170,Single-detached house
+Abbotsford - Mission,1710,Semi-detached house
+Abbotsford - Mission,5590,Row house
+Abbotsford - Mission,14035,Apartment or flat in a duplex
+Abbotsford - Mission,15550,Apartment in a building that has fewer than five storeys
+Abbotsford - Mission,1160,Apartment in a building that has five or more storeys
+Abbotsford - Mission,60,Other single-attached house
+Abbotsford - Mission,335,Movable dwelling
+Vancouver,288775,Single-detached house
+Vancouver,22030,Semi-detached house
+Vancouver,105965,Row house
+Vancouver,167855,Apartment or flat in a duplex
+Vancouver,255555,Apartment in a building that has fewer than five storeys
+Vancouver,197280,Apartment in a building that has five or more storeys
+Vancouver,1340,Other single-attached house
+Vancouver,4525,Movable dwelling
+Squamish,3810,Single-detached house
+Squamish,845,Semi-detached house
+Squamish,1355,Row house
+Squamish,610,Apartment or flat in a duplex
+Squamish,1660,Apartment in a building that has fewer than five storeys
+Squamish,635,Apartment in a building that has five or more storeys
+Squamish,20,Other single-attached house
+Squamish,370,Movable dwelling
+Victoria,67260,Single-detached house
+Victoria,6445,Semi-detached house
+Victoria,11320,Row house
+Victoria,27125,Apartment or flat in a duplex
+Victoria,47460,Apartment in a building that has fewer than five storeys
+Victoria,14650,Apartment in a building that has five or more storeys
+Victoria,305,Other single-attached house
+Victoria,2110,Movable dwelling
+Ladysmith,4995,Single-detached house
+Ladysmith,280,Semi-detached house
+Ladysmith,255,Row house
+Ladysmith,210,Apartment or flat in a duplex
+Ladysmith,395,Apartment in a building that has fewer than five storeys
+Ladysmith,0,Apartment in a building that has five or more storeys
+Ladysmith,40,Other single-attached house
+Ladysmith,325,Movable dwelling
+Duncan,12850,Single-detached house
+Duncan,1155,Semi-detached house
+Duncan,1225,Row house
+Duncan,925,Apartment or flat in a duplex
+Duncan,2940,Apartment in a building that has fewer than five storeys
+Duncan,10,Apartment in a building that has five or more storeys
+Duncan,85,Other single-attached house
+Duncan,825,Movable dwelling
+Nanaimo,27575,Single-detached house
+Nanaimo,2200,Semi-detached house
+Nanaimo,1985,Row house
+Nanaimo,6265,Apartment or flat in a duplex
+Nanaimo,8270,Apartment in a building that has fewer than five storeys
+Nanaimo,1390,Apartment in a building that has five or more storeys
+Nanaimo,100,Other single-attached house
+Nanaimo,1560,Movable dwelling
+Parksville,10610,Single-detached house
+Parksville,850,Semi-detached house
+Parksville,1170,Row house
+Parksville,220,Apartment or flat in a duplex
+Parksville,1335,Apartment in a building that has fewer than five storeys
+Parksville,70,Apartment in a building that has five or more storeys
+Parksville,25,Other single-attached house
+Parksville,490,Movable dwelling
+Port Alberni,8495,Single-detached house
+Port Alberni,305,Semi-detached house
+Port Alberni,515,Row house
+Port Alberni,435,Apartment or flat in a duplex
+Port Alberni,1310,Apartment in a building that has fewer than five storeys
+Port Alberni,140,Apartment in a building that has five or more storeys
+Port Alberni,20,Other single-attached house
+Port Alberni,495,Movable dwelling
+Courtenay,18145,Single-detached house
+Courtenay,2810,Semi-detached house
+Courtenay,1710,Row house
+Courtenay,875,Apartment or flat in a duplex
+Courtenay,3585,Apartment in a building that has fewer than five storeys
+Courtenay,45,Apartment in a building that has five or more storeys
+Courtenay,55,Other single-attached house
+Courtenay,975,Movable dwelling
+Campbell River,11175,Single-detached house
+Campbell River,850,Semi-detached house
+Campbell River,1080,Row house
+Campbell River,740,Apartment or flat in a duplex
+Campbell River,2840,Apartment in a building that has fewer than five storeys
+Campbell River,0,Apartment in a building that has five or more storeys
+Campbell River,5,Other single-attached house
+Campbell River,950,Movable dwelling
+Powell River,6160,Single-detached house
+Powell River,255,Semi-detached house
+Powell River,105,Row house
+Powell River,320,Apartment or flat in a duplex
+Powell River,950,Apartment in a building that has fewer than five storeys
+Powell River,20,Apartment in a building that has five or more storeys
+Powell River,30,Other single-attached house
+Powell River,340,Movable dwelling
+Williams Lake,6530,Single-detached house
+Williams Lake,270,Semi-detached house
+Williams Lake,385,Row house
+Williams Lake,570,Apartment or flat in a duplex
+Williams Lake,970,Apartment in a building that has fewer than five storeys
+Williams Lake,0,Apartment in a building that has five or more storeys
+Williams Lake,25,Other single-attached house
+Williams Lake,1285,Movable dwelling
+Quesnel,7170,Single-detached house
+Quesnel,210,Semi-detached house
+Quesnel,300,Row house
+Quesnel,205,Apartment or flat in a duplex
+Quesnel,1065,Apartment in a building that has fewer than five storeys
+Quesnel,0,Apartment in a building that has five or more storeys
+Quesnel,40,Other single-attached house
+Quesnel,1165,Movable dwelling
+Prince Rupert,3245,Single-detached house
+Prince Rupert,230,Semi-detached house
+Prince Rupert,310,Row house
+Prince Rupert,635,Apartment or flat in a duplex
+Prince Rupert,905,Apartment in a building that has fewer than five storeys
+Prince Rupert,60,Apartment in a building that has five or more storeys
+Prince Rupert,15,Other single-attached house
+Prince Rupert,100,Movable dwelling
+Terrace,5375,Single-detached house
+Terrace,345,Semi-detached house
+Terrace,485,Row house
+Terrace,385,Apartment or flat in a duplex
+Terrace,610,Apartment in a building that has fewer than five storeys
+Terrace,0,Apartment in a building that has five or more storeys
+Terrace,50,Other single-attached house
+Terrace,750,Movable dwelling
+Prince George,22935,Single-detached house
+Prince George,1300,Semi-detached house
+Prince George,1850,Row house
+Prince George,2505,Apartment or flat in a duplex
+Prince George,4740,Apartment in a building that has fewer than five storeys
+Prince George,575,Apartment in a building that has five or more storeys
+Prince George,40,Other single-attached house
+Prince George,2855,Movable dwelling
+Dawson Creek,5215,Single-detached house
+Dawson Creek,330,Semi-detached house
+Dawson Creek,340,Row house
+Dawson Creek,165,Apartment or flat in a duplex
+Dawson Creek,1085,Apartment in a building that has fewer than five storeys
+Dawson Creek,0,Apartment in a building that has five or more storeys
+Dawson Creek,10,Other single-attached house
+Dawson Creek,405,Movable dwelling
+Fort St. John,6425,Single-detached house
+Fort St. John,1010,Semi-detached house
+Fort St. John,920,Row house
+Fort St. John,240,Apartment or flat in a duplex
+Fort St. John,1735,Apartment in a building that has fewer than five storeys
+Fort St. John,145,Apartment in a building that has five or more storeys
+Fort St. John,15,Other single-attached house
+Fort St. John,1105,Movable dwelling
+Whitehorse,7110,Single-detached house
+Whitehorse,1060,Semi-detached house
+Whitehorse,1155,Row house
+Whitehorse,650,Apartment or flat in a duplex
+Whitehorse,1830,Apartment in a building that has fewer than five storeys
+Whitehorse,55,Apartment in a building that has five or more storeys
+Whitehorse,90,Other single-attached house
+Whitehorse,1230,Movable dwelling
+Yellowknife,3330,Single-detached house
+Yellowknife,195,Semi-detached house
+Yellowknife,885,Row house
+Yellowknife,305,Apartment or flat in a duplex
+Yellowknife,1940,Apartment in a building that has fewer than five storeys
+Yellowknife,295,Apartment in a building that has five or more storeys
+Yellowknife,20,Other single-attached house
+Yellowknife,545,Movable dwelling

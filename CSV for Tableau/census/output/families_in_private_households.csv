@@ -1,0 +1,1281 @@
+GEO_NAME,COUNT_TOTAL,family_type,children
+St. John's,39840,Married couples,0
+St. John's,20855,Married couples,With children
+St. John's,18995,Married couples,Without children
+St. John's,10520,Common-law couples,0
+St. John's,3765,Common-law couples,With children
+St. John's,6750,Common-law couples,Without children
+St. John's,8305,in which the parent is a woman+,0
+St. John's,2230,in which the parent is a man+,0
+Grand Falls-Windsor,2905,Married couples,0
+Grand Falls-Windsor,1155,Married couples,With children
+Grand Falls-Windsor,1750,Married couples,Without children
+Grand Falls-Windsor,620,Common-law couples,0
+Grand Falls-Windsor,270,Common-law couples,With children
+Grand Falls-Windsor,345,Common-law couples,Without children
+Grand Falls-Windsor,560,in which the parent is a woman+,0
+Grand Falls-Windsor,165,in which the parent is a man+,0
+Gander,2810,Married couples,0
+Gander,1205,Married couples,With children
+Gander,1605,Married couples,Without children
+Gander,675,Common-law couples,0
+Gander,315,Common-law couples,With children
+Gander,360,Common-law couples,Without children
+Gander,460,in which the parent is a woman+,0
+Gander,135,in which the parent is a man+,0
+Corner Brook,6025,Married couples,0
+Corner Brook,2500,Married couples,With children
+Corner Brook,3525,Married couples,Without children
+Corner Brook,1380,Common-law couples,0
+Corner Brook,550,Common-law couples,With children
+Corner Brook,830,Common-law couples,Without children
+Corner Brook,1215,in which the parent is a woman+,0
+Corner Brook,310,in which the parent is a man+,0
+Charlottetown,14940,Married couples,0
+Charlottetown,7570,Married couples,With children
+Charlottetown,7370,Married couples,Without children
+Charlottetown,3335,Common-law couples,0
+Charlottetown,1180,Common-law couples,With children
+Charlottetown,2155,Common-law couples,Without children
+Charlottetown,2605,in which the parent is a woman+,0
+Charlottetown,735,in which the parent is a man+,0
+Summerside,3320,Married couples,0
+Summerside,1375,Married couples,With children
+Summerside,1945,Married couples,Without children
+Summerside,790,Common-law couples,0
+Summerside,335,Common-law couples,With children
+Summerside,460,Common-law couples,Without children
+Summerside,735,in which the parent is a woman+,0
+Summerside,200,in which the parent is a man+,0
+Halifax,84715,Married couples,0
+Halifax,41935,Married couples,With children
+Halifax,42780,Married couples,Without children
+Halifax,24920,Common-law couples,0
+Halifax,7735,Common-law couples,With children
+Halifax,17185,Common-law couples,Without children
+Halifax,16830,in which the parent is a woman+,0
+Halifax,4350,in which the parent is a man+,0
+Kentville,5220,Married couples,0
+Kentville,2135,Married couples,With children
+Kentville,3085,Married couples,Without children
+Kentville,1390,Common-law couples,0
+Kentville,535,Common-law couples,With children
+Kentville,855,Common-law couples,Without children
+Kentville,1120,in which the parent is a woman+,0
+Kentville,295,in which the parent is a man+,0
+Truro,8740,Married couples,0
+Truro,3485,Married couples,With children
+Truro,5255,Married couples,Without children
+Truro,2370,Common-law couples,0
+Truro,920,Common-law couples,With children
+Truro,1445,Common-law couples,Without children
+Truro,1890,in which the parent is a woman+,0
+Truro,525,in which the parent is a man+,0
+New Glasgow,6435,Married couples,0
+New Glasgow,2630,Married couples,With children
+New Glasgow,3805,Married couples,Without children
+New Glasgow,1545,Common-law couples,0
+New Glasgow,635,Common-law couples,With children
+New Glasgow,910,Common-law couples,Without children
+New Glasgow,1640,in which the parent is a woman+,0
+New Glasgow,425,in which the parent is a man+,0
+Cape Breton,16800,Married couples,0
+Cape Breton,6850,Married couples,With children
+Cape Breton,9950,Married couples,Without children
+Cape Breton,3840,Common-law couples,0
+Cape Breton,1605,Common-law couples,With children
+Cape Breton,2235,Common-law couples,Without children
+Cape Breton,6055,in which the parent is a woman+,0
+Cape Breton,1500,in which the parent is a man+,0
+Moncton,28585,Married couples,0
+Moncton,13420,Married couples,With children
+Moncton,15170,Married couples,Without children
+Moncton,9155,Common-law couples,0
+Moncton,3575,Common-law couples,With children
+Moncton,5580,Common-law couples,Without children
+Moncton,5350,in which the parent is a woman+,0
+Moncton,1545,in which the parent is a man+,0
+Saint John,25010,Married couples,0
+Saint John,11690,Married couples,With children
+Saint John,13320,Married couples,Without children
+Saint John,5990,Common-law couples,0
+Saint John,2335,Common-law couples,With children
+Saint John,3655,Common-law couples,Without children
+Saint John,5305,in which the parent is a woman+,0
+Saint John,1480,in which the parent is a man+,0
+Fredericton,21075,Married couples,0
+Fredericton,10035,Married couples,With children
+Fredericton,11045,Married couples,Without children
+Fredericton,5435,Common-law couples,0
+Fredericton,1985,Common-law couples,With children
+Fredericton,3450,Common-law couples,Without children
+Fredericton,3625,in which the parent is a woman+,0
+Fredericton,1080,in which the parent is a man+,0
+Bathurst,5925,Married couples,0
+Bathurst,1980,Married couples,With children
+Bathurst,3945,Married couples,Without children
+Bathurst,2345,Common-law couples,0
+Bathurst,960,Common-law couples,With children
+Bathurst,1390,Common-law couples,Without children
+Bathurst,945,in which the parent is a woman+,0
+Bathurst,325,in which the parent is a man+,0
+Miramichi,5535,Married couples,0
+Miramichi,2230,Married couples,With children
+Miramichi,3310,Married couples,Without children
+Miramichi,1120,Common-law couples,0
+Miramichi,450,Common-law couples,With children
+Miramichi,665,Common-law couples,Without children
+Miramichi,1225,in which the parent is a woman+,0
+Miramichi,335,in which the parent is a man+,0
+Campbellton,2085,Married couples,0
+Campbellton,695,Married couples,With children
+Campbellton,1390,Married couples,Without children
+Campbellton,900,Common-law couples,0
+Campbellton,405,Common-law couples,With children
+Campbellton,495,Common-law couples,Without children
+Campbellton,595,in which the parent is a woman+,0
+Campbellton,175,in which the parent is a man+,0
+Campbellton (New Brunswick part),1910,Married couples,0
+Campbellton (New Brunswick part),640,Married couples,With children
+Campbellton (New Brunswick part),1275,Married couples,Without children
+Campbellton (New Brunswick part),765,Common-law couples,0
+Campbellton (New Brunswick part),345,Common-law couples,With children
+Campbellton (New Brunswick part),425,Common-law couples,Without children
+Campbellton (New Brunswick part),535,in which the parent is a woman+,0
+Campbellton (New Brunswick part),160,in which the parent is a man+,0
+Campbellton (Quebec part),170,Married couples,0
+Campbellton (Quebec part),50,Married couples,With children
+Campbellton (Quebec part),120,Married couples,Without children
+Campbellton (Quebec part),130,Common-law couples,0
+Campbellton (Quebec part),65,Common-law couples,With children
+Campbellton (Quebec part),70,Common-law couples,Without children
+Campbellton (Quebec part),65,in which the parent is a woman+,0
+Campbellton (Quebec part),15,in which the parent is a man+,0
+Edmundston,3615,Married couples,0
+Edmundston,1145,Married couples,With children
+Edmundston,2470,Married couples,Without children
+Edmundston,1800,Common-law couples,0
+Edmundston,865,Common-law couples,With children
+Edmundston,935,Common-law couples,Without children
+Edmundston,640,in which the parent is a woman+,0
+Edmundston,230,in which the parent is a man+,0
+Matane,2250,Married couples,0
+Matane,475,Married couples,With children
+Matane,1770,Married couples,Without children
+Matane,2200,Common-law couples,0
+Matane,1060,Common-law couples,With children
+Matane,1135,Common-law couples,Without children
+Matane,540,in which the parent is a woman+,0
+Matane,220,in which the parent is a man+,0
+Rimouski,5960,Married couples,0
+Rimouski,1705,Married couples,With children
+Rimouski,4255,Married couples,Without children
+Rimouski,7010,Common-law couples,0
+Rimouski,3350,Common-law couples,With children
+Rimouski,3660,Common-law couples,Without children
+Rimouski,1470,in which the parent is a woman+,0
+Rimouski,575,in which the parent is a man+,0
+RiviÃ¨re-du-Loup,3355,Married couples,0
+RiviÃ¨re-du-Loup,880,Married couples,With children
+RiviÃ¨re-du-Loup,2475,Married couples,Without children
+RiviÃ¨re-du-Loup,3870,Common-law couples,0
+RiviÃ¨re-du-Loup,2050,Common-law couples,With children
+RiviÃ¨re-du-Loup,1815,Common-law couples,Without children
+RiviÃ¨re-du-Loup,740,in which the parent is a woman+,0
+RiviÃ¨re-du-Loup,275,in which the parent is a man+,0
+Baie-Comeau,3010,Married couples,0
+Baie-Comeau,755,Married couples,With children
+Baie-Comeau,2260,Married couples,Without children
+Baie-Comeau,3590,Common-law couples,0
+Baie-Comeau,1775,Common-law couples,With children
+Baie-Comeau,1820,Common-law couples,Without children
+Baie-Comeau,745,in which the parent is a woman+,0
+Baie-Comeau,325,in which the parent is a man+,0
+Saguenay,20800,Married couples,0
+Saguenay,5980,Married couples,With children
+Saguenay,14825,Married couples,Without children
+Saguenay,19645,Common-law couples,0
+Saguenay,9815,Common-law couples,With children
+Saguenay,9825,Common-law couples,Without children
+Saguenay,4180,in which the parent is a woman+,0
+Saguenay,1905,in which the parent is a man+,0
+Alma,3885,Married couples,0
+Alma,1075,Married couples,With children
+Alma,2810,Married couples,Without children
+Alma,3540,Common-law couples,0
+Alma,1845,Common-law couples,With children
+Alma,1695,Common-law couples,Without children
+Alma,855,in which the parent is a woman+,0
+Alma,355,in which the parent is a man+,0
+Dolbeau-Mistassini,2075,Married couples,0
+Dolbeau-Mistassini,510,Married couples,With children
+Dolbeau-Mistassini,1565,Married couples,Without children
+Dolbeau-Mistassini,1675,Common-law couples,0
+Dolbeau-Mistassini,885,Common-law couples,With children
+Dolbeau-Mistassini,790,Common-law couples,Without children
+Dolbeau-Mistassini,410,in which the parent is a woman+,0
+Dolbeau-Mistassini,170,in which the parent is a man+,0
+Sept-ÃŽles,2685,Married couples,0
+Sept-ÃŽles,900,Married couples,With children
+Sept-ÃŽles,1785,Married couples,Without children
+Sept-ÃŽles,3405,Common-law couples,0
+Sept-ÃŽles,1875,Common-law couples,With children
+Sept-ÃŽles,1535,Common-law couples,Without children
+Sept-ÃŽles,1175,in which the parent is a woman+,0
+Sept-ÃŽles,475,in which the parent is a man+,0
+QuÃ©bec,95490,Married couples,0
+QuÃ©bec,35920,Married couples,With children
+QuÃ©bec,59570,Married couples,Without children
+QuÃ©bec,102870,Common-law couples,0
+QuÃ©bec,49715,Common-law couples,With children
+QuÃ©bec,53155,Common-law couples,Without children
+QuÃ©bec,22465,in which the parent is a woman+,0
+QuÃ©bec,9500,in which the parent is a man+,0
+Sainte-Marie,1735,Married couples,0
+Sainte-Marie,600,Married couples,With children
+Sainte-Marie,1135,Married couples,Without children
+Sainte-Marie,1470,Common-law couples,0
+Sainte-Marie,865,Common-law couples,With children
+Sainte-Marie,605,Common-law couples,Without children
+Sainte-Marie,350,in which the parent is a woman+,0
+Sainte-Marie,150,in which the parent is a man+,0
+Saint-Georges,4165,Married couples,0
+Saint-Georges,1415,Married couples,With children
+Saint-Georges,2750,Married couples,Without children
+Saint-Georges,3810,Common-law couples,0
+Saint-Georges,1995,Common-law couples,With children
+Saint-Georges,1810,Common-law couples,Without children
+Saint-Georges,1065,in which the parent is a woman+,0
+Saint-Georges,430,in which the parent is a man+,0
+Thetford Mines,3680,Married couples,0
+Thetford Mines,855,Married couples,With children
+Thetford Mines,2830,Married couples,Without children
+Thetford Mines,2870,Common-law couples,0
+Thetford Mines,1395,Common-law couples,With children
+Thetford Mines,1480,Common-law couples,Without children
+Thetford Mines,830,in which the parent is a woman+,0
+Thetford Mines,315,in which the parent is a man+,0
+Sherbrooke,26090,Married couples,0
+Sherbrooke,9405,Married couples,With children
+Sherbrooke,16680,Married couples,Without children
+Sherbrooke,25175,Common-law couples,0
+Sherbrooke,11765,Common-law couples,With children
+Sherbrooke,13410,Common-law couples,Without children
+Sherbrooke,6700,in which the parent is a woman+,0
+Sherbrooke,2675,in which the parent is a man+,0
+Cowansville,1810,Married couples,0
+Cowansville,505,Married couples,With children
+Cowansville,1300,Married couples,Without children
+Cowansville,1525,Common-law couples,0
+Cowansville,750,Common-law couples,With children
+Cowansville,780,Common-law couples,Without children
+Cowansville,560,in which the parent is a woman+,0
+Cowansville,180,in which the parent is a man+,0
+Victoriaville,6000,Married couples,0
+Victoriaville,1725,Married couples,With children
+Victoriaville,4280,Married couples,Without children
+Victoriaville,6110,Common-law couples,0
+Victoriaville,3245,Common-law couples,With children
+Victoriaville,2865,Common-law couples,Without children
+Victoriaville,1610,in which the parent is a woman+,0
+Victoriaville,615,in which the parent is a man+,0
+Trois-RiviÃ¨res,17655,Married couples,0
+Trois-RiviÃ¨res,5290,Married couples,With children
+Trois-RiviÃ¨res,12365,Married couples,Without children
+Trois-RiviÃ¨res,18860,Common-law couples,0
+Trois-RiviÃ¨res,8905,Common-law couples,With children
+Trois-RiviÃ¨res,9955,Common-law couples,Without children
+Trois-RiviÃ¨res,5120,in which the parent is a woman+,0
+Trois-RiviÃ¨res,1955,in which the parent is a man+,0
+Shawinigan,5720,Married couples,0
+Shawinigan,1305,Married couples,With children
+Shawinigan,4420,Married couples,Without children
+Shawinigan,5345,Common-law couples,0
+Shawinigan,2315,Common-law couples,With children
+Shawinigan,3030,Common-law couples,Without children
+Shawinigan,1645,in which the parent is a woman+,0
+Shawinigan,620,in which the parent is a man+,0
+Drummondville,11515,Married couples,0
+Drummondville,3800,Married couples,With children
+Drummondville,7710,Married couples,Without children
+Drummondville,11825,Common-law couples,0
+Drummondville,6155,Common-law couples,With children
+Drummondville,5665,Common-law couples,Without children
+Drummondville,3060,in which the parent is a woman+,0
+Drummondville,1315,in which the parent is a man+,0
+Granby,11005,Married couples,0
+Granby,3490,Married couples,With children
+Granby,7520,Married couples,Without children
+Granby,10620,Common-law couples,0
+Granby,5075,Common-law couples,With children
+Granby,5545,Common-law couples,Without children
+Granby,2715,in which the parent is a woman+,0
+Granby,1200,in which the parent is a man+,0
+Saint-Hyacinthe,6930,Married couples,0
+Saint-Hyacinthe,2370,Married couples,With children
+Saint-Hyacinthe,4565,Married couples,Without children
+Saint-Hyacinthe,6210,Common-law couples,0
+Saint-Hyacinthe,2950,Common-law couples,With children
+Saint-Hyacinthe,3260,Common-law couples,Without children
+Saint-Hyacinthe,2035,in which the parent is a woman+,0
+Saint-Hyacinthe,760,in which the parent is a man+,0
+Sorel-Tracy,5245,Married couples,0
+Sorel-Tracy,1290,Married couples,With children
+Sorel-Tracy,3955,Married couples,Without children
+Sorel-Tracy,4715,Common-law couples,0
+Sorel-Tracy,2165,Common-law couples,With children
+Sorel-Tracy,2550,Common-law couples,Without children
+Sorel-Tracy,1370,in which the parent is a woman+,0
+Sorel-Tracy,530,in which the parent is a man+,0
+Joliette,5865,Married couples,0
+Joliette,1755,Married couples,With children
+Joliette,4110,Married couples,Without children
+Joliette,5640,Common-law couples,0
+Joliette,2610,Common-law couples,With children
+Joliette,3025,Common-law couples,Without children
+Joliette,1950,in which the parent is a woman+,0
+Joliette,640,in which the parent is a man+,0
+MontrÃ©al,596365,Married couples,0
+MontrÃ©al,331450,Married couples,With children
+MontrÃ©al,264920,Married couples,Without children
+MontrÃ©al,339250,Common-law couples,0
+MontrÃ©al,159770,Common-law couples,With children
+MontrÃ©al,179485,Common-law couples,Without children
+MontrÃ©al,159830,in which the parent is a woman+,0
+MontrÃ©al,47590,in which the parent is a man+,0
+Salaberry-de-Valleyfield,4710,Married couples,0
+Salaberry-de-Valleyfield,1425,Married couples,With children
+Salaberry-de-Valleyfield,3290,Married couples,Without children
+Salaberry-de-Valleyfield,4810,Common-law couples,0
+Salaberry-de-Valleyfield,2260,Common-law couples,With children
+Salaberry-de-Valleyfield,2550,Common-law couples,Without children
+Salaberry-de-Valleyfield,1640,in which the parent is a woman+,0
+Salaberry-de-Valleyfield,575,in which the parent is a man+,0
+Sainte-Agathe-des-Monts,2375,Married couples,0
+Sainte-Agathe-des-Monts,620,Married couples,With children
+Sainte-Agathe-des-Monts,1755,Married couples,Without children
+Sainte-Agathe-des-Monts,2250,Common-law couples,0
+Sainte-Agathe-des-Monts,970,Common-law couples,With children
+Sainte-Agathe-des-Monts,1280,Common-law couples,Without children
+Sainte-Agathe-des-Monts,695,in which the parent is a woman+,0
+Sainte-Agathe-des-Monts,300,in which the parent is a man+,0
+Lachute,1535,Married couples,0
+Lachute,455,Married couples,With children
+Lachute,1085,Married couples,Without children
+Lachute,1390,Common-law couples,0
+Lachute,665,Common-law couples,With children
+Lachute,725,Common-law couples,Without children
+Lachute,640,in which the parent is a woman+,0
+Lachute,205,in which the parent is a man+,0
+Val-d'Or,3470,Married couples,0
+Val-d'Or,1215,Married couples,With children
+Val-d'Or,2260,Married couples,Without children
+Val-d'Or,4540,Common-law couples,0
+Val-d'Or,2295,Common-law couples,With children
+Val-d'Or,2250,Common-law couples,Without children
+Val-d'Or,960,in which the parent is a woman+,0
+Val-d'Or,470,in which the parent is a man+,0
+Amos,2025,Married couples,0
+Amos,645,Married couples,With children
+Amos,1385,Married couples,Without children
+Amos,2360,Common-law couples,0
+Amos,1225,Common-law couples,With children
+Amos,1135,Common-law couples,Without children
+Amos,590,in which the parent is a woman+,0
+Amos,275,in which the parent is a man+,0
+Rouyn-Noranda,4460,Married couples,0
+Rouyn-Noranda,1510,Married couples,With children
+Rouyn-Noranda,2955,Married couples,Without children
+Rouyn-Noranda,5595,Common-law couples,0
+Rouyn-Noranda,2825,Common-law couples,With children
+Rouyn-Noranda,2765,Common-law couples,Without children
+Rouyn-Noranda,1115,in which the parent is a woman+,0
+Rouyn-Noranda,590,in which the parent is a man+,0
+Cornwall,10655,Married couples,0
+Cornwall,4320,Married couples,With children
+Cornwall,6335,Married couples,Without children
+Cornwall,3210,Common-law couples,0
+Cornwall,1425,Common-law couples,With children
+Cornwall,1785,Common-law couples,Without children
+Cornwall,2675,in which the parent is a woman+,0
+Cornwall,820,in which the parent is a man+,0
+Hawkesbury,1625,Married couples,0
+Hawkesbury,470,Married couples,With children
+Hawkesbury,1160,Married couples,Without children
+Hawkesbury,900,Common-law couples,0
+Hawkesbury,375,Common-law couples,With children
+Hawkesbury,525,Common-law couples,Without children
+Hawkesbury,605,in which the parent is a woman+,0
+Hawkesbury,170,in which the parent is a man+,0
+Hawkesbury (Quebec part),215,Married couples,0
+Hawkesbury (Quebec part),65,Married couples,With children
+Hawkesbury (Quebec part),155,Married couples,Without children
+Hawkesbury (Quebec part),175,Common-law couples,0
+Hawkesbury (Quebec part),90,Common-law couples,With children
+Hawkesbury (Quebec part),90,Common-law couples,Without children
+Hawkesbury (Quebec part),100,in which the parent is a woman+,0
+Hawkesbury (Quebec part),30,in which the parent is a man+,0
+Hawkesbury (Ontario part),1410,Married couples,0
+Hawkesbury (Ontario part),410,Married couples,With children
+Hawkesbury (Ontario part),1000,Married couples,Without children
+Hawkesbury (Ontario part),725,Common-law couples,0
+Hawkesbury (Ontario part),285,Common-law couples,With children
+Hawkesbury (Ontario part),440,Common-law couples,Without children
+Hawkesbury (Ontario part),505,in which the parent is a woman+,0
+Hawkesbury (Ontario part),145,in which the parent is a man+,0
+Ottawa - Gatineau,263250,Married couples,0
+Ottawa - Gatineau,145305,Married couples,With children
+Ottawa - Gatineau,117945,Married couples,Without children
+Ottawa - Gatineau,78180,Common-law couples,0
+Ottawa - Gatineau,30480,Common-law couples,With children
+Ottawa - Gatineau,47710,Common-law couples,Without children
+Ottawa - Gatineau,52010,in which the parent is a woman+,0
+Ottawa - Gatineau,15245,in which the parent is a man+,0
+Ottawa - Gatineau (Quebec part),49030,Married couples,0
+Ottawa - Gatineau (Quebec part),24575,Married couples,With children
+Ottawa - Gatineau (Quebec part),24455,Married couples,Without children
+Ottawa - Gatineau (Quebec part),29965,Common-law couples,0
+Ottawa - Gatineau (Quebec part),14935,Common-law couples,With children
+Ottawa - Gatineau (Quebec part),15030,Common-law couples,Without children
+Ottawa - Gatineau (Quebec part),13745,in which the parent is a woman+,0
+Ottawa - Gatineau (Quebec part),4785,in which the parent is a man+,0
+Ottawa - Gatineau (Ontario part),214220,Married couples,0
+Ottawa - Gatineau (Ontario part),120725,Married couples,With children
+Ottawa - Gatineau (Ontario part),93495,Married couples,Without children
+Ottawa - Gatineau (Ontario part),48220,Common-law couples,0
+Ottawa - Gatineau (Ontario part),15540,Common-law couples,With children
+Ottawa - Gatineau (Ontario part),32680,Common-law couples,Without children
+Ottawa - Gatineau (Ontario part),38265,in which the parent is a woman+,0
+Ottawa - Gatineau (Ontario part),10465,in which the parent is a man+,0
+Brockville,5940,Married couples,0
+Brockville,2200,Married couples,With children
+Brockville,3740,Married couples,Without children
+Brockville,1510,Common-law couples,0
+Brockville,600,Common-law couples,With children
+Brockville,915,Common-law couples,Without children
+Brockville,1340,in which the parent is a woman+,0
+Brockville,365,in which the parent is a man+,0
+Pembroke,4310,Married couples,0
+Pembroke,1850,Married couples,With children
+Pembroke,2455,Married couples,Without children
+Pembroke,1190,Common-law couples,0
+Pembroke,490,Common-law couples,With children
+Pembroke,705,Common-law couples,Without children
+Pembroke,990,in which the parent is a woman+,0
+Pembroke,300,in which the parent is a man+,0
+Petawawa,3255,Married couples,0
+Petawawa,1845,Married couples,With children
+Petawawa,1410,Married couples,Without children
+Petawawa,1065,Common-law couples,0
+Petawawa,515,Common-law couples,With children
+Petawawa,545,Common-law couples,Without children
+Petawawa,415,in which the parent is a woman+,0
+Petawawa,180,in which the parent is a man+,0
+Kingston,31360,Married couples,0
+Kingston,14485,Married couples,With children
+Kingston,16880,Married couples,Without children
+Kingston,8795,Common-law couples,0
+Kingston,3060,Common-law couples,With children
+Kingston,5725,Common-law couples,Without children
+Kingston,6150,in which the parent is a woman+,0
+Kingston,1815,in which the parent is a man+,0
+Belleville - Quinte West,20910,Married couples,0
+Belleville - Quinte West,9190,Married couples,With children
+Belleville - Quinte West,11725,Married couples,Without children
+Belleville - Quinte West,5780,Common-law couples,0
+Belleville - Quinte West,2430,Common-law couples,With children
+Belleville - Quinte West,3350,Common-law couples,Without children
+Belleville - Quinte West,4335,in which the parent is a woman+,0
+Belleville - Quinte West,1320,in which the parent is a man+,0
+Cobourg,4020,Married couples,0
+Cobourg,1455,Married couples,With children
+Cobourg,2565,Married couples,Without children
+Cobourg,975,Common-law couples,0
+Cobourg,365,Common-law couples,With children
+Cobourg,610,Common-law couples,Without children
+Cobourg,880,in which the parent is a woman+,0
+Cobourg,195,in which the parent is a man+,0
+Port Hope,3500,Married couples,0
+Port Hope,1470,Married couples,With children
+Port Hope,2030,Married couples,Without children
+Port Hope,940,Common-law couples,0
+Port Hope,365,Common-law couples,With children
+Port Hope,575,Common-law couples,Without children
+Port Hope,645,in which the parent is a woman+,0
+Port Hope,185,in which the parent is a man+,0
+Peterborough,23900,Married couples,0
+Peterborough,10845,Married couples,With children
+Peterborough,13060,Married couples,Without children
+Peterborough,6385,Common-law couples,0
+Peterborough,2415,Common-law couples,With children
+Peterborough,3975,Common-law couples,Without children
+Peterborough,4895,in which the parent is a woman+,0
+Peterborough,1320,in which the parent is a man+,0
+Kawartha Lakes,16720,Married couples,0
+Kawartha Lakes,6585,Married couples,With children
+Kawartha Lakes,10135,Married couples,Without children
+Kawartha Lakes,4135,Common-law couples,0
+Kawartha Lakes,1610,Common-law couples,With children
+Kawartha Lakes,2520,Common-law couples,Without children
+Kawartha Lakes,2480,in which the parent is a woman+,0
+Kawartha Lakes,845,in which the parent is a man+,0
+Centre Wellington,6980,Married couples,0
+Centre Wellington,3455,Married couples,With children
+Centre Wellington,3520,Married couples,Without children
+Centre Wellington,1205,Common-law couples,0
+Centre Wellington,495,Common-law couples,With children
+Centre Wellington,715,Common-law couples,Without children
+Centre Wellington,835,in which the parent is a woman+,0
+Centre Wellington,250,in which the parent is a man+,0
+Oshawa,79390,Married couples,0
+Oshawa,49350,Married couples,With children
+Oshawa,30040,Married couples,Without children
+Oshawa,15970,Common-law couples,0
+Oshawa,7300,Common-law couples,With children
+Oshawa,8670,Common-law couples,Without children
+Oshawa,17775,in which the parent is a woman+,0
+Oshawa,4790,in which the parent is a man+,0
+Ingersoll,2660,Married couples,0
+Ingersoll,1345,Married couples,With children
+Ingersoll,1315,Married couples,Without children
+Ingersoll,695,Common-law couples,0
+Ingersoll,320,Common-law couples,With children
+Ingersoll,380,Common-law couples,Without children
+Ingersoll,535,in which the parent is a woman+,0
+Ingersoll,160,in which the parent is a man+,0
+Toronto,1228045,Married couples,0
+Toronto,784485,Married couples,With children
+Toronto,443560,Married couples,Without children
+Toronto,162445,Common-law couples,0
+Toronto,53825,Common-law couples,With children
+Toronto,108615,Common-law couples,Without children
+Toronto,248000,in which the parent is a woman+,0
+Toronto,54425,in which the parent is a man+,0
+Hamilton,151505,Married couples,0
+Hamilton,87045,Married couples,With children
+Hamilton,64465,Married couples,Without children
+Hamilton,29370,Common-law couples,0
+Hamilton,10850,Common-law couples,With children
+Hamilton,18515,Common-law couples,Without children
+Hamilton,31230,in which the parent is a woman+,0
+Hamilton,8065,in which the parent is a man+,0
+St. Catharines - Niagara,83505,Married couples,0
+St. Catharines - Niagara,39785,Married couples,With children
+St. Catharines - Niagara,43720,Married couples,Without children
+St. Catharines - Niagara,18055,Common-law couples,0
+St. Catharines - Niagara,6905,Common-law couples,With children
+St. Catharines - Niagara,11155,Common-law couples,Without children
+St. Catharines - Niagara,17785,in which the parent is a woman+,0
+St. Catharines - Niagara,4880,in which the parent is a man+,0
+Kitchener - Cambridge - Waterloo,111220,Married couples,0
+Kitchener - Cambridge - Waterloo,64460,Married couples,With children
+Kitchener - Cambridge - Waterloo,46760,Married couples,Without children
+Kitchener - Cambridge - Waterloo,21680,Common-law couples,0
+Kitchener - Cambridge - Waterloo,7925,Common-law couples,With children
+Kitchener - Cambridge - Waterloo,13755,Common-law couples,Without children
+Kitchener - Cambridge - Waterloo,20040,in which the parent is a woman+,0
+Kitchener - Cambridge - Waterloo,5360,in which the parent is a man+,0
+Brantford,27110,Married couples,0
+Brantford,14360,Married couples,With children
+Brantford,12750,Married couples,Without children
+Brantford,6410,Common-law couples,0
+Brantford,2875,Common-law couples,With children
+Brantford,3535,Common-law couples,Without children
+Brantford,5935,in which the parent is a woman+,0
+Brantford,1740,in which the parent is a man+,0
+Woodstock,8750,Married couples,0
+Woodstock,4450,Married couples,With children
+Woodstock,4295,Married couples,Without children
+Woodstock,2300,Common-law couples,0
+Woodstock,1015,Common-law couples,With children
+Woodstock,1285,Common-law couples,Without children
+Woodstock,1815,in which the parent is a woman+,0
+Woodstock,540,in which the parent is a man+,0
+Tillsonburg,3880,Married couples,0
+Tillsonburg,1495,Married couples,With children
+Tillsonburg,2385,Married couples,Without children
+Tillsonburg,830,Common-law couples,0
+Tillsonburg,345,Common-law couples,With children
+Tillsonburg,485,Common-law couples,Without children
+Tillsonburg,655,in which the parent is a woman+,0
+Tillsonburg,175,in which the parent is a man+,0
+Norfolk,14245,Married couples,0
+Norfolk,6095,Married couples,With children
+Norfolk,8150,Married couples,Without children
+Norfolk,3045,Common-law couples,0
+Norfolk,1170,Common-law couples,With children
+Norfolk,1880,Common-law couples,Without children
+Norfolk,2065,in which the parent is a woman+,0
+Norfolk,700,in which the parent is a man+,0
+Guelph,31610,Married couples,0
+Guelph,18230,Married couples,With children
+Guelph,13380,Married couples,Without children
+Guelph,7265,Common-law couples,0
+Guelph,2450,Common-law couples,With children
+Guelph,4815,Common-law couples,Without children
+Guelph,5450,in which the parent is a woman+,0
+Guelph,1515,in which the parent is a man+,0
+Stratford,6290,Married couples,0
+Stratford,2785,Married couples,With children
+Stratford,3505,Married couples,Without children
+Stratford,1520,Common-law couples,0
+Stratford,565,Common-law couples,With children
+Stratford,955,Common-law couples,Without children
+Stratford,1305,in which the parent is a woman+,0
+Stratford,365,in which the parent is a man+,0
+London,100110,Married couples,0
+London,53775,Married couples,With children
+London,46335,Married couples,Without children
+London,22355,Common-law couples,0
+London,7850,Common-law couples,With children
+London,14505,Common-law couples,Without children
+London,21075,in which the parent is a woman+,0
+London,5405,in which the parent is a man+,0
+Chatham-Kent,20480,Married couples,0
+Chatham-Kent,8880,Married couples,With children
+Chatham-Kent,11600,Married couples,Without children
+Chatham-Kent,4405,Common-law couples,0
+Chatham-Kent,1915,Common-law couples,With children
+Chatham-Kent,2485,Common-law couples,Without children
+Chatham-Kent,4000,in which the parent is a woman+,0
+Chatham-Kent,1190,in which the parent is a man+,0
+Windsor,81730,Married couples,0
+Windsor,44715,Married couples,With children
+Windsor,37020,Married couples,Without children
+Windsor,13395,Common-law couples,0
+Windsor,5200,Common-law couples,With children
+Windsor,8195,Common-law couples,Without children
+Windsor,16975,in which the parent is a woman+,0
+Windsor,4510,in which the parent is a man+,0
+Sarnia,19520,Married couples,0
+Sarnia,8490,Married couples,With children
+Sarnia,11025,Married couples,Without children
+Sarnia,4160,Common-law couples,0
+Sarnia,1665,Common-law couples,With children
+Sarnia,2490,Common-law couples,Without children
+Sarnia,3510,in which the parent is a woman+,0
+Sarnia,1120,in which the parent is a man+,0
+Essa,4570,Married couples,0
+Essa,2765,Married couples,With children
+Essa,1805,Married couples,Without children
+Essa,1220,Common-law couples,0
+Essa,600,Common-law couples,With children
+Essa,620,Common-law couples,Without children
+Essa,655,in which the parent is a woman+,0
+Essa,270,in which the parent is a man+,0
+Wasaga Beach,5555,Married couples,0
+Wasaga Beach,1845,Married couples,With children
+Wasaga Beach,3710,Married couples,Without children
+Wasaga Beach,1195,Common-law couples,0
+Wasaga Beach,445,Common-law couples,With children
+Wasaga Beach,750,Common-law couples,Without children
+Wasaga Beach,915,in which the parent is a woman+,0
+Wasaga Beach,250,in which the parent is a man+,0
+Owen Sound,6325,Married couples,0
+Owen Sound,2540,Married couples,With children
+Owen Sound,3780,Married couples,Without children
+Owen Sound,1565,Common-law couples,0
+Owen Sound,625,Common-law couples,With children
+Owen Sound,940,Common-law couples,Without children
+Owen Sound,1230,in which the parent is a woman+,0
+Owen Sound,350,in which the parent is a man+,0
+Collingwood,4800,Married couples,0
+Collingwood,1950,Married couples,With children
+Collingwood,2850,Married couples,Without children
+Collingwood,1205,Common-law couples,0
+Collingwood,430,Common-law couples,With children
+Collingwood,775,Common-law couples,Without children
+Collingwood,890,in which the parent is a woman+,0
+Collingwood,240,in which the parent is a man+,0
+Barrie,39065,Married couples,0
+Barrie,22650,Married couples,With children
+Barrie,16420,Married couples,Without children
+Barrie,10145,Common-law couples,0
+Barrie,4350,Common-law couples,With children
+Barrie,5790,Common-law couples,Without children
+Barrie,8420,in which the parent is a woman+,0
+Barrie,2550,in which the parent is a man+,0
+Orillia,5350,Married couples,0
+Orillia,2200,Married couples,With children
+Orillia,3155,Married couples,Without children
+Orillia,1825,Common-law couples,0
+Orillia,760,Common-law couples,With children
+Orillia,1065,Common-law couples,Without children
+Orillia,1690,in which the parent is a woman+,0
+Orillia,420,in which the parent is a man+,0
+Midland,4950,Married couples,0
+Midland,1935,Married couples,With children
+Midland,3015,Married couples,Without children
+Midland,1435,Common-law couples,0
+Midland,590,Common-law couples,With children
+Midland,850,Common-law couples,Without children
+Midland,1245,in which the parent is a woman+,0
+Midland,340,in which the parent is a man+,0
+North Bay,13135,Married couples,0
+North Bay,5550,Married couples,With children
+North Bay,7585,Married couples,Without children
+North Bay,3835,Common-law couples,0
+North Bay,1525,Common-law couples,With children
+North Bay,2310,Common-law couples,Without children
+North Bay,2705,in which the parent is a woman+,0
+North Bay,940,in which the parent is a man+,0
+Greater Sudbury / Grand Sudbury,30310,Married couples,0
+Greater Sudbury / Grand Sudbury,14170,Married couples,With children
+Greater Sudbury / Grand Sudbury,16140,Married couples,Without children
+Greater Sudbury / Grand Sudbury,9715,Common-law couples,0
+Greater Sudbury / Grand Sudbury,4040,Common-law couples,With children
+Greater Sudbury / Grand Sudbury,5680,Common-law couples,Without children
+Greater Sudbury / Grand Sudbury,6625,in which the parent is a woman+,0
+Greater Sudbury / Grand Sudbury,2125,in which the parent is a man+,0
+Elliot Lake,2105,Married couples,0
+Elliot Lake,480,Married couples,With children
+Elliot Lake,1625,Married couples,Without children
+Elliot Lake,610,Common-law couples,0
+Elliot Lake,225,Common-law couples,With children
+Elliot Lake,390,Common-law couples,Without children
+Elliot Lake,430,in which the parent is a woman+,0
+Elliot Lake,140,in which the parent is a man+,0
+Timmins,6955,Married couples,0
+Timmins,3130,Married couples,With children
+Timmins,3825,Married couples,Without children
+Timmins,2530,Common-law couples,0
+Timmins,1150,Common-law couples,With children
+Timmins,1380,Common-law couples,Without children
+Timmins,1595,in which the parent is a woman+,0
+Timmins,575,in which the parent is a man+,0
+Sault Ste. Marie,13990,Married couples,0
+Sault Ste. Marie,6045,Married couples,With children
+Sault Ste. Marie,7950,Married couples,Without children
+Sault Ste. Marie,3655,Common-law couples,0
+Sault Ste. Marie,1520,Common-law couples,With children
+Sault Ste. Marie,2135,Common-law couples,Without children
+Sault Ste. Marie,3400,in which the parent is a woman+,0
+Sault Ste. Marie,1000,in which the parent is a man+,0
+Thunder Bay,21640,Married couples,0
+Thunder Bay,9935,Married couples,With children
+Thunder Bay,11705,Married couples,Without children
+Thunder Bay,6160,Common-law couples,0
+Thunder Bay,2315,Common-law couples,With children
+Thunder Bay,3840,Common-law couples,Without children
+Thunder Bay,4965,in which the parent is a woman+,0
+Thunder Bay,1575,in which the parent is a man+,0
+Kenora,2650,Married couples,0
+Kenora,1175,Married couples,With children
+Kenora,1475,Married couples,Without children
+Kenora,865,Common-law couples,0
+Kenora,345,Common-law couples,With children
+Kenora,520,Common-law couples,Without children
+Kenora,540,in which the parent is a woman+,0
+Kenora,200,in which the parent is a man+,0
+Winnipeg,154880,Married couples,0
+Winnipeg,88445,Married couples,With children
+Winnipeg,66435,Married couples,Without children
+Winnipeg,31170,Common-law couples,0
+Winnipeg,11280,Common-law couples,With children
+Winnipeg,19895,Common-law couples,Without children
+Winnipeg,29650,in which the parent is a woman+,0
+Winnipeg,8405,in which the parent is a man+,0
+Winkler,7435,Married couples,0
+Winkler,4300,Married couples,With children
+Winkler,3135,Married couples,Without children
+Winkler,410,Common-law couples,0
+Winkler,165,Common-law couples,With children
+Winkler,245,Common-law couples,Without children
+Winkler,580,in which the parent is a woman+,0
+Winkler,145,in which the parent is a man+,0
+Steinbach,3775,Married couples,0
+Steinbach,1960,Married couples,With children
+Steinbach,1810,Married couples,Without children
+Steinbach,375,Common-law couples,0
+Steinbach,185,Common-law couples,With children
+Steinbach,190,Common-law couples,Without children
+Steinbach,515,in which the parent is a woman+,0
+Steinbach,120,in which the parent is a man+,0
+Portage la Prairie,2185,Married couples,0
+Portage la Prairie,995,Married couples,With children
+Portage la Prairie,1190,Married couples,Without children
+Portage la Prairie,485,Common-law couples,0
+Portage la Prairie,225,Common-law couples,With children
+Portage la Prairie,260,Common-law couples,Without children
+Portage la Prairie,680,in which the parent is a woman+,0
+Portage la Prairie,160,in which the parent is a man+,0
+Brandon,9635,Married couples,0
+Brandon,5025,Married couples,With children
+Brandon,4605,Married couples,Without children
+Brandon,2250,Common-law couples,0
+Brandon,900,Common-law couples,With children
+Brandon,1345,Common-law couples,Without children
+Brandon,2010,in which the parent is a woman+,0
+Brandon,515,in which the parent is a man+,0
+Thompson,1715,Married couples,0
+Thompson,1050,Married couples,With children
+Thompson,670,Married couples,Without children
+Thompson,725,Common-law couples,0
+Thompson,425,Common-law couples,With children
+Thompson,300,Common-law couples,Without children
+Thompson,690,in which the parent is a woman+,0
+Thompson,215,in which the parent is a man+,0
+Regina,46780,Married couples,0
+Regina,25810,Married couples,With children
+Regina,20975,Married couples,Without children
+Regina,9285,Common-law couples,0
+Regina,3520,Common-law couples,With children
+Regina,5770,Common-law couples,Without children
+Regina,9005,in which the parent is a woman+,0
+Regina,2695,in which the parent is a man+,0
+Yorkton,3825,Married couples,0
+Yorkton,1765,Married couples,With children
+Yorkton,2060,Married couples,Without children
+Yorkton,770,Common-law couples,0
+Yorkton,355,Common-law couples,With children
+Yorkton,415,Common-law couples,Without children
+Yorkton,695,in which the parent is a woman+,0
+Yorkton,195,in which the parent is a man+,0
+Moose Jaw,6385,Married couples,0
+Moose Jaw,2960,Married couples,With children
+Moose Jaw,3425,Married couples,Without children
+Moose Jaw,1410,Common-law couples,0
+Moose Jaw,580,Common-law couples,With children
+Moose Jaw,830,Common-law couples,Without children
+Moose Jaw,1330,in which the parent is a woman+,0
+Moose Jaw,385,in which the parent is a man+,0
+Swift Current,3900,Married couples,0
+Swift Current,1835,Married couples,With children
+Swift Current,2065,Married couples,Without children
+Swift Current,650,Common-law couples,0
+Swift Current,245,Common-law couples,With children
+Swift Current,400,Common-law couples,Without children
+Swift Current,525,in which the parent is a woman+,0
+Swift Current,125,in which the parent is a man+,0
+Saskatoon,59890,Married couples,0
+Saskatoon,33590,Married couples,With children
+Saskatoon,26300,Married couples,Without children
+Saskatoon,11980,Common-law couples,0
+Saskatoon,4130,Common-law couples,With children
+Saskatoon,7850,Common-law couples,Without children
+Saskatoon,10445,in which the parent is a woman+,0
+Saskatoon,3065,in which the parent is a man+,0
+North Battleford,3330,Married couples,0
+North Battleford,1620,Married couples,With children
+North Battleford,1710,Married couples,Without children
+North Battleford,685,Common-law couples,0
+North Battleford,320,Common-law couples,With children
+North Battleford,370,Common-law couples,Without children
+North Battleford,950,in which the parent is a woman+,0
+North Battleford,225,in which the parent is a man+,0
+Prince Albert,6875,Married couples,0
+Prince Albert,3390,Married couples,With children
+Prince Albert,3485,Married couples,Without children
+Prince Albert,1825,Common-law couples,0
+Prince Albert,905,Common-law couples,With children
+Prince Albert,925,Common-law couples,Without children
+Prince Albert,2495,in which the parent is a woman+,0
+Prince Albert,720,in which the parent is a man+,0
+Estevan,2540,Married couples,0
+Estevan,1270,Married couples,With children
+Estevan,1270,Married couples,Without children
+Estevan,555,Common-law couples,0
+Estevan,255,Common-law couples,With children
+Estevan,295,Common-law couples,Without children
+Estevan,365,in which the parent is a woman+,0
+Estevan,140,in which the parent is a man+,0
+Weyburn,2350,Married couples,0
+Weyburn,1165,Married couples,With children
+Weyburn,1185,Married couples,Without children
+Weyburn,490,Common-law couples,0
+Weyburn,220,Common-law couples,With children
+Weyburn,275,Common-law couples,Without children
+Weyburn,410,in which the parent is a woman+,0
+Weyburn,105,in which the parent is a man+,0
+Medicine Hat,15135,Married couples,0
+Medicine Hat,6790,Married couples,With children
+Medicine Hat,8350,Married couples,Without children
+Medicine Hat,3045,Common-law couples,0
+Medicine Hat,1175,Common-law couples,With children
+Medicine Hat,1875,Common-law couples,Without children
+Medicine Hat,2675,in which the parent is a woman+,0
+Medicine Hat,820,in which the parent is a man+,0
+Brooks,2565,Married couples,0
+Brooks,1580,Married couples,With children
+Brooks,980,Married couples,Without children
+Brooks,485,Common-law couples,0
+Brooks,250,Common-law couples,With children
+Brooks,240,Common-law couples,Without children
+Brooks,565,in which the parent is a woman+,0
+Brooks,150,in which the parent is a man+,0
+Lethbridge,23365,Married couples,0
+Lethbridge,11930,Married couples,With children
+Lethbridge,11440,Married couples,Without children
+Lethbridge,4725,Common-law couples,0
+Lethbridge,1625,Common-law couples,With children
+Lethbridge,3100,Common-law couples,Without children
+Lethbridge,3820,in which the parent is a woman+,0
+Lethbridge,1160,in which the parent is a man+,0
+Okotoks,6605,Married couples,0
+Okotoks,3895,Married couples,With children
+Okotoks,2710,Married couples,Without children
+Okotoks,945,Common-law couples,0
+Okotoks,470,Common-law couples,With children
+Okotoks,470,Common-law couples,Without children
+Okotoks,925,in which the parent is a woman+,0
+Okotoks,255,in which the parent is a man+,0
+High River,3010,Married couples,0
+High River,1325,Married couples,With children
+High River,1685,Married couples,Without children
+High River,505,Common-law couples,0
+High River,205,Common-law couples,With children
+High River,300,Common-law couples,Without children
+High River,480,in which the parent is a woman+,0
+High River,140,in which the parent is a man+,0
+Calgary,294360,Married couples,0
+Calgary,178440,Married couples,With children
+Calgary,115925,Married couples,Without children
+Calgary,54310,Common-law couples,0
+Calgary,17640,Common-law couples,With children
+Calgary,36670,Common-law couples,Without children
+Calgary,44995,in which the parent is a woman+,0
+Calgary,13160,in which the parent is a man+,0
+Strathmore,2790,Married couples,0
+Strathmore,1445,Married couples,With children
+Strathmore,1345,Married couples,Without children
+Strathmore,605,Common-law couples,0
+Strathmore,260,Common-law couples,With children
+Strathmore,345,Common-law couples,Without children
+Strathmore,520,in which the parent is a woman+,0
+Strathmore,170,in which the parent is a man+,0
+Canmore,3160,Married couples,0
+Canmore,1420,Married couples,With children
+Canmore,1735,Married couples,Without children
+Canmore,1055,Common-law couples,0
+Canmore,220,Common-law couples,With children
+Canmore,835,Common-law couples,Without children
+Canmore,315,in which the parent is a woman+,0
+Canmore,100,in which the parent is a man+,0
+Red Deer,17905,Married couples,0
+Red Deer,9435,Married couples,With children
+Red Deer,8475,Married couples,Without children
+Red Deer,4050,Common-law couples,0
+Red Deer,1645,Common-law couples,With children
+Red Deer,2415,Common-law couples,Without children
+Red Deer,4005,in which the parent is a woman+,0
+Red Deer,1105,in which the parent is a man+,0
+Sylvan Lake,2905,Married couples,0
+Sylvan Lake,1590,Married couples,With children
+Sylvan Lake,1315,Married couples,Without children
+Sylvan Lake,845,Common-law couples,0
+Sylvan Lake,370,Common-law couples,With children
+Sylvan Lake,470,Common-law couples,Without children
+Sylvan Lake,720,in which the parent is a woman+,0
+Sylvan Lake,205,in which the parent is a man+,0
+Lacombe,2730,Married couples,0
+Lacombe,1390,Married couples,With children
+Lacombe,1340,Married couples,Without children
+Lacombe,430,Common-law couples,0
+Lacombe,175,Common-law couples,With children
+Lacombe,255,Common-law couples,Without children
+Lacombe,445,in which the parent is a woman+,0
+Lacombe,125,in which the parent is a man+,0
+Camrose,3620,Married couples,0
+Camrose,1575,Married couples,With children
+Camrose,2050,Married couples,Without children
+Camrose,695,Common-law couples,0
+Camrose,275,Common-law couples,With children
+Camrose,425,Common-law couples,Without children
+Camrose,695,in which the parent is a woman+,0
+Camrose,180,in which the parent is a man+,0
+Edmonton,268325,Married couples,0
+Edmonton,156735,Married couples,With children
+Edmonton,111595,Married couples,Without children
+Edmonton,53640,Common-law couples,0
+Edmonton,18920,Common-law couples,With children
+Edmonton,34720,Common-law couples,Without children
+Edmonton,48450,in which the parent is a woman+,0
+Edmonton,14350,in which the parent is a man+,0
+Lloydminster,6705,Married couples,0
+Lloydminster,3975,Married couples,With children
+Lloydminster,2725,Married couples,Without children
+Lloydminster,1455,Common-law couples,0
+Lloydminster,700,Common-law couples,With children
+Lloydminster,760,Common-law couples,Without children
+Lloydminster,1305,in which the parent is a woman+,0
+Lloydminster,385,in which the parent is a man+,0
+Lloydminster (Saskatchewan part),2935,Married couples,0
+Lloydminster (Saskatchewan part),1795,Married couples,With children
+Lloydminster (Saskatchewan part),1140,Married couples,Without children
+Lloydminster (Saskatchewan part),760,Common-law couples,0
+Lloydminster (Saskatchewan part),375,Common-law couples,With children
+Lloydminster (Saskatchewan part),385,Common-law couples,Without children
+Lloydminster (Saskatchewan part),630,in which the parent is a woman+,0
+Lloydminster (Saskatchewan part),205,in which the parent is a man+,0
+Lloydminster (Alberta part),3765,Married couples,0
+Lloydminster (Alberta part),2180,Married couples,With children
+Lloydminster (Alberta part),1590,Married couples,Without children
+Lloydminster (Alberta part),690,Common-law couples,0
+Lloydminster (Alberta part),325,Common-law couples,With children
+Lloydminster (Alberta part),365,Common-law couples,Without children
+Lloydminster (Alberta part),675,in which the parent is a woman+,0
+Lloydminster (Alberta part),185,in which the parent is a man+,0
+Grande Prairie,10295,Married couples,0
+Grande Prairie,6135,Married couples,With children
+Grande Prairie,4160,Married couples,Without children
+Grande Prairie,3650,Common-law couples,0
+Grande Prairie,1670,Common-law couples,With children
+Grande Prairie,1980,Common-law couples,Without children
+Grande Prairie,2375,in which the parent is a woman+,0
+Grande Prairie,810,in which the parent is a man+,0
+Wood Buffalo,12715,Married couples,0
+Wood Buffalo,8375,Married couples,With children
+Wood Buffalo,4340,Married couples,Without children
+Wood Buffalo,4175,Common-law couples,0
+Wood Buffalo,1950,Common-law couples,With children
+Wood Buffalo,2225,Common-law couples,Without children
+Wood Buffalo,2055,in which the parent is a woman+,0
+Wood Buffalo,905,in which the parent is a man+,0
+Wetaskiwin,2010,Married couples,0
+Wetaskiwin,950,Married couples,With children
+Wetaskiwin,1065,Married couples,Without children
+Wetaskiwin,505,Common-law couples,0
+Wetaskiwin,245,Common-law couples,With children
+Wetaskiwin,255,Common-law couples,Without children
+Wetaskiwin,590,in which the parent is a woman+,0
+Wetaskiwin,175,in which the parent is a man+,0
+Cranbrook,5430,Married couples,0
+Cranbrook,2255,Married couples,With children
+Cranbrook,3175,Married couples,Without children
+Cranbrook,1355,Common-law couples,0
+Cranbrook,465,Common-law couples,With children
+Cranbrook,885,Common-law couples,Without children
+Cranbrook,845,in which the parent is a woman+,0
+Cranbrook,310,in which the parent is a man+,0
+Nelson,3190,Married couples,0
+Nelson,1390,Married couples,With children
+Nelson,1805,Married couples,Without children
+Nelson,1265,Common-law couples,0
+Nelson,415,Common-law couples,With children
+Nelson,850,Common-law couples,Without children
+Nelson,615,in which the parent is a woman+,0
+Nelson,215,in which the parent is a man+,0
+Trail,2690,Married couples,0
+Trail,1040,Married couples,With children
+Trail,1650,Married couples,Without children
+Trail,735,Common-law couples,0
+Trail,285,Common-law couples,With children
+Trail,450,Common-law couples,Without children
+Trail,475,in which the parent is a woman+,0
+Trail,170,in which the parent is a man+,0
+Penticton,9265,Married couples,0
+Penticton,3110,Married couples,With children
+Penticton,6160,Married couples,Without children
+Penticton,2400,Common-law couples,0
+Penticton,690,Common-law couples,With children
+Penticton,1705,Common-law couples,Without children
+Penticton,1615,in which the parent is a woman+,0
+Penticton,485,in which the parent is a man+,0
+Kelowna,44360,Married couples,0
+Kelowna,19130,Married couples,With children
+Kelowna,25230,Married couples,Without children
+Kelowna,10875,Common-law couples,0
+Kelowna,3135,Common-law couples,With children
+Kelowna,7740,Common-law couples,Without children
+Kelowna,6495,in which the parent is a woman+,0
+Kelowna,2070,in which the parent is a man+,0
+Vernon,13615,Married couples,0
+Vernon,5305,Married couples,With children
+Vernon,8315,Married couples,Without children
+Vernon,3100,Common-law couples,0
+Vernon,1010,Common-law couples,With children
+Vernon,2095,Common-law couples,Without children
+Vernon,2145,in which the parent is a woman+,0
+Vernon,670,in which the parent is a man+,0
+Salmon Arm,4080,Married couples,0
+Salmon Arm,1630,Married couples,With children
+Salmon Arm,2450,Married couples,Without children
+Salmon Arm,760,Common-law couples,0
+Salmon Arm,265,Common-law couples,With children
+Salmon Arm,500,Common-law couples,Without children
+Salmon Arm,635,in which the parent is a woman+,0
+Salmon Arm,185,in which the parent is a man+,0
+Kamloops,21075,Married couples,0
+Kamloops,9525,Married couples,With children
+Kamloops,11555,Married couples,Without children
+Kamloops,6065,Common-law couples,0
+Kamloops,2100,Common-law couples,With children
+Kamloops,3960,Common-law couples,Without children
+Kamloops,3740,in which the parent is a woman+,0
+Kamloops,1160,in which the parent is a man+,0
+Chilliwack,22620,Married couples,0
+Chilliwack,10775,Married couples,With children
+Chilliwack,11845,Married couples,Without children
+Chilliwack,4530,Common-law couples,0
+Chilliwack,1785,Common-law couples,With children
+Chilliwack,2745,Common-law couples,Without children
+Chilliwack,3825,in which the parent is a woman+,0
+Chilliwack,1205,in which the parent is a man+,0
+Abbotsford - Mission,39860,Married couples,0
+Abbotsford - Mission,22435,Married couples,With children
+Abbotsford - Mission,17430,Married couples,Without children
+Abbotsford - Mission,5780,Common-law couples,0
+Abbotsford - Mission,2290,Common-law couples,With children
+Abbotsford - Mission,3490,Common-law couples,Without children
+Abbotsford - Mission,6265,in which the parent is a woman+,0
+Abbotsford - Mission,1840,in which the parent is a man+,0
+Vancouver,524010,Married couples,0
+Vancouver,303525,Married couples,With children
+Vancouver,220485,Married couples,Without children
+Vancouver,91335,Common-law couples,0
+Vancouver,23510,Common-law couples,With children
+Vancouver,67825,Common-law couples,Without children
+Vancouver,87695,in which the parent is a woman+,0
+Vancouver,21895,in which the parent is a man+,0
+Squamish,4145,Married couples,0
+Squamish,2500,Married couples,With children
+Squamish,1650,Married couples,Without children
+Squamish,1820,Common-law couples,0
+Squamish,595,Common-law couples,With children
+Squamish,1220,Common-law couples,Without children
+Squamish,550,in which the parent is a woman+,0
+Squamish,210,in which the parent is a man+,0
+Victoria,73685,Married couples,0
+Victoria,32935,Married couples,With children
+Victoria,40745,Married couples,Without children
+Victoria,20820,Common-law couples,0
+Victoria,5430,Common-law couples,With children
+Victoria,15385,Common-law couples,Without children
+Victoria,11755,in which the parent is a woman+,0
+Victoria,3615,in which the parent is a man+,0
+Ladysmith,3290,Married couples,0
+Ladysmith,1190,Married couples,With children
+Ladysmith,2100,Married couples,Without children
+Ladysmith,855,Common-law couples,0
+Ladysmith,290,Common-law couples,With children
+Ladysmith,560,Common-law couples,Without children
+Ladysmith,460,in which the parent is a woman+,0
+Ladysmith,190,in which the parent is a man+,0
+Duncan,9030,Married couples,0
+Duncan,3490,Married couples,With children
+Duncan,5535,Married couples,Without children
+Duncan,2410,Common-law couples,0
+Duncan,910,Common-law couples,With children
+Duncan,1500,Common-law couples,Without children
+Duncan,1740,in which the parent is a woman+,0
+Duncan,600,in which the parent is a man+,0
+Nanaimo,20965,Married couples,0
+Nanaimo,8825,Married couples,With children
+Nanaimo,12145,Married couples,Without children
+Nanaimo,6110,Common-law couples,0
+Nanaimo,2035,Common-law couples,With children
+Nanaimo,4070,Common-law couples,Without children
+Nanaimo,4255,in which the parent is a woman+,0
+Nanaimo,1315,in which the parent is a man+,0
+Parksville,7715,Married couples,0
+Parksville,1785,Married couples,With children
+Parksville,5925,Married couples,Without children
+Parksville,1370,Common-law couples,0
+Parksville,345,Common-law couples,With children
+Parksville,1030,Common-law couples,Without children
+Parksville,815,in which the parent is a woman+,0
+Parksville,220,in which the parent is a man+,0
+Port Alberni,4680,Married couples,0
+Port Alberni,1660,Married couples,With children
+Port Alberni,3020,Married couples,Without children
+Port Alberni,1430,Common-law couples,0
+Port Alberni,565,Common-law couples,With children
+Port Alberni,865,Common-law couples,Without children
+Port Alberni,1035,in which the parent is a woman+,0
+Port Alberni,355,in which the parent is a man+,0
+Courtenay,12660,Married couples,0
+Courtenay,4655,Married couples,With children
+Courtenay,8000,Married couples,Without children
+Courtenay,3405,Common-law couples,0
+Courtenay,1170,Common-law couples,With children
+Courtenay,2240,Common-law couples,Without children
+Courtenay,2075,in which the parent is a woman+,0
+Courtenay,620,in which the parent is a man+,0
+Campbell River,7920,Married couples,0
+Campbell River,2995,Married couples,With children
+Campbell River,4925,Married couples,Without children
+Campbell River,2250,Common-law couples,0
+Campbell River,810,Common-law couples,With children
+Campbell River,1435,Common-law couples,Without children
+Campbell River,1460,in which the parent is a woman+,0
+Campbell River,485,in which the parent is a man+,0
+Powell River,3520,Married couples,0
+Powell River,1200,Married couples,With children
+Powell River,2320,Married couples,Without children
+Powell River,990,Common-law couples,0
+Powell River,355,Common-law couples,With children
+Powell River,635,Common-law couples,Without children
+Powell River,520,in which the parent is a woman+,0
+Powell River,185,in which the parent is a man+,0
+Williams Lake,4285,Married couples,0
+Williams Lake,1715,Married couples,With children
+Williams Lake,2570,Married couples,Without children
+Williams Lake,1465,Common-law couples,0
+Williams Lake,615,Common-law couples,With children
+Williams Lake,850,Common-law couples,Without children
+Williams Lake,825,in which the parent is a woman+,0
+Williams Lake,305,in which the parent is a man+,0
+Quesnel,4280,Married couples,0
+Quesnel,1695,Married couples,With children
+Quesnel,2585,Married couples,Without children
+Quesnel,1380,Common-law couples,0
+Quesnel,550,Common-law couples,With children
+Quesnel,830,Common-law couples,Without children
+Quesnel,790,in which the parent is a woman+,0
+Quesnel,330,in which the parent is a man+,0
+Prince Rupert,1995,Married couples,0
+Prince Rupert,1020,Married couples,With children
+Prince Rupert,975,Married couples,Without children
+Prince Rupert,880,Common-law couples,0
+Prince Rupert,425,Common-law couples,With children
+Prince Rupert,450,Common-law couples,Without children
+Prince Rupert,590,in which the parent is a woman+,0
+Prince Rupert,215,in which the parent is a man+,0
+Terrace,3270,Married couples,0
+Terrace,1550,Married couples,With children
+Terrace,1720,Married couples,Without children
+Terrace,1255,Common-law couples,0
+Terrace,535,Common-law couples,With children
+Terrace,720,Common-law couples,Without children
+Terrace,715,in which the parent is a woman+,0
+Terrace,255,in which the parent is a man+,0
+Prince George,15655,Married couples,0
+Prince George,7560,Married couples,With children
+Prince George,8095,Married couples,Without children
+Prince George,4840,Common-law couples,0
+Prince George,1890,Common-law couples,With children
+Prince George,2955,Common-law couples,Without children
+Prince George,3360,in which the parent is a woman+,0
+Prince George,1100,in which the parent is a man+,0
+Dawson Creek,2980,Married couples,0
+Dawson Creek,1450,Married couples,With children
+Dawson Creek,1535,Married couples,Without children
+Dawson Creek,930,Common-law couples,0
+Dawson Creek,420,Common-law couples,With children
+Dawson Creek,510,Common-law couples,Without children
+Dawson Creek,665,in which the parent is a woman+,0
+Dawson Creek,220,in which the parent is a man+,0
+Fort St. John,4825,Married couples,0
+Fort St. John,2670,Married couples,With children
+Fort St. John,2160,Married couples,Without children
+Fort St. John,1660,Common-law couples,0
+Fort St. John,760,Common-law couples,With children
+Fort St. John,900,Common-law couples,Without children
+Fort St. John,890,in which the parent is a woman+,0
+Fort St. John,335,in which the parent is a man+,0
+Whitehorse,4950,Married couples,0
+Whitehorse,2620,Married couples,With children
+Whitehorse,2330,Married couples,Without children
+Whitehorse,2245,Common-law couples,0
+Whitehorse,815,Common-law couples,With children
+Whitehorse,1425,Common-law couples,Without children
+Whitehorse,1115,in which the parent is a woman+,0
+Whitehorse,415,in which the parent is a man+,0
+Yellowknife,3120,Married couples,0
+Yellowknife,1955,Married couples,With children
+Yellowknife,1165,Married couples,Without children
+Yellowknife,1310,Common-law couples,0
+Yellowknife,590,Common-law couples,With children
+Yellowknife,720,Common-law couples,Without children
+Yellowknife,760,in which the parent is a woman+,0
+Yellowknife,245,in which the parent is a man+,0

@@ -1,0 +1,2881 @@
+GEO_NAME,COUNT_TOTAL,COUNT_MEN,COUNT_WOMEN,Level,age_groups
+St. John's,9135,4715,4420,2,0 to 4 years
+St. John's,10775,5510,5265,2,5 to 9 years
+St. John's,11655,5975,5680,2,10 to 14 years
+St. John's,11235,5780,5455,2,15 to 19 years
+St. John's,13645,7080,6565,2,20 to 24 years
+St. John's,13605,6765,6840,2,25 to 29 years
+St. John's,14630,7250,7380,2,30 to 34 years
+St. John's,15020,7400,7625,2,35 to 39 years
+St. John's,14735,7065,7675,2,40 to 44 years
+St. John's,14490,7100,7390,2,45 to 49 years
+St. John's,14850,7140,7710,2,50 to 54 years
+St. John's,15570,7400,8170,2,55 to 59 years
+St. John's,14610,7015,7595,2,60 to 64 years
+St. John's,12870,6115,6760,2,65 to 69 years
+St. John's,10645,4875,5770,2,70 to 74 years
+St. John's,7185,3255,3935,2,75 to 79 years
+St. John's,4325,1835,2490,2,80 to 84 years
+St. John's,3585,1210,2380,2,85 years and over
+Grand Falls-Windsor,545,285,260,2,0 to 4 years
+Grand Falls-Windsor,625,290,335,2,5 to 9 years
+Grand Falls-Windsor,760,395,365,2,10 to 14 years
+Grand Falls-Windsor,725,370,360,2,15 to 19 years
+Grand Falls-Windsor,675,345,330,2,20 to 24 years
+Grand Falls-Windsor,620,295,325,2,25 to 29 years
+Grand Falls-Windsor,680,320,355,2,30 to 34 years
+Grand Falls-Windsor,755,360,395,2,35 to 39 years
+Grand Falls-Windsor,850,400,460,2,40 to 44 years
+Grand Falls-Windsor,890,430,460,2,45 to 49 years
+Grand Falls-Windsor,990,480,510,2,50 to 54 years
+Grand Falls-Windsor,1090,535,550,2,55 to 59 years
+Grand Falls-Windsor,1180,570,610,2,60 to 64 years
+Grand Falls-Windsor,1080,515,565,2,65 to 69 years
+Grand Falls-Windsor,910,420,490,2,70 to 74 years
+Grand Falls-Windsor,640,285,355,2,75 to 79 years
+Grand Falls-Windsor,505,240,265,2,80 to 84 years
+Grand Falls-Windsor,330,115,215,2,85 years and over
+Gander,565,285,280,2,0 to 4 years
+Gander,675,355,325,2,5 to 9 years
+Gander,780,410,370,2,10 to 14 years
+Gander,800,450,345,2,15 to 19 years
+Gander,670,335,335,2,20 to 24 years
+Gander,645,325,325,2,25 to 29 years
+Gander,780,385,395,2,30 to 34 years
+Gander,835,390,445,2,35 to 39 years
+Gander,800,375,425,2,40 to 44 years
+Gander,980,455,525,2,45 to 49 years
+Gander,1070,510,560,2,50 to 54 years
+Gander,980,490,495,2,55 to 59 years
+Gander,960,475,490,2,60 to 64 years
+Gander,805,385,415,2,65 to 69 years
+Gander,775,365,410,2,70 to 74 years
+Gander,505,215,285,2,75 to 79 years
+Gander,405,150,255,2,80 to 84 years
+Gander,380,155,225,2,85 years and over
+Corner Brook,1055,535,520,2,0 to 4 years
+Corner Brook,1330,710,615,2,5 to 9 years
+Corner Brook,1380,740,640,2,10 to 14 years
+Corner Brook,1550,770,775,2,15 to 19 years
+Corner Brook,1610,785,830,2,20 to 24 years
+Corner Brook,1505,750,755,2,25 to 29 years
+Corner Brook,1585,755,830,2,30 to 34 years
+Corner Brook,1650,790,860,2,35 to 39 years
+Corner Brook,1790,865,925,2,40 to 44 years
+Corner Brook,1870,855,1015,2,45 to 49 years
+Corner Brook,2110,1030,1080,2,50 to 54 years
+Corner Brook,2410,1145,1270,2,55 to 59 years
+Corner Brook,2430,1170,1260,2,60 to 64 years
+Corner Brook,2325,1145,1175,2,65 to 69 years
+Corner Brook,2140,1025,1115,2,70 to 74 years
+Corner Brook,1395,665,725,2,75 to 79 years
+Corner Brook,885,380,510,2,80 to 84 years
+Corner Brook,745,290,450,2,85 years and over
+Charlottetown,3510,1800,1710,2,0 to 4 years
+Charlottetown,4240,2190,2045,2,5 to 9 years
+Charlottetown,4655,2375,2280,2,10 to 14 years
+Charlottetown,4390,2220,2165,2,15 to 19 years
+Charlottetown,6380,3370,3015,2,20 to 24 years
+Charlottetown,5280,2740,2535,2,25 to 29 years
+Charlottetown,4960,2375,2580,2,30 to 34 years
+Charlottetown,4905,2375,2530,2,35 to 39 years
+Charlottetown,4910,2270,2640,2,40 to 44 years
+Charlottetown,4910,2380,2530,2,45 to 49 years
+Charlottetown,4955,2385,2570,2,50 to 54 years
+Charlottetown,5385,2595,2795,2,55 to 59 years
+Charlottetown,5135,2420,2710,2,60 to 64 years
+Charlottetown,4920,2335,2580,2,65 to 69 years
+Charlottetown,4260,2000,2260,2,70 to 74 years
+Charlottetown,2665,1220,1445,2,75 to 79 years
+Charlottetown,1710,740,970,2,80 to 84 years
+Charlottetown,1700,600,1100,2,85 years and over
+Summerside,745,395,355,2,0 to 4 years
+Summerside,955,505,455,2,5 to 9 years
+Summerside,1005,520,485,2,10 to 14 years
+Summerside,995,500,495,2,15 to 19 years
+Summerside,1175,640,530,2,20 to 24 years
+Summerside,915,480,435,2,25 to 29 years
+Summerside,970,485,495,2,30 to 34 years
+Summerside,1010,460,550,2,35 to 39 years
+Summerside,1010,475,535,2,40 to 44 years
+Summerside,1135,540,595,2,45 to 49 years
+Summerside,1140,535,600,2,50 to 54 years
+Summerside,1440,675,765,2,55 to 59 years
+Summerside,1365,595,765,2,60 to 64 years
+Summerside,1240,575,665,2,65 to 69 years
+Summerside,1145,530,615,2,70 to 74 years
+Summerside,775,315,460,2,75 to 79 years
+Summerside,575,240,340,2,80 to 84 years
+Summerside,560,215,345,2,85 years and over
+Halifax,21030,10680,10350,2,0 to 4 years
+Halifax,24120,12375,11745,2,5 to 9 years
+Halifax,24195,12480,11715,2,10 to 14 years
+Halifax,23330,12020,11310,2,15 to 19 years
+Halifax,33365,17205,16160,2,20 to 24 years
+Halifax,36205,18150,18055,2,25 to 29 years
+Halifax,34790,17190,17600,2,30 to 34 years
+Halifax,32335,15800,16535,2,35 to 39 years
+Halifax,29970,14420,15545,2,40 to 44 years
+Halifax,29485,14210,15270,2,45 to 49 years
+Halifax,30110,14365,15745,2,50 to 54 years
+Halifax,34180,16670,17510,2,55 to 59 years
+Halifax,31710,15285,16425,2,60 to 64 years
+Halifax,26525,12360,14165,2,65 to 69 years
+Halifax,22415,10395,12020,2,70 to 74 years
+Halifax,14655,6725,7930,2,75 to 79 years
+Halifax,9035,3850,5185,2,80 to 84 years
+Halifax,8240,2950,5290,2,85 years and over
+Kentville,1095,540,555,2,0 to 4 years
+Kentville,1340,695,645,2,5 to 9 years
+Kentville,1410,745,665,2,10 to 14 years
+Kentville,1415,730,680,2,15 to 19 years
+Kentville,1460,775,685,2,20 to 24 years
+Kentville,1405,690,720,2,25 to 29 years
+Kentville,1525,725,800,2,30 to 34 years
+Kentville,1460,690,770,2,35 to 39 years
+Kentville,1615,755,865,2,40 to 44 years
+Kentville,1625,775,850,2,45 to 49 years
+Kentville,1875,915,960,2,50 to 54 years
+Kentville,2170,1045,1115,2,55 to 59 years
+Kentville,2255,1070,1185,2,60 to 64 years
+Kentville,1975,930,1045,2,65 to 69 years
+Kentville,1740,830,905,2,70 to 74 years
+Kentville,1170,530,645,2,75 to 79 years
+Kentville,710,315,390,2,80 to 84 years
+Kentville,685,260,425,2,85 years and over
+Truro,1925,1010,910,2,0 to 4 years
+Truro,2250,1140,1110,2,5 to 9 years
+Truro,2495,1295,1205,2,10 to 14 years
+Truro,2360,1180,1185,2,15 to 19 years
+Truro,2430,1260,1175,2,20 to 24 years
+Truro,2550,1255,1290,2,25 to 29 years
+Truro,2515,1195,1320,2,30 to 34 years
+Truro,2555,1205,1355,2,35 to 39 years
+Truro,2515,1160,1355,2,40 to 44 years
+Truro,2860,1350,1510,2,45 to 49 years
+Truro,3095,1490,1600,2,50 to 54 years
+Truro,3760,1820,1935,2,55 to 59 years
+Truro,3725,1770,1955,2,60 to 64 years
+Truro,3350,1605,1735,2,65 to 69 years
+Truro,2930,1405,1520,2,70 to 74 years
+Truro,2110,995,1115,2,75 to 79 years
+Truro,1415,595,820,2,80 to 84 years
+Truro,1320,515,810,2,85 years and over
+New Glasgow,1300,700,600,2,0 to 4 years
+New Glasgow,1650,850,795,2,5 to 9 years
+New Glasgow,1945,1010,935,2,10 to 14 years
+New Glasgow,1830,950,880,2,15 to 19 years
+New Glasgow,1695,905,795,2,20 to 24 years
+New Glasgow,1590,810,780,2,25 to 29 years
+New Glasgow,1650,820,835,2,30 to 34 years
+New Glasgow,1745,820,925,2,35 to 39 years
+New Glasgow,2030,975,1055,2,40 to 44 years
+New Glasgow,2145,1000,1140,2,45 to 49 years
+New Glasgow,2365,1105,1260,2,50 to 54 years
+New Glasgow,2815,1335,1480,2,55 to 59 years
+New Glasgow,2940,1410,1530,2,60 to 64 years
+New Glasgow,2785,1345,1440,2,65 to 69 years
+New Glasgow,2465,1115,1345,2,70 to 74 years
+New Glasgow,1540,750,790,2,75 to 79 years
+New Glasgow,950,410,540,2,80 to 84 years
+New Glasgow,940,310,630,2,85 years and over
+Cape Breton,3790,1955,1835,2,0 to 4 years
+Cape Breton,4435,2210,2225,2,5 to 9 years
+Cape Breton,4890,2520,2370,2,10 to 14 years
+Cape Breton,4955,2575,2380,2,15 to 19 years
+Cape Breton,5445,2835,2610,2,20 to 24 years
+Cape Breton,5705,2935,2770,2,25 to 29 years
+Cape Breton,5110,2545,2565,2,30 to 34 years
+Cape Breton,4925,2270,2660,2,35 to 39 years
+Cape Breton,5040,2305,2735,2,40 to 44 years
+Cape Breton,5640,2650,2985,2,45 to 49 years
+Cape Breton,6310,3010,3295,2,50 to 54 years
+Cape Breton,7985,3655,4325,2,55 to 59 years
+Cape Breton,8750,4155,4595,2,60 to 64 years
+Cape Breton,8235,4020,4215,2,65 to 69 years
+Cape Breton,6745,3260,3485,2,70 to 74 years
+Cape Breton,4465,1965,2505,2,75 to 79 years
+Cape Breton,3025,1285,1740,2,80 to 84 years
+Cape Breton,2875,970,1900,2,85 years and over
+Moncton,7020,3520,3500,2,0 to 4 years
+Moncton,8550,4370,4180,2,5 to 9 years
+Moncton,8915,4515,4400,2,10 to 14 years
+Moncton,8220,4275,3945,2,15 to 19 years
+Moncton,9595,4955,4645,2,20 to 24 years
+Moncton,9955,5005,4955,2,25 to 29 years
+Moncton,10305,5085,5215,2,30 to 34 years
+Moncton,11085,5410,5680,2,35 to 39 years
+Moncton,10965,5420,5545,2,40 to 44 years
+Moncton,10905,5380,5520,2,45 to 49 years
+Moncton,10170,5135,5030,2,50 to 54 years
+Moncton,10975,5370,5610,2,55 to 59 years
+Moncton,10390,5050,5340,2,60 to 64 years
+Moncton,9555,4515,5040,2,65 to 69 years
+Moncton,8420,3950,4475,2,70 to 74 years
+Moncton,5570,2555,3015,2,75 to 79 years
+Moncton,3535,1510,2025,2,80 to 84 years
+Moncton,3595,1265,2325,2,85 years and over
+Saint John,5870,3060,2815,2,0 to 4 years
+Saint John,6870,3425,3445,2,5 to 9 years
+Saint John,7465,3870,3600,2,10 to 14 years
+Saint John,7165,3695,3475,2,15 to 19 years
+Saint John,7295,3830,3460,2,20 to 24 years
+Saint John,7635,3840,3800,2,25 to 29 years
+Saint John,7765,3800,3965,2,30 to 34 years
+Saint John,7865,3825,4040,2,35 to 39 years
+Saint John,8175,3900,4275,2,40 to 44 years
+Saint John,8610,4175,4445,2,45 to 49 years
+Saint John,8685,4200,4490,2,50 to 54 years
+Saint John,10550,5140,5410,2,55 to 59 years
+Saint John,10015,4760,5260,2,60 to 64 years
+Saint John,8850,4250,4595,2,65 to 69 years
+Saint John,7375,3480,3895,2,70 to 74 years
+Saint John,4760,2210,2545,2,75 to 79 years
+Saint John,2975,1310,1665,2,80 to 84 years
+Saint John,2680,925,1765,2,85 years and over
+Fredericton,5020,2645,2375,2,0 to 4 years
+Fredericton,6005,3055,2955,2,5 to 9 years
+Fredericton,6005,3005,3000,2,10 to 14 years
+Fredericton,5995,3035,2960,2,15 to 19 years
+Fredericton,7735,3945,3795,2,20 to 24 years
+Fredericton,7225,3675,3550,2,25 to 29 years
+Fredericton,7045,3475,3570,2,30 to 34 years
+Fredericton,7345,3620,3725,2,35 to 39 years
+Fredericton,7000,3385,3610,2,40 to 44 years
+Fredericton,7010,3375,3635,2,45 to 49 years
+Fredericton,6950,3405,3545,2,50 to 54 years
+Fredericton,7755,3775,3985,2,55 to 59 years
+Fredericton,7160,3465,3690,2,60 to 64 years
+Fredericton,6485,3015,3475,2,65 to 69 years
+Fredericton,5550,2650,2900,2,70 to 74 years
+Fredericton,3715,1720,1995,2,75 to 79 years
+Fredericton,2480,1100,1385,2,80 to 84 years
+Fredericton,2130,765,1360,2,85 years and over
+Bathurst,1035,545,490,2,0 to 4 years
+Bathurst,1145,580,555,2,5 to 9 years
+Bathurst,1295,660,635,2,10 to 14 years
+Bathurst,1350,690,660,2,15 to 19 years
+Bathurst,1465,745,720,2,20 to 24 years
+Bathurst,1445,765,680,2,25 to 29 years
+Bathurst,1470,765,705,2,30 to 34 years
+Bathurst,1475,735,740,2,35 to 39 years
+Bathurst,1805,870,935,2,40 to 44 years
+Bathurst,1905,900,1005,2,45 to 49 years
+Bathurst,2305,1135,1175,2,50 to 54 years
+Bathurst,2745,1340,1410,2,55 to 59 years
+Bathurst,2965,1445,1515,2,60 to 64 years
+Bathurst,2800,1355,1445,2,65 to 69 years
+Bathurst,2490,1220,1265,2,70 to 74 years
+Bathurst,1705,820,875,2,75 to 79 years
+Bathurst,1100,525,570,2,80 to 84 years
+Bathurst,895,320,570,2,85 years and over
+Miramichi,1020,520,505,2,0 to 4 years
+Miramichi,1305,655,650,2,5 to 9 years
+Miramichi,1365,695,670,2,10 to 14 years
+Miramichi,1355,725,635,2,15 to 19 years
+Miramichi,1385,700,685,2,20 to 24 years
+Miramichi,1320,660,660,2,25 to 29 years
+Miramichi,1325,645,680,2,30 to 34 years
+Miramichi,1385,645,745,2,35 to 39 years
+Miramichi,1520,740,780,2,40 to 44 years
+Miramichi,1860,885,975,2,45 to 49 years
+Miramichi,1990,945,1050,2,50 to 54 years
+Miramichi,2260,1075,1185,2,55 to 59 years
+Miramichi,2315,1120,1195,2,60 to 64 years
+Miramichi,2335,1075,1260,2,65 to 69 years
+Miramichi,2015,965,1050,2,70 to 74 years
+Miramichi,1245,605,645,2,75 to 79 years
+Miramichi,855,370,485,2,80 to 84 years
+Miramichi,735,270,460,2,85 years and over
+Campbellton,460,230,230,2,0 to 4 years
+Campbellton,505,260,245,2,5 to 9 years
+Campbellton,590,320,270,2,10 to 14 years
+Campbellton,620,305,315,2,15 to 19 years
+Campbellton,570,290,275,2,20 to 24 years
+Campbellton,650,325,315,2,25 to 29 years
+Campbellton,655,310,350,2,30 to 34 years
+Campbellton,650,310,340,2,35 to 39 years
+Campbellton,625,315,315,2,40 to 44 years
+Campbellton,770,380,390,2,45 to 49 years
+Campbellton,930,450,480,2,50 to 54 years
+Campbellton,1310,655,660,2,55 to 59 years
+Campbellton,1290,665,630,2,60 to 64 years
+Campbellton,1185,585,605,2,65 to 69 years
+Campbellton,990,475,510,2,70 to 74 years
+Campbellton,640,300,340,2,75 to 79 years
+Campbellton,465,210,250,2,80 to 84 years
+Campbellton,430,135,290,2,85 years and over
+Campbellton (New Brunswick part),415,200,210,2,0 to 4 years
+Campbellton (New Brunswick part),425,220,205,2,5 to 9 years
+Campbellton (New Brunswick part),515,280,235,2,10 to 14 years
+Campbellton (New Brunswick part),570,275,295,2,15 to 19 years
+Campbellton (New Brunswick part),525,275,250,2,20 to 24 years
+Campbellton (New Brunswick part),585,300,290,2,25 to 29 years
+Campbellton (New Brunswick part),595,275,315,2,30 to 34 years
+Campbellton (New Brunswick part),575,285,290,2,35 to 39 years
+Campbellton (New Brunswick part),550,275,280,2,40 to 44 years
+Campbellton (New Brunswick part),685,330,355,2,45 to 49 years
+Campbellton (New Brunswick part),845,410,440,2,50 to 54 years
+Campbellton (New Brunswick part),1180,585,595,2,55 to 59 years
+Campbellton (New Brunswick part),1170,600,570,2,60 to 64 years
+Campbellton (New Brunswick part),1060,520,545,2,65 to 69 years
+Campbellton (New Brunswick part),885,430,455,2,70 to 74 years
+Campbellton (New Brunswick part),580,275,310,2,75 to 79 years
+Campbellton (New Brunswick part),420,190,230,2,80 to 84 years
+Campbellton (New Brunswick part),400,125,275,2,85 years and over
+Campbellton (Quebec part),45,25,20,2,0 to 4 years
+Campbellton (Quebec part),75,40,35,2,5 to 9 years
+Campbellton (Quebec part),75,40,35,2,10 to 14 years
+Campbellton (Quebec part),55,30,20,2,15 to 19 years
+Campbellton (Quebec part),40,15,25,2,20 to 24 years
+Campbellton (Quebec part),60,35,30,2,25 to 29 years
+Campbellton (Quebec part),60,30,30,2,30 to 34 years
+Campbellton (Quebec part),70,25,50,2,35 to 39 years
+Campbellton (Quebec part),75,40,35,2,40 to 44 years
+Campbellton (Quebec part),85,45,35,2,45 to 49 years
+Campbellton (Quebec part),80,40,45,2,50 to 54 years
+Campbellton (Quebec part),130,70,65,2,55 to 59 years
+Campbellton (Quebec part),125,65,60,2,60 to 64 years
+Campbellton (Quebec part),120,60,60,2,65 to 69 years
+Campbellton (Quebec part),100,45,55,2,70 to 74 years
+Campbellton (Quebec part),60,25,30,2,75 to 79 years
+Campbellton (Quebec part),45,25,20,2,80 to 84 years
+Campbellton (Quebec part),30,10,15,2,85 years and over
+Edmundston,715,360,350,2,0 to 4 years
+Edmundston,840,450,390,2,5 to 9 years
+Edmundston,1030,515,515,2,10 to 14 years
+Edmundston,1010,520,495,2,15 to 19 years
+Edmundston,950,475,480,2,20 to 24 years
+Edmundston,955,475,485,2,25 to 29 years
+Edmundston,1010,515,490,2,30 to 34 years
+Edmundston,1150,595,560,2,35 to 39 years
+Edmundston,1265,610,650,2,40 to 44 years
+Edmundston,1360,715,640,2,45 to 49 years
+Edmundston,1415,695,725,2,50 to 54 years
+Edmundston,1890,925,960,2,55 to 59 years
+Edmundston,2155,1045,1100,2,60 to 64 years
+Edmundston,2000,975,1020,2,65 to 69 years
+Edmundston,1755,840,915,2,70 to 74 years
+Edmundston,1090,510,580,2,75 to 79 years
+Edmundston,740,295,445,2,80 to 84 years
+Edmundston,825,275,550,2,85 years and over
+Matane,645,300,345,2,0 to 4 years
+Matane,820,430,395,2,5 to 9 years
+Matane,905,455,450,2,10 to 14 years
+Matane,845,450,390,2,15 to 19 years
+Matane,845,475,360,2,20 to 24 years
+Matane,740,385,355,2,25 to 29 years
+Matane,865,435,430,2,30 to 34 years
+Matane,925,460,460,2,35 to 39 years
+Matane,1090,565,530,2,40 to 44 years
+Matane,1015,500,510,2,45 to 49 years
+Matane,970,490,485,2,50 to 54 years
+Matane,1495,735,765,2,55 to 59 years
+Matane,1830,880,945,2,60 to 64 years
+Matane,1720,845,875,2,65 to 69 years
+Matane,1545,785,765,2,70 to 74 years
+Matane,1060,530,530,2,75 to 79 years
+Matane,605,285,325,2,80 to 84 years
+Matane,555,220,335,2,85 years and over
+Rimouski,2350,1200,1150,2,0 to 4 years
+Rimouski,2745,1395,1350,2,5 to 9 years
+Rimouski,2805,1465,1345,2,10 to 14 years
+Rimouski,2500,1270,1230,2,15 to 19 years
+Rimouski,2880,1445,1435,2,20 to 24 years
+Rimouski,3080,1500,1580,2,25 to 29 years
+Rimouski,3055,1570,1485,2,30 to 34 years
+Rimouski,3140,1525,1605,2,35 to 39 years
+Rimouski,3345,1675,1670,2,40 to 44 years
+Rimouski,2925,1410,1515,2,45 to 49 years
+Rimouski,2855,1380,1470,2,50 to 54 years
+Rimouski,3865,1825,2040,2,55 to 59 years
+Rimouski,4625,2185,2440,2,60 to 64 years
+Rimouski,4575,2170,2400,2,65 to 69 years
+Rimouski,3795,1810,1990,2,70 to 74 years
+Rimouski,2500,1165,1340,2,75 to 79 years
+Rimouski,1470,635,830,2,80 to 84 years
+Rimouski,1450,485,960,2,85 years and over
+Rivière-du-Loup,1335,695,640,2,0 to 4 years
+Rivière-du-Loup,1580,800,780,2,5 to 9 years
+Rivière-du-Loup,1740,890,845,2,10 to 14 years
+Rivière-du-Loup,1550,795,745,2,15 to 19 years
+Rivière-du-Loup,1420,725,695,2,20 to 24 years
+Rivière-du-Loup,1560,800,755,2,25 to 29 years
+Rivière-du-Loup,1705,865,835,2,30 to 34 years
+Rivière-du-Loup,1740,890,855,2,35 to 39 years
+Rivière-du-Loup,1895,960,930,2,40 to 44 years
+Rivière-du-Loup,1745,880,865,2,45 to 49 years
+Rivière-du-Loup,1555,785,770,2,50 to 54 years
+Rivière-du-Loup,2115,1020,1095,2,55 to 59 years
+Rivière-du-Loup,2375,1135,1245,2,60 to 64 years
+Rivière-du-Loup,2415,1140,1280,2,65 to 69 years
+Rivière-du-Loup,1990,950,1045,2,70 to 74 years
+Rivière-du-Loup,1460,680,775,2,75 to 79 years
+Rivière-du-Loup,855,375,475,2,80 to 84 years
+Rivière-du-Loup,1010,340,670,2,85 years and over
+Baie-Comeau,1085,560,525,2,0 to 4 years
+Baie-Comeau,1370,690,685,2,5 to 9 years
+Baie-Comeau,1350,665,690,2,10 to 14 years
+Baie-Comeau,1235,645,595,2,15 to 19 years
+Baie-Comeau,1250,640,605,2,20 to 24 years
+Baie-Comeau,1255,665,600,2,25 to 29 years
+Baie-Comeau,1400,705,695,2,30 to 34 years
+Baie-Comeau,1455,720,730,2,35 to 39 years
+Baie-Comeau,1635,820,805,2,40 to 44 years
+Baie-Comeau,1595,815,780,2,45 to 49 years
+Baie-Comeau,1815,925,890,2,50 to 54 years
+Baie-Comeau,2535,1295,1240,2,55 to 59 years
+Baie-Comeau,2570,1350,1225,2,60 to 64 years
+Baie-Comeau,1955,1040,910,2,65 to 69 years
+Baie-Comeau,1555,780,780,2,70 to 74 years
+Baie-Comeau,1280,615,670,2,75 to 79 years
+Baie-Comeau,705,330,375,2,80 to 84 years
+Baie-Comeau,585,220,370,2,85 years and over
+Saguenay,7570,3945,3620,2,0 to 4 years
+Saguenay,8530,4295,4235,2,5 to 9 years
+Saguenay,8455,4310,4145,2,10 to 14 years
+Saguenay,7795,3955,3840,2,15 to 19 years
+Saguenay,7910,4140,3770,2,20 to 24 years
+Saguenay,9050,4700,4350,2,25 to 29 years
+Saguenay,9320,4850,4465,2,30 to 34 years
+Saguenay,9845,5155,4690,2,35 to 39 years
+Saguenay,10280,5360,4920,2,40 to 44 years
+Saguenay,8645,4485,4155,2,45 to 49 years
+Saguenay,8435,4215,4215,2,50 to 54 years
+Saguenay,12105,5990,6120,2,55 to 59 years
+Saguenay,14185,6970,7210,2,60 to 64 years
+Saguenay,12680,6350,6335,2,65 to 69 years
+Saguenay,10280,5110,5175,2,70 to 74 years
+Saguenay,7270,3390,3875,2,75 to 79 years
+Saguenay,4775,2015,2760,2,80 to 84 years
+Saguenay,4440,1550,2885,2,85 years and over
+Alma,1330,670,660,2,0 to 4 years
+Alma,1540,810,735,2,5 to 9 years
+Alma,1775,895,885,2,10 to 14 years
+Alma,1585,785,795,2,15 to 19 years
+Alma,1390,730,660,2,20 to 24 years
+Alma,1445,750,700,2,25 to 29 years
+Alma,1510,760,750,2,30 to 34 years
+Alma,1700,865,835,2,35 to 39 years
+Alma,1910,970,935,2,40 to 44 years
+Alma,1620,830,790,2,45 to 49 years
+Alma,1610,830,775,2,50 to 54 years
+Alma,2480,1230,1250,2,55 to 59 years
+Alma,2870,1425,1445,2,60 to 64 years
+Alma,2405,1195,1210,2,65 to 69 years
+Alma,1790,865,930,2,70 to 74 years
+Alma,1440,630,810,2,75 to 79 years
+Alma,960,380,575,2,80 to 84 years
+Alma,975,335,640,2,85 years and over
+Dolbeau-Mistassini,645,330,320,2,0 to 4 years
+Dolbeau-Mistassini,775,405,370,2,5 to 9 years
+Dolbeau-Mistassini,920,480,440,2,10 to 14 years
+Dolbeau-Mistassini,785,400,375,2,15 to 19 years
+Dolbeau-Mistassini,630,330,300,2,20 to 24 years
+Dolbeau-Mistassini,615,330,285,2,25 to 29 years
+Dolbeau-Mistassini,670,330,340,2,30 to 34 years
+Dolbeau-Mistassini,815,405,410,2,35 to 39 years
+Dolbeau-Mistassini,955,470,485,2,40 to 44 years
+Dolbeau-Mistassini,780,395,385,2,45 to 49 years
+Dolbeau-Mistassini,795,405,390,2,50 to 54 years
+Dolbeau-Mistassini,1260,630,630,2,55 to 59 years
+Dolbeau-Mistassini,1455,730,730,2,60 to 64 years
+Dolbeau-Mistassini,1270,620,650,2,65 to 69 years
+Dolbeau-Mistassini,1150,585,565,2,70 to 74 years
+Dolbeau-Mistassini,770,415,355,2,75 to 79 years
+Dolbeau-Mistassini,450,205,250,2,80 to 84 years
+Dolbeau-Mistassini,555,205,350,2,85 years and over
+Sept-Îles,1475,755,720,2,0 to 4 years
+Sept-Îles,1650,825,830,2,5 to 9 years
+Sept-Îles,1845,925,915,2,10 to 14 years
+Sept-Îles,1570,785,785,2,15 to 19 years
+Sept-Îles,1435,765,670,2,20 to 24 years
+Sept-Îles,1600,795,805,2,25 to 29 years
+Sept-Îles,1645,820,820,2,30 to 34 years
+Sept-Îles,1675,855,815,2,35 to 39 years
+Sept-Îles,1770,890,880,2,40 to 44 years
+Sept-Îles,1720,875,840,2,45 to 49 years
+Sept-Îles,1840,880,960,2,50 to 54 years
+Sept-Îles,2140,1075,1065,2,55 to 59 years
+Sept-Îles,2040,1055,985,2,60 to 64 years
+Sept-Îles,1690,855,835,2,65 to 69 years
+Sept-Îles,1395,735,660,2,70 to 74 years
+Sept-Îles,985,435,550,2,75 to 79 years
+Sept-Îles,735,325,410,2,80 to 84 years
+Sept-Îles,530,195,335,2,85 years and over
+Quebec,40730,20920,19810,2,0 to 4 years
+Quebec,46410,23755,22660,2,5 to 9 years
+Quebec,46460,23665,22790,2,10 to 14 years
+Quebec,40030,20215,19820,2,15 to 19 years
+Quebec,45550,22930,22620,2,20 to 24 years
+Quebec,54715,27720,26995,2,25 to 29 years
+Quebec,53945,27225,26725,2,30 to 34 years
+Quebec,55515,28370,27145,2,35 to 39 years
+Quebec,58155,29465,28690,2,40 to 44 years
+Quebec,49445,25160,24280,2,45 to 49 years
+Quebec,48450,24280,24170,2,50 to 54 years
+Quebec,58135,28865,29260,2,55 to 59 years
+Quebec,59950,29000,30950,2,60 to 64 years
+Quebec,54795,25735,29060,2,65 to 69 years
+Quebec,48260,22570,25690,2,70 to 74 years
+Quebec,35640,16085,19555,2,75 to 79 years
+Quebec,21665,9095,12560,2,80 to 84 years
+Quebec,21470,7050,14420,2,85 years and over
+Sainte-Marie,720,380,340,2,0 to 4 years
+Sainte-Marie,785,390,395,2,5 to 9 years
+Sainte-Marie,840,435,405,2,10 to 14 years
+Sainte-Marie,680,315,360,2,15 to 19 years
+Sainte-Marie,615,340,275,2,20 to 24 years
+Sainte-Marie,640,310,330,2,25 to 29 years
+Sainte-Marie,775,405,370,2,30 to 34 years
+Sainte-Marie,820,435,385,2,35 to 39 years
+Sainte-Marie,910,445,460,2,40 to 44 years
+Sainte-Marie,770,400,365,2,45 to 49 years
+Sainte-Marie,730,385,355,2,50 to 54 years
+Sainte-Marie,900,450,450,2,55 to 59 years
+Sainte-Marie,1010,505,505,2,60 to 64 years
+Sainte-Marie,885,435,445,2,65 to 69 years
+Sainte-Marie,750,370,380,2,70 to 74 years
+Sainte-Marie,555,255,300,2,75 to 79 years
+Sainte-Marie,365,155,205,2,80 to 84 years
+Sainte-Marie,395,120,280,2,85 years and over
+Saint-Georges,1535,790,745,2,0 to 4 years
+Saint-Georges,2070,1055,1015,2,5 to 9 years
+Saint-Georges,2160,1100,1060,2,10 to 14 years
+Saint-Georges,1890,955,930,2,15 to 19 years
+Saint-Georges,1665,860,810,2,20 to 24 years
+Saint-Georges,1675,880,795,2,25 to 29 years
+Saint-Georges,1815,960,855,2,30 to 34 years
+Saint-Georges,2125,1045,1075,2,35 to 39 years
+Saint-Georges,2455,1265,1190,2,40 to 44 years
+Saint-Georges,2025,1050,970,2,45 to 49 years
+Saint-Georges,2085,1100,985,2,50 to 54 years
+Saint-Georges,2640,1310,1335,2,55 to 59 years
+Saint-Georges,2735,1330,1405,2,60 to 64 years
+Saint-Georges,2495,1220,1280,2,65 to 69 years
+Saint-Georges,2145,1025,1115,2,70 to 74 years
+Saint-Georges,1605,780,820,2,75 to 79 years
+Saint-Georges,860,390,475,2,80 to 84 years
+Saint-Georges,850,310,540,2,85 years and over
+Thetford Mines,1100,575,530,2,0 to 4 years
+Thetford Mines,1305,675,630,2,5 to 9 years
+Thetford Mines,1430,730,700,2,10 to 14 years
+Thetford Mines,1160,615,550,2,15 to 19 years
+Thetford Mines,1145,565,580,2,20 to 24 years
+Thetford Mines,1290,675,605,2,25 to 29 years
+Thetford Mines,1305,690,620,2,30 to 34 years
+Thetford Mines,1395,730,660,2,35 to 39 years
+Thetford Mines,1640,825,815,2,40 to 44 years
+Thetford Mines,1345,700,650,2,45 to 49 years
+Thetford Mines,1485,735,755,2,50 to 54 years
+Thetford Mines,2065,1000,1065,2,55 to 59 years
+Thetford Mines,2425,1175,1250,2,60 to 64 years
+Thetford Mines,2400,1195,1205,2,65 to 69 years
+Thetford Mines,2270,1095,1175,2,70 to 74 years
+Thetford Mines,1745,805,945,2,75 to 79 years
+Thetford Mines,1230,485,745,2,80 to 84 years
+Thetford Mines,1560,515,1045,2,85 years and over
+Sherbrooke,10745,5625,5120,2,0 to 4 years
+Sherbrooke,12420,6425,5995,2,5 to 9 years
+Sherbrooke,12850,6625,6225,2,10 to 14 years
+Sherbrooke,11755,6010,5745,2,15 to 19 years
+Sherbrooke,15505,7865,7640,2,20 to 24 years
+Sherbrooke,14945,7585,7360,2,25 to 29 years
+Sherbrooke,13740,6975,6760,2,30 to 34 years
+Sherbrooke,13615,6905,6700,2,35 to 39 years
+Sherbrooke,14145,7015,7125,2,40 to 44 years
+Sherbrooke,12420,6175,6245,2,45 to 49 years
+Sherbrooke,12765,6375,6395,2,50 to 54 years
+Sherbrooke,15385,7445,7935,2,55 to 59 years
+Sherbrooke,16085,7745,8345,2,60 to 64 years
+Sherbrooke,15150,7280,7875,2,65 to 69 years
+Sherbrooke,13150,6220,6935,2,70 to 74 years
+Sherbrooke,9755,4530,5225,2,75 to 79 years
+Sherbrooke,6010,2505,3510,2,80 to 84 years
+Sherbrooke,6965,2430,4535,2,85 years and over
+Cowansville,725,345,375,2,0 to 4 years
+Cowansville,770,410,360,2,5 to 9 years
+Cowansville,790,380,410,2,10 to 14 years
+Cowansville,720,380,345,2,15 to 19 years
+Cowansville,625,340,285,2,20 to 24 years
+Cowansville,810,435,375,2,25 to 29 years
+Cowansville,825,425,395,2,30 to 34 years
+Cowansville,875,480,390,2,35 to 39 years
+Cowansville,895,475,420,2,40 to 44 years
+Cowansville,790,400,385,2,45 to 49 years
+Cowansville,855,440,415,2,50 to 54 years
+Cowansville,1055,505,555,2,55 to 59 years
+Cowansville,1215,600,620,2,60 to 64 years
+Cowansville,1140,545,595,2,65 to 69 years
+Cowansville,1130,505,625,2,70 to 74 years
+Cowansville,810,380,430,2,75 to 79 years
+Cowansville,575,240,335,2,80 to 84 years
+Cowansville,640,230,410,2,85 years and over
+Victoriaville,2550,1345,1205,2,0 to 4 years
+Victoriaville,2890,1495,1385,2,5 to 9 years
+Victoriaville,3025,1570,1455,2,10 to 14 years
+Victoriaville,2705,1355,1345,2,15 to 19 years
+Victoriaville,2475,1305,1165,2,20 to 24 years
+Victoriaville,2580,1335,1245,2,25 to 29 years
+Victoriaville,2740,1395,1345,2,30 to 34 years
+Victoriaville,3135,1540,1585,2,35 to 39 years
+Victoriaville,3295,1700,1595,2,40 to 44 years
+Victoriaville,2895,1420,1470,2,45 to 49 years
+Victoriaville,2835,1355,1480,2,50 to 54 years
+Victoriaville,3720,1825,1890,2,55 to 59 years
+Victoriaville,3975,1900,2075,2,60 to 64 years
+Victoriaville,4020,1895,2125,2,65 to 69 years
+Victoriaville,3505,1620,1885,2,70 to 74 years
+Victoriaville,2745,1235,1510,2,75 to 79 years
+Victoriaville,1870,750,1120,2,80 to 84 years
+Victoriaville,2005,735,1260,2,85 years and over
+Trois-Rivières,7210,3705,3505,2,0 to 4 years
+Trois-Rivières,8035,4150,3895,2,5 to 9 years
+Trois-Rivières,8270,4280,3990,2,10 to 14 years
+Trois-Rivières,7550,3855,3690,2,15 to 19 years
+Trois-Rivières,8940,4510,4425,2,20 to 24 years
+Trois-Rivières,9705,4980,4730,2,25 to 29 years
+Trois-Rivières,9005,4570,4435,2,30 to 34 years
+Trois-Rivières,9485,4790,4700,2,35 to 39 years
+Trois-Rivières,9810,4970,4835,2,40 to 44 years
+Trois-Rivières,8240,4115,4115,2,45 to 49 years
+Trois-Rivières,8835,4330,4505,2,50 to 54 years
+Trois-Rivières,11815,5715,6100,2,55 to 59 years
+Trois-Rivières,13140,6320,6815,2,60 to 64 years
+Trois-Rivières,12175,5815,6360,2,65 to 69 years
+Trois-Rivières,10630,5075,5545,2,70 to 74 years
+Trois-Rivières,7985,3635,4350,2,75 to 79 years
+Trois-Rivières,5165,2165,3000,2,80 to 84 years
+Trois-Rivières,5500,1820,3680,2,85 years and over
+Shawinigan,1985,1030,960,2,0 to 4 years
+Shawinigan,2215,1110,1100,2,5 to 9 years
+Shawinigan,2085,1055,1030,2,10 to 14 years
+Shawinigan,1880,975,905,2,15 to 19 years
+Shawinigan,1950,1005,940,2,20 to 24 years
+Shawinigan,2280,1190,1090,2,25 to 29 years
+Shawinigan,2420,1220,1195,2,30 to 34 years
+Shawinigan,2550,1270,1280,2,35 to 39 years
+Shawinigan,2675,1380,1295,2,40 to 44 years
+Shawinigan,2380,1200,1185,2,45 to 49 years
+Shawinigan,2680,1340,1340,2,50 to 54 years
+Shawinigan,4045,1990,2060,2,55 to 59 years
+Shawinigan,5125,2485,2645,2,60 to 64 years
+Shawinigan,4700,2340,2360,2,65 to 69 years
+Shawinigan,3815,1815,2005,2,70 to 74 years
+Shawinigan,2790,1320,1475,2,75 to 79 years
+Shawinigan,1860,785,1075,2,80 to 84 years
+Shawinigan,2180,660,1520,2,85 years and over
+Drummondville,5215,2665,2545,2,0 to 4 years
+Drummondville,5720,2925,2800,2,5 to 9 years
+Drummondville,6060,3130,2930,2,10 to 14 years
+Drummondville,5415,2805,2610,2,15 to 19 years
+Drummondville,5185,2715,2465,2,20 to 24 years
+Drummondville,5610,2895,2715,2,25 to 29 years
+Drummondville,5940,3115,2825,2,30 to 34 years
+Drummondville,6075,3135,2935,2,35 to 39 years
+Drummondville,7225,3640,3585,2,40 to 44 years
+Drummondville,5940,3060,2885,2,45 to 49 years
+Drummondville,5840,3020,2815,2,50 to 54 years
+Drummondville,7250,3635,3620,2,55 to 59 years
+Drummondville,7485,3640,3845,2,60 to 64 years
+Drummondville,7125,3535,3590,2,65 to 69 years
+Drummondville,6215,2960,3260,2,70 to 74 years
+Drummondville,4260,1950,2310,2,75 to 79 years
+Drummondville,2625,1185,1435,2,80 to 84 years
+Drummondville,2415,820,1595,2,85 years and over
+Granby,4215,2165,2050,2,0 to 4 years
+Granby,5005,2540,2470,2,5 to 9 years
+Granby,5225,2715,2515,2,10 to 14 years
+Granby,4535,2320,2215,2,15 to 19 years
+Granby,3965,2055,1910,2,20 to 24 years
+Granby,4525,2305,2220,2,25 to 29 years
+Granby,4915,2485,2430,2,30 to 34 years
+Granby,5235,2670,2565,2,35 to 39 years
+Granby,5755,2890,2865,2,40 to 44 years
+Granby,5100,2600,2505,2,45 to 49 years
+Granby,5355,2655,2700,2,50 to 54 years
+Granby,7185,3485,3700,2,55 to 59 years
+Granby,7900,3800,4090,2,60 to 64 years
+Granby,6865,3265,3595,2,65 to 69 years
+Granby,5870,2850,3015,2,70 to 74 years
+Granby,4150,1895,2255,2,75 to 79 years
+Granby,2565,1135,1430,2,80 to 84 years
+Granby,2475,810,1660,2,85 years and over
+Saint-Hyacinthe,2725,1415,1310,2,0 to 4 years
+Saint-Hyacinthe,3040,1575,1470,2,5 to 9 years
+Saint-Hyacinthe,3325,1665,1660,2,10 to 14 years
+Saint-Hyacinthe,2925,1445,1485,2,15 to 19 years
+Saint-Hyacinthe,3185,1585,1595,2,20 to 24 years
+Saint-Hyacinthe,3470,1725,1740,2,25 to 29 years
+Saint-Hyacinthe,3340,1745,1595,2,30 to 34 years
+Saint-Hyacinthe,3415,1715,1700,2,35 to 39 years
+Saint-Hyacinthe,3850,1965,1880,2,40 to 44 years
+Saint-Hyacinthe,3270,1655,1615,2,45 to 49 years
+Saint-Hyacinthe,3450,1710,1740,2,50 to 54 years
+Saint-Hyacinthe,4205,2060,2145,2,55 to 59 years
+Saint-Hyacinthe,4455,2160,2290,2,60 to 64 years
+Saint-Hyacinthe,4285,1995,2290,2,65 to 69 years
+Saint-Hyacinthe,3745,1715,2030,2,70 to 74 years
+Saint-Hyacinthe,2985,1305,1675,2,75 to 79 years
+Saint-Hyacinthe,1950,765,1180,2,80 to 84 years
+Saint-Hyacinthe,2365,660,1700,2,85 years and over
+Sorel-Tracy,1560,785,775,2,0 to 4 years
+Sorel-Tracy,1855,1000,855,2,5 to 9 years
+Sorel-Tracy,1855,945,905,2,10 to 14 years
+Sorel-Tracy,1730,910,820,2,15 to 19 years
+Sorel-Tracy,1755,930,830,2,20 to 24 years
+Sorel-Tracy,1895,985,910,2,25 to 29 years
+Sorel-Tracy,2085,1055,1035,2,30 to 34 years
+Sorel-Tracy,2220,1205,1015,2,35 to 39 years
+Sorel-Tracy,2515,1285,1230,2,40 to 44 years
+Sorel-Tracy,2140,1135,1010,2,45 to 49 years
+Sorel-Tracy,2510,1235,1275,2,50 to 54 years
+Sorel-Tracy,3215,1575,1640,2,55 to 59 years
+Sorel-Tracy,3955,1940,2015,2,60 to 64 years
+Sorel-Tracy,3800,1850,1955,2,65 to 69 years
+Sorel-Tracy,3350,1615,1735,2,70 to 74 years
+Sorel-Tracy,2640,1265,1375,2,75 to 79 years
+Sorel-Tracy,1395,610,780,2,80 to 84 years
+Sorel-Tracy,1460,450,1010,2,85 years and over
+Joliette,2380,1210,1170,2,0 to 4 years
+Joliette,2550,1280,1270,2,5 to 9 years
+Joliette,2710,1355,1355,2,10 to 14 years
+Joliette,2330,1145,1190,2,15 to 19 years
+Joliette,2405,1195,1215,2,20 to 24 years
+Joliette,2855,1435,1415,2,25 to 29 years
+Joliette,2960,1485,1475,2,30 to 34 years
+Joliette,2940,1485,1460,2,35 to 39 years
+Joliette,3005,1465,1540,2,40 to 44 years
+Joliette,2690,1320,1365,2,45 to 49 years
+Joliette,2795,1355,1440,2,50 to 54 years
+Joliette,3655,1690,1965,2,55 to 59 years
+Joliette,4265,1925,2335,2,60 to 64 years
+Joliette,4130,1905,2225,2,65 to 69 years
+Joliette,3710,1645,2065,2,70 to 74 years
+Joliette,3080,1345,1735,2,75 to 79 years
+Joliette,2075,830,1245,2,80 to 84 years
+Joliette,2160,695,1470,2,85 years and over
+Montréal,218830,112275,106550,2,0 to 4 years
+Montréal,248540,127215,121325,2,5 to 9 years
+Montréal,254360,130250,124110,2,10 to 14 years
+Montréal,227955,116030,111925,2,15 to 19 years
+Montréal,257910,131255,126650,2,20 to 24 years
+Montréal,291650,146995,144655,2,25 to 29 years
+Montréal,292510,144670,147840,2,30 to 34 years
+Montréal,298010,145810,152195,2,35 to 39 years
+Montréal,306385,150760,155625,2,40 to 44 years
+Montréal,280350,139350,141005,2,45 to 49 years
+Montréal,274265,137585,136680,2,50 to 54 years
+Montréal,292705,146695,146010,2,55 to 59 years
+Montréal,275775,134710,141065,2,60 to 64 years
+Montréal,229190,108385,120800,2,65 to 69 years
+Montréal,195680,89790,105890,2,70 to 74 years
+Montréal,145490,65105,80385,2,75 to 79 years
+Montréal,98200,41110,57090,2,80 to 84 years
+Montréal,103925,36800,67125,2,85 years and over
+Salaberry-de-Valleyfield,2070,1040,1030,2,0 to 4 years
+Salaberry-de-Valleyfield,2205,1140,1070,2,5 to 9 years
+Salaberry-de-Valleyfield,1980,1040,935,2,10 to 14 years
+Salaberry-de-Valleyfield,1695,860,835,2,15 to 19 years
+Salaberry-de-Valleyfield,2050,1055,995,2,20 to 24 years
+Salaberry-de-Valleyfield,2720,1405,1315,2,25 to 29 years
+Salaberry-de-Valleyfield,2750,1415,1335,2,30 to 34 years
+Salaberry-de-Valleyfield,2400,1205,1195,2,35 to 39 years
+Salaberry-de-Valleyfield,2475,1265,1215,2,40 to 44 years
+Salaberry-de-Valleyfield,2190,1115,1080,2,45 to 49 years
+Salaberry-de-Valleyfield,2515,1225,1290,2,50 to 54 years
+Salaberry-de-Valleyfield,3285,1610,1675,2,55 to 59 years
+Salaberry-de-Valleyfield,3655,1745,1910,2,60 to 64 years
+Salaberry-de-Valleyfield,3325,1635,1690,2,65 to 69 years
+Salaberry-de-Valleyfield,2800,1295,1505,2,70 to 74 years
+Salaberry-de-Valleyfield,2150,975,1175,2,75 to 79 years
+Salaberry-de-Valleyfield,1245,525,720,2,80 to 84 years
+Salaberry-de-Valleyfield,1270,425,845,2,85 years and over
+Sainte-Agathe-des-Monts,780,405,370,2,0 to 4 years
+Sainte-Agathe-des-Monts,940,480,460,2,5 to 9 years
+Sainte-Agathe-des-Monts,980,530,450,2,10 to 14 years
+Sainte-Agathe-des-Monts,765,410,360,2,15 to 19 years
+Sainte-Agathe-des-Monts,660,350,310,2,20 to 24 years
+Sainte-Agathe-des-Monts,780,405,375,2,25 to 29 years
+Sainte-Agathe-des-Monts,905,415,495,2,30 to 34 years
+Sainte-Agathe-des-Monts,1060,495,565,2,35 to 39 years
+Sainte-Agathe-des-Monts,1260,620,640,2,40 to 44 years
+Sainte-Agathe-des-Monts,1140,555,580,2,45 to 49 years
+Sainte-Agathe-des-Monts,1140,565,570,2,50 to 54 years
+Sainte-Agathe-des-Monts,1740,800,930,2,55 to 59 years
+Sainte-Agathe-des-Monts,2115,940,1175,2,60 to 64 years
+Sainte-Agathe-des-Monts,1875,930,945,2,65 to 69 years
+Sainte-Agathe-des-Monts,1565,730,835,2,70 to 74 years
+Sainte-Agathe-des-Monts,1070,560,510,2,75 to 79 years
+Sainte-Agathe-des-Monts,590,270,315,2,80 to 84 years
+Sainte-Agathe-des-Monts,540,210,330,2,85 years and over
+Lachute,670,345,325,2,0 to 4 years
+Lachute,640,335,300,2,5 to 9 years
+Lachute,690,360,330,2,10 to 14 years
+Lachute,650,345,305,2,15 to 19 years
+Lachute,605,305,300,2,20 to 24 years
+Lachute,745,400,345,2,25 to 29 years
+Lachute,790,385,405,2,30 to 34 years
+Lachute,725,365,360,2,35 to 39 years
+Lachute,770,375,390,2,40 to 44 years
+Lachute,680,335,340,2,45 to 49 years
+Lachute,795,370,420,2,50 to 54 years
+Lachute,1180,610,570,2,55 to 59 years
+Lachute,1185,565,620,2,60 to 64 years
+Lachute,1115,535,575,2,65 to 69 years
+Lachute,920,435,490,2,70 to 74 years
+Lachute,855,385,470,2,75 to 79 years
+Lachute,515,175,335,2,80 to 84 years
+Lachute,575,195,380,2,85 years and over
+Val-d'Or,2025,1045,985,2,0 to 4 years
+Val-d'Or,1970,965,1005,2,5 to 9 years
+Val-d'Or,2090,1115,975,2,10 to 14 years
+Val-d'Or,1705,910,795,2,15 to 19 years
+Val-d'Or,1770,940,830,2,20 to 24 years
+Val-d'Or,2105,1050,1060,2,25 to 29 years
+Val-d'Or,2270,1175,1095,2,30 to 34 years
+Val-d'Or,2135,1135,995,2,35 to 39 years
+Val-d'Or,2075,1040,1030,2,40 to 44 years
+Val-d'Or,1985,1035,950,2,45 to 49 years
+Val-d'Or,2015,1000,1015,2,50 to 54 years
+Val-d'Or,2610,1345,1270,2,55 to 59 years
+Val-d'Or,2745,1375,1370,2,60 to 64 years
+Val-d'Or,2190,1110,1080,2,65 to 69 years
+Val-d'Or,1725,855,875,2,70 to 74 years
+Val-d'Or,1215,585,630,2,75 to 79 years
+Val-d'Or,740,335,410,2,80 to 84 years
+Val-d'Or,660,245,410,2,85 years and over
+Amos,955,485,470,2,0 to 4 years
+Amos,1145,560,585,2,5 to 9 years
+Amos,1185,585,600,2,10 to 14 years
+Amos,1045,540,510,2,15 to 19 years
+Amos,990,525,465,2,20 to 24 years
+Amos,1105,590,505,2,25 to 29 years
+Amos,1110,580,530,2,30 to 34 years
+Amos,1155,590,565,2,35 to 39 years
+Amos,1255,630,620,2,40 to 44 years
+Amos,1095,570,530,2,45 to 49 years
+Amos,1070,555,515,2,50 to 54 years
+Amos,1410,695,715,2,55 to 59 years
+Amos,1515,765,750,2,60 to 64 years
+Amos,1315,680,635,2,65 to 69 years
+Amos,1060,510,550,2,70 to 74 years
+Amos,705,340,370,2,75 to 79 years
+Amos,420,175,240,2,80 to 84 years
+Amos,335,130,200,2,85 years and over
+Rouyn-Noranda,2305,1165,1140,2,0 to 4 years
+Rouyn-Noranda,2545,1315,1230,2,5 to 9 years
+Rouyn-Noranda,2455,1215,1235,2,10 to 14 years
+Rouyn-Noranda,2135,1110,1020,2,15 to 19 years
+Rouyn-Noranda,2285,1150,1135,2,20 to 24 years
+Rouyn-Noranda,2810,1435,1375,2,25 to 29 years
+Rouyn-Noranda,2825,1495,1330,2,30 to 34 years
+Rouyn-Noranda,2760,1455,1305,2,35 to 39 years
+Rouyn-Noranda,2540,1315,1225,2,40 to 44 years
+Rouyn-Noranda,2360,1195,1165,2,45 to 49 years
+Rouyn-Noranda,2505,1235,1265,2,50 to 54 years
+Rouyn-Noranda,3175,1625,1540,2,55 to 59 years
+Rouyn-Noranda,3285,1665,1625,2,60 to 64 years
+Rouyn-Noranda,2770,1370,1395,2,65 to 69 years
+Rouyn-Noranda,2170,1040,1130,2,70 to 74 years
+Rouyn-Noranda,1465,710,750,2,75 to 79 years
+Rouyn-Noranda,890,390,500,2,80 to 84 years
+Rouyn-Noranda,1045,315,730,2,85 years and over
+Cornwall,2970,1520,1440,2,0 to 4 years
+Cornwall,3310,1715,1595,2,5 to 9 years
+Cornwall,3360,1705,1655,2,10 to 14 years
+Cornwall,3035,1555,1480,2,15 to 19 years
+Cornwall,3015,1600,1415,2,20 to 24 years
+Cornwall,3670,1910,1760,2,25 to 29 years
+Cornwall,3580,1780,1795,2,30 to 34 years
+Cornwall,3365,1635,1730,2,35 to 39 years
+Cornwall,3255,1620,1640,2,40 to 44 years
+Cornwall,3275,1555,1720,2,45 to 49 years
+Cornwall,3540,1730,1810,2,50 to 54 years
+Cornwall,4745,2295,2450,2,55 to 59 years
+Cornwall,5050,2445,2605,2,60 to 64 years
+Cornwall,4435,2130,2300,2,65 to 69 years
+Cornwall,4000,1890,2110,2,70 to 74 years
+Cornwall,2735,1260,1475,2,75 to 79 years
+Cornwall,1990,865,1130,2,80 to 84 years
+Cornwall,2085,735,1355,2,85 years and over
+Hawkesbury,430,225,205,2,0 to 4 years
+Hawkesbury,475,240,235,2,5 to 9 years
+Hawkesbury,565,295,280,2,10 to 14 years
+Hawkesbury,540,285,255,2,15 to 19 years
+Hawkesbury,470,255,220,2,20 to 24 years
+Hawkesbury,635,320,320,2,25 to 29 years
+Hawkesbury,555,265,295,2,30 to 34 years
+Hawkesbury,550,285,270,2,35 to 39 years
+Hawkesbury,550,250,295,2,40 to 44 years
+Hawkesbury,660,300,360,2,45 to 49 years
+Hawkesbury,750,370,380,2,50 to 54 years
+Hawkesbury,1015,495,525,2,55 to 59 years
+Hawkesbury,1070,535,545,2,60 to 64 years
+Hawkesbury,1150,530,615,2,65 to 69 years
+Hawkesbury,925,395,530,2,70 to 74 years
+Hawkesbury,780,335,445,2,75 to 79 years
+Hawkesbury,425,180,250,2,80 to 84 years
+Hawkesbury,455,170,285,2,85 years and over
+Hawkesbury (Quebec part),90,50,35,2,0 to 4 years
+Hawkesbury (Quebec part),80,40,40,2,5 to 9 years
+Hawkesbury (Quebec part),100,60,40,2,10 to 14 years
+Hawkesbury (Quebec part),85,45,40,2,15 to 19 years
+Hawkesbury (Quebec part),85,40,45,2,20 to 24 years
+Hawkesbury (Quebec part),110,55,60,2,25 to 29 years
+Hawkesbury (Quebec part),120,60,60,2,30 to 34 years
+Hawkesbury (Quebec part),80,40,40,2,35 to 39 years
+Hawkesbury (Quebec part),105,45,65,2,40 to 44 years
+Hawkesbury (Quebec part),90,45,50,2,45 to 49 years
+Hawkesbury (Quebec part),105,60,50,2,50 to 54 years
+Hawkesbury (Quebec part),120,55,65,2,55 to 59 years
+Hawkesbury (Quebec part),150,80,75,2,60 to 64 years
+Hawkesbury (Quebec part),140,80,60,2,65 to 69 years
+Hawkesbury (Quebec part),130,55,75,2,70 to 74 years
+Hawkesbury (Quebec part),120,55,65,2,75 to 79 years
+Hawkesbury (Quebec part),50,15,40,2,80 to 84 years
+Hawkesbury (Quebec part),40,15,20,2,85 years and over
+Hawkesbury (Ontario part),335,170,170,2,0 to 4 years
+Hawkesbury (Ontario part),390,200,195,2,5 to 9 years
+Hawkesbury (Ontario part),465,235,230,2,10 to 14 years
+Hawkesbury (Ontario part),450,235,215,2,15 to 19 years
+Hawkesbury (Ontario part),390,210,175,2,20 to 24 years
+Hawkesbury (Ontario part),530,265,260,2,25 to 29 years
+Hawkesbury (Ontario part),440,205,230,2,30 to 34 years
+Hawkesbury (Ontario part),465,235,230,2,35 to 39 years
+Hawkesbury (Ontario part),445,210,235,2,40 to 44 years
+Hawkesbury (Ontario part),570,260,310,2,45 to 49 years
+Hawkesbury (Ontario part),645,315,325,2,50 to 54 years
+Hawkesbury (Ontario part),900,440,460,2,55 to 59 years
+Hawkesbury (Ontario part),920,455,470,2,60 to 64 years
+Hawkesbury (Ontario part),1005,455,560,2,65 to 69 years
+Hawkesbury (Ontario part),795,340,460,2,70 to 74 years
+Hawkesbury (Ontario part),660,280,370,2,75 to 79 years
+Hawkesbury (Ontario part),375,165,210,2,80 to 84 years
+Hawkesbury (Ontario part),415,150,270,2,85 years and over
+Ottawa - Gatineau,74165,37585,36585,2,0 to 4 years
+Ottawa - Gatineau,86825,44180,42650,2,5 to 9 years
+Ottawa - Gatineau,90350,46230,44120,2,10 to 14 years
+Ottawa - Gatineau,85865,43875,41995,2,15 to 19 years
+Ottawa - Gatineau,95515,48410,47110,2,20 to 24 years
+Ottawa - Gatineau,101490,50710,50785,2,25 to 29 years
+Ottawa - Gatineau,101450,49900,51550,2,30 to 34 years
+Ottawa - Gatineau,101965,49580,52385,2,35 to 39 years
+Ottawa - Gatineau,97820,47160,50670,2,40 to 44 years
+Ottawa - Gatineau,96800,46880,49920,2,45 to 49 years
+Ottawa - Gatineau,97960,47875,50080,2,50 to 54 years
+Ottawa - Gatineau,107175,52750,54425,2,55 to 59 years
+Ottawa - Gatineau,97735,47025,50705,2,60 to 64 years
+Ottawa - Gatineau,80115,38240,41875,2,65 to 69 years
+Ottawa - Gatineau,67345,31765,35580,2,70 to 74 years
+Ottawa - Gatineau,45455,21080,24380,2,75 to 79 years
+Ottawa - Gatineau,29605,12990,16620,2,80 to 84 years
+Ottawa - Gatineau,30660,11030,19625,2,85 years and over
+Ottawa - Gatineau (Quebec part),19095,9780,9310,2,0 to 4 years
+Ottawa - Gatineau (Quebec part),22505,11415,11090,2,5 to 9 years
+Ottawa - Gatineau (Quebec part),22695,11680,11015,2,10 to 14 years
+Ottawa - Gatineau (Quebec part),19220,9905,9320,2,15 to 19 years
+Ottawa - Gatineau (Quebec part),19635,9830,9805,2,20 to 24 years
+Ottawa - Gatineau (Quebec part),22630,11150,11480,2,25 to 29 years
+Ottawa - Gatineau (Quebec part),23755,11575,12180,2,30 to 34 years
+Ottawa - Gatineau (Quebec part),24750,12010,12740,2,35 to 39 years
+Ottawa - Gatineau (Quebec part),24895,12185,12710,2,40 to 44 years
+Ottawa - Gatineau (Quebec part),23150,11595,11555,2,45 to 49 years
+Ottawa - Gatineau (Quebec part),23125,11405,11715,2,50 to 54 years
+Ottawa - Gatineau (Quebec part),25985,12695,13295,2,55 to 59 years
+Ottawa - Gatineau (Quebec part),24650,11895,12755,2,60 to 64 years
+Ottawa - Gatineau (Quebec part),19665,9560,10105,2,65 to 69 years
+Ottawa - Gatineau (Quebec part),15325,7355,7965,2,70 to 74 years
+Ottawa - Gatineau (Quebec part),10280,4885,5400,2,75 to 79 years
+Ottawa - Gatineau (Quebec part),6065,2665,3400,2,80 to 84 years
+Ottawa - Gatineau (Quebec part),5865,1825,4035,2,85 years and over
+Ottawa - Gatineau (Ontario part),55070,27800,27270,2,0 to 4 years
+Ottawa - Gatineau (Ontario part),64320,32760,31560,2,5 to 9 years
+Ottawa - Gatineau (Ontario part),67655,34555,33100,2,10 to 14 years
+Ottawa - Gatineau (Ontario part),66645,33970,32675,2,15 to 19 years
+Ottawa - Gatineau (Ontario part),75880,38575,37305,2,20 to 24 years
+Ottawa - Gatineau (Ontario part),78860,39565,39295,2,25 to 29 years
+Ottawa - Gatineau (Ontario part),77695,38325,39370,2,30 to 34 years
+Ottawa - Gatineau (Ontario part),77215,37570,39645,2,35 to 39 years
+Ottawa - Gatineau (Ontario part),72930,34975,37955,2,40 to 44 years
+Ottawa - Gatineau (Ontario part),73650,35280,38370,2,45 to 49 years
+Ottawa - Gatineau (Ontario part),74835,36470,38370,2,50 to 54 years
+Ottawa - Gatineau (Ontario part),81190,40055,41135,2,55 to 59 years
+Ottawa - Gatineau (Ontario part),73085,35130,37950,2,60 to 64 years
+Ottawa - Gatineau (Ontario part),60450,28680,31775,2,65 to 69 years
+Ottawa - Gatineau (Ontario part),52025,24410,27615,2,70 to 74 years
+Ottawa - Gatineau (Ontario part),35170,16190,18980,2,75 to 79 years
+Ottawa - Gatineau (Ontario part),23545,10320,13220,2,80 to 84 years
+Ottawa - Gatineau (Ontario part),24790,9210,15585,2,85 years and over
+Brockville,1175,585,585,2,0 to 4 years
+Brockville,1305,680,625,2,5 to 9 years
+Brockville,1465,735,735,2,10 to 14 years
+Brockville,1585,785,795,2,15 to 19 years
+Brockville,1600,825,775,2,20 to 24 years
+Brockville,1615,810,805,2,25 to 29 years
+Brockville,1655,860,795,2,30 to 34 years
+Brockville,1510,745,765,2,35 to 39 years
+Brockville,1565,760,805,2,40 to 44 years
+Brockville,1765,815,950,2,45 to 49 years
+Brockville,2015,965,1050,2,50 to 54 years
+Brockville,2610,1215,1395,2,55 to 59 years
+Brockville,2795,1350,1445,2,60 to 64 years
+Brockville,2485,1155,1325,2,65 to 69 years
+Brockville,2375,1090,1285,2,70 to 74 years
+Brockville,1645,755,890,2,75 to 79 years
+Brockville,1295,525,770,2,80 to 84 years
+Brockville,1200,420,775,2,85 years and over
+Pembroke,1170,560,615,2,0 to 4 years
+Pembroke,1175,615,560,2,5 to 9 years
+Pembroke,1220,635,585,2,10 to 14 years
+Pembroke,1190,605,585,2,15 to 19 years
+Pembroke,1250,645,605,2,20 to 24 years
+Pembroke,1475,745,730,2,25 to 29 years
+Pembroke,1435,730,705,2,30 to 34 years
+Pembroke,1440,745,695,2,35 to 39 years
+Pembroke,1240,600,640,2,40 to 44 years
+Pembroke,1270,595,675,2,45 to 49 years
+Pembroke,1380,650,730,2,50 to 54 years
+Pembroke,1900,920,980,2,55 to 59 years
+Pembroke,1890,900,990,2,60 to 64 years
+Pembroke,1655,790,865,2,65 to 69 years
+Pembroke,1410,685,730,2,70 to 74 years
+Pembroke,1050,465,585,2,75 to 79 years
+Pembroke,755,320,435,2,80 to 84 years
+Pembroke,900,260,635,2,85 years and over
+Petawawa,1400,705,695,2,0 to 4 years
+Petawawa,1465,770,690,2,5 to 9 years
+Petawawa,1090,560,535,2,10 to 14 years
+Petawawa,915,530,380,2,15 to 19 years
+Petawawa,1365,885,480,2,20 to 24 years
+Petawawa,2020,1185,835,2,25 to 29 years
+Petawawa,2050,1130,920,2,30 to 34 years
+Petawawa,1595,875,725,2,35 to 39 years
+Petawawa,1125,590,530,2,40 to 44 years
+Petawawa,920,470,450,2,45 to 49 years
+Petawawa,865,420,445,2,50 to 54 years
+Petawawa,925,490,430,2,55 to 59 years
+Petawawa,720,350,370,2,60 to 64 years
+Petawawa,565,275,295,2,65 to 69 years
+Petawawa,505,240,260,2,70 to 74 years
+Petawawa,280,130,150,2,75 to 79 years
+Petawawa,210,95,110,2,80 to 84 years
+Petawawa,160,75,90,2,85 years and over
+Kingston,7635,3975,3660,2,0 to 4 years
+Kingston,8365,4265,4100,2,5 to 9 years
+Kingston,8810,4515,4295,2,10 to 14 years
+Kingston,9225,4735,4495,2,15 to 19 years
+Kingston,11755,5930,5825,2,20 to 24 years
+Kingston,12155,6210,5940,2,25 to 29 years
+Kingston,11685,5995,5690,2,30 to 34 years
+Kingston,10835,5440,5395,2,35 to 39 years
+Kingston,10110,5050,5060,2,40 to 44 years
+Kingston,9550,4760,4790,2,45 to 49 years
+Kingston,10595,5180,5420,2,50 to 54 years
+Kingston,12720,6105,6615,2,55 to 59 years
+Kingston,12145,5670,6475,2,60 to 64 years
+Kingston,10990,5175,5815,2,65 to 69 years
+Kingston,9710,4480,5230,2,70 to 74 years
+Kingston,6840,3130,3705,2,75 to 79 years
+Kingston,4675,2110,2565,2,80 to 84 years
+Kingston,4750,1800,2950,2,85 years and over
+Belleville - Quinte West,5320,2815,2505,2,0 to 4 years
+Belleville - Quinte West,5870,2985,2890,2,5 to 9 years
+Belleville - Quinte West,6075,3105,2965,2,10 to 14 years
+Belleville - Quinte West,5615,2880,2745,2,15 to 19 years
+Belleville - Quinte West,5755,3030,2725,2,20 to 24 years
+Belleville - Quinte West,6680,3445,3235,2,25 to 29 years
+Belleville - Quinte West,6905,3540,3365,2,30 to 34 years
+Belleville - Quinte West,6620,3380,3240,2,35 to 39 years
+Belleville - Quinte West,6345,3090,3255,2,40 to 44 years
+Belleville - Quinte West,6055,2960,3095,2,45 to 49 years
+Belleville - Quinte West,6725,3225,3495,2,50 to 54 years
+Belleville - Quinte West,8975,4350,4625,2,55 to 59 years
+Belleville - Quinte West,9005,4370,4630,2,60 to 64 years
+Belleville - Quinte West,7725,3645,4070,2,65 to 69 years
+Belleville - Quinte West,6665,3150,3510,2,70 to 74 years
+Belleville - Quinte West,4465,2050,2415,2,75 to 79 years
+Belleville - Quinte West,3160,1395,1760,2,80 to 84 years
+Belleville - Quinte West,3235,1220,2015,2,85 years and over
+Cobourg,760,385,375,2,0 to 4 years
+Cobourg,845,450,400,2,5 to 9 years
+Cobourg,930,480,450,2,10 to 14 years
+Cobourg,965,505,470,2,15 to 19 years
+Cobourg,835,455,380,2,20 to 24 years
+Cobourg,895,435,470,2,25 to 29 years
+Cobourg,1015,485,525,2,30 to 34 years
+Cobourg,1085,505,580,2,35 to 39 years
+Cobourg,965,445,520,2,40 to 44 years
+Cobourg,985,480,510,2,45 to 49 years
+Cobourg,1055,500,555,2,50 to 54 years
+Cobourg,1510,670,835,2,55 to 59 years
+Cobourg,1680,755,925,2,60 to 64 years
+Cobourg,1735,780,955,2,65 to 69 years
+Cobourg,1805,780,1030,2,70 to 74 years
+Cobourg,1300,565,730,2,75 to 79 years
+Cobourg,1010,395,615,2,80 to 84 years
+Cobourg,1140,445,700,2,85 years and over
+Port Hope,685,355,335,2,0 to 4 years
+Port Hope,730,375,360,2,5 to 9 years
+Port Hope,795,410,385,2,10 to 14 years
+Port Hope,800,420,380,2,15 to 19 years
+Port Hope,745,405,335,2,20 to 24 years
+Port Hope,925,465,465,2,25 to 29 years
+Port Hope,1025,485,540,2,30 to 34 years
+Port Hope,970,490,480,2,35 to 39 years
+Port Hope,880,465,415,2,40 to 44 years
+Port Hope,890,425,465,2,45 to 49 years
+Port Hope,1060,525,535,2,50 to 54 years
+Port Hope,1485,695,790,2,55 to 59 years
+Port Hope,1465,650,820,2,60 to 64 years
+Port Hope,1405,670,740,2,65 to 69 years
+Port Hope,1355,625,730,2,70 to 74 years
+Port Hope,920,470,450,2,75 to 79 years
+Port Hope,540,245,295,2,80 to 84 years
+Port Hope,615,210,400,2,85 years and over
+Peterborough,5710,2950,2760,2,0 to 4 years
+Peterborough,6635,3425,3210,2,5 to 9 years
+Peterborough,6585,3280,3305,2,10 to 14 years
+Peterborough,6405,3245,3165,2,15 to 19 years
+Peterborough,7975,3950,4025,2,20 to 24 years
+Peterborough,8035,4010,4025,2,25 to 29 years
+Peterborough,7890,3905,3985,2,30 to 34 years
+Peterborough,7795,3830,3960,2,35 to 39 years
+Peterborough,6775,3255,3525,2,40 to 44 years
+Peterborough,6775,3360,3410,2,45 to 49 years
+Peterborough,7320,3455,3865,2,50 to 54 years
+Peterborough,9230,4365,4860,2,55 to 59 years
+Peterborough,9960,4630,5335,2,60 to 64 years
+Peterborough,9245,4370,4870,2,65 to 69 years
+Peterborough,8255,3840,4415,2,70 to 74 years
+Peterborough,5760,2680,3080,2,75 to 79 years
+Peterborough,3865,1700,2165,2,80 to 84 years
+Peterborough,4415,1635,2780,2,85 years and over
+Kawartha Lakes,3395,1720,1670,2,0 to 4 years
+Kawartha Lakes,3530,1820,1715,2,5 to 9 years
+Kawartha Lakes,3610,1905,1710,2,10 to 14 years
+Kawartha Lakes,3420,1740,1685,2,15 to 19 years
+Kawartha Lakes,3655,1970,1685,2,20 to 24 years
+Kawartha Lakes,4060,2140,1915,2,25 to 29 years
+Kawartha Lakes,4275,2230,2045,2,30 to 34 years
+Kawartha Lakes,4215,2140,2075,2,35 to 39 years
+Kawartha Lakes,3900,1955,1945,2,40 to 44 years
+Kawartha Lakes,3955,1965,1995,2,45 to 49 years
+Kawartha Lakes,4810,2400,2410,2,50 to 54 years
+Kawartha Lakes,6770,3240,3530,2,55 to 59 years
+Kawartha Lakes,7295,3630,3665,2,60 to 64 years
+Kawartha Lakes,6995,3360,3630,2,65 to 69 years
+Kawartha Lakes,5950,2940,3010,2,70 to 74 years
+Kawartha Lakes,4215,2020,2185,2,75 to 79 years
+Kawartha Lakes,2600,1245,1355,2,80 to 84 years
+Kawartha Lakes,2595,960,1640,2,85 years and over
+Centre Wellington,1670,870,800,2,0 to 4 years
+Centre Wellington,1815,995,815,2,5 to 9 years
+Centre Wellington,1855,925,930,2,10 to 14 years
+Centre Wellington,1765,920,850,2,15 to 19 years
+Centre Wellington,1510,785,720,2,20 to 24 years
+Centre Wellington,1595,795,795,2,25 to 29 years
+Centre Wellington,1860,880,985,2,30 to 34 years
+Centre Wellington,1910,925,980,2,35 to 39 years
+Centre Wellington,1775,880,890,2,40 to 44 years
+Centre Wellington,1800,875,925,2,45 to 49 years
+Centre Wellington,1950,945,1010,2,50 to 54 years
+Centre Wellington,2360,1165,1200,2,55 to 59 years
+Centre Wellington,2285,1060,1225,2,60 to 64 years
+Centre Wellington,2115,980,1130,2,65 to 69 years
+Centre Wellington,1865,875,995,2,70 to 74 years
+Centre Wellington,1270,590,680,2,75 to 79 years
+Centre Wellington,860,390,470,2,80 to 84 years
+Centre Wellington,835,335,500,2,85 years and over
+Oshawa,23510,12010,11495,2,0 to 4 years
+Oshawa,26210,13425,12785,2,5 to 9 years
+Oshawa,27125,13875,13255,2,10 to 14 years
+Oshawa,25290,13150,12140,2,15 to 19 years
+Oshawa,24420,12640,11775,2,20 to 24 years
+Oshawa,25525,12720,12805,2,25 to 29 years
+Oshawa,28640,13970,14665,2,30 to 34 years
+Oshawa,29950,14545,15405,2,35 to 39 years
+Oshawa,28225,13540,14685,2,40 to 44 years
+Oshawa,27620,13485,14135,2,45 to 49 years
+Oshawa,27570,13385,14180,2,50 to 54 years
+Oshawa,30260,14750,15510,2,55 to 59 years
+Oshawa,25535,12435,13095,2,60 to 64 years
+Oshawa,20145,9385,10760,2,65 to 69 years
+Oshawa,17280,7865,9415,2,70 to 74 years
+Oshawa,11715,5380,6335,2,75 to 79 years
+Oshawa,7865,3415,4450,2,80 to 84 years
+Oshawa,8425,3180,5245,2,85 years and over
+Ingersoll,790,420,370,2,0 to 4 years
+Ingersoll,790,360,425,2,5 to 9 years
+Ingersoll,920,495,430,2,10 to 14 years
+Ingersoll,780,405,375,2,15 to 19 years
+Ingersoll,750,400,350,2,20 to 24 years
+Ingersoll,835,410,430,2,25 to 29 years
+Ingersoll,895,425,475,2,30 to 34 years
+Ingersoll,970,490,475,2,35 to 39 years
+Ingersoll,820,405,410,2,40 to 44 years
+Ingersoll,865,425,440,2,45 to 49 years
+Ingersoll,885,445,445,2,50 to 54 years
+Ingersoll,1040,495,545,2,55 to 59 years
+Ingersoll,1010,500,510,2,60 to 64 years
+Ingersoll,745,355,390,2,65 to 69 years
+Ingersoll,605,285,330,2,70 to 74 years
+Ingersoll,405,190,215,2,75 to 79 years
+Ingersoll,270,120,150,2,80 to 84 years
+Ingersoll,310,105,205,2,85 years and over
+Toronto,289425,148160,141265,2,0 to 4 years
+Toronto,325675,167010,158665,2,5 to 9 years
+Toronto,349955,180125,169830,2,10 to 14 years
+Toronto,357165,184300,172865,2,15 to 19 years
+Toronto,418430,217205,201225,2,20 to 24 years
+Toronto,466530,236695,229835,2,25 to 29 years
+Toronto,467160,230895,236265,2,30 to 34 years
+Toronto,443940,214745,229195,2,35 to 39 years
+Toronto,414950,195575,219375,2,40 to 44 years
+Toronto,414990,195950,219040,2,45 to 49 years
+Toronto,431180,206050,225130,2,50 to 54 years
+Toronto,438475,214010,224465,2,55 to 59 years
+Toronto,381715,184900,196815,2,60 to 64 years
+Toronto,308525,144820,163705,2,65 to 69 years
+Toronto,258975,119630,139340,2,70 to 74 years
+Toronto,175000,79385,95625,2,75 to 79 years
+Toronto,126985,54905,72080,2,80 to 84 years
+Toronto,133155,50320,82830,2,85 years and over
+Hamilton,39045,20020,19025,2,0 to 4 years
+Hamilton,42585,21910,20675,2,5 to 9 years
+Hamilton,44180,22760,21425,2,10 to 14 years
+Hamilton,44550,23125,21425,2,15 to 19 years
+Hamilton,47580,24595,22990,2,20 to 24 years
+Hamilton,51275,25975,25300,2,25 to 29 years
+Hamilton,53585,26400,27180,2,30 to 34 years
+Hamilton,52920,25825,27095,2,35 to 39 years
+Hamilton,49540,24070,25470,2,40 to 44 years
+Hamilton,49325,23820,25505,2,45 to 49 years
+Hamilton,51860,25210,26650,2,50 to 54 years
+Hamilton,56825,27810,29020,2,55 to 59 years
+Hamilton,52270,25315,26950,2,60 to 64 years
+Hamilton,43570,20390,23175,2,65 to 69 years
+Hamilton,38015,17365,20650,2,70 to 74 years
+Hamilton,27110,12285,14820,2,75 to 79 years
+Hamilton,19310,8395,10915,2,80 to 84 years
+Hamilton,21630,7840,13790,2,85 years and over
+St. Catharines - Niagara,19555,10105,9450,2,0 to 4 years
+St. Catharines - Niagara,21160,10885,10280,2,5 to 9 years
+St. Catharines - Niagara,22085,11250,10825,2,10 to 14 years
+St. Catharines - Niagara,22615,11770,10850,2,15 to 19 years
+St. Catharines - Niagara,24930,12835,12095,2,20 to 24 years
+St. Catharines - Niagara,26400,13360,13050,2,25 to 29 years
+St. Catharines - Niagara,26150,13060,13085,2,30 to 34 years
+St. Catharines - Niagara,24785,12100,12680,2,35 to 39 years
+St. Catharines - Niagara,23985,11670,12315,2,40 to 44 years
+St. Catharines - Niagara,24990,12125,12865,2,45 to 49 years
+St. Catharines - Niagara,27735,13380,14355,2,50 to 54 years
+St. Catharines - Niagara,33310,16035,17270,2,55 to 59 years
+St. Catharines - Niagara,33405,15765,17640,2,60 to 64 years
+St. Catharines - Niagara,30475,14410,16070,2,65 to 69 years
+St. Catharines - Niagara,26870,12690,14180,2,70 to 74 years
+St. Catharines - Niagara,18590,8770,9815,2,75 to 79 years
+St. Catharines - Niagara,12730,5620,7110,2,80 to 84 years
+St. Catharines - Niagara,13840,5050,8785,2,85 years and over
+Kitchener - Cambridge - Waterloo,30730,15710,15020,2,0 to 4 years
+Kitchener - Cambridge - Waterloo,33275,17150,16125,2,5 to 9 years
+Kitchener - Cambridge - Waterloo,34590,17835,16755,2,10 to 14 years
+Kitchener - Cambridge - Waterloo,34735,17835,16900,2,15 to 19 years
+Kitchener - Cambridge - Waterloo,41905,22290,19615,2,20 to 24 years
+Kitchener - Cambridge - Waterloo,45370,24100,21275,2,25 to 29 years
+Kitchener - Cambridge - Waterloo,43105,21690,21415,2,30 to 34 years
+Kitchener - Cambridge - Waterloo,40825,20345,20480,2,35 to 39 years
+Kitchener - Cambridge - Waterloo,37315,18385,18930,2,40 to 44 years
+Kitchener - Cambridge - Waterloo,36335,17850,18485,2,45 to 49 years
+Kitchener - Cambridge - Waterloo,36440,18025,18420,2,50 to 54 years
+Kitchener - Cambridge - Waterloo,37915,18745,19170,2,55 to 59 years
+Kitchener - Cambridge - Waterloo,33595,16385,17210,2,60 to 64 years
+Kitchener - Cambridge - Waterloo,27730,13040,14685,2,65 to 69 years
+Kitchener - Cambridge - Waterloo,23265,10810,12450,2,70 to 74 years
+Kitchener - Cambridge - Waterloo,16090,7370,8725,2,75 to 79 years
+Kitchener - Cambridge - Waterloo,11070,4925,6145,2,80 to 84 years
+Kitchener - Cambridge - Waterloo,11555,4220,7340,2,85 years and over
+Brantford,7595,4010,3585,2,0 to 4 years
+Brantford,8380,4205,4175,2,5 to 9 years
+Brantford,8695,4445,4250,2,10 to 14 years
+Brantford,8260,4285,3975,2,15 to 19 years
+Brantford,8300,4340,3960,2,20 to 24 years
+Brantford,9065,4555,4510,2,25 to 29 years
+Brantford,9325,4580,4750,2,30 to 34 years
+Brantford,9470,4645,4830,2,35 to 39 years
+Brantford,9040,4475,4565,2,40 to 44 years
+Brantford,8835,4365,4475,2,45 to 49 years
+Brantford,9005,4480,4520,2,50 to 54 years
+Brantford,10400,5065,5335,2,55 to 59 years
+Brantford,9935,4775,5160,2,60 to 64 years
+Brantford,8745,4140,4600,2,65 to 69 years
+Brantford,7330,3490,3840,2,70 to 74 years
+Brantford,4915,2265,2655,2,75 to 79 years
+Brantford,3255,1470,1790,2,80 to 84 years
+Brantford,3595,1250,2345,2,85 years and over
+Woodstock,2710,1395,1325,2,0 to 4 years
+Woodstock,2875,1470,1400,2,5 to 9 years
+Woodstock,2645,1330,1315,2,10 to 14 years
+Woodstock,2480,1255,1230,2,15 to 19 years
+Woodstock,2460,1275,1180,2,20 to 24 years
+Woodstock,3035,1520,1515,2,25 to 29 years
+Woodstock,3415,1705,1705,2,30 to 34 years
+Woodstock,3295,1670,1625,2,35 to 39 years
+Woodstock,3020,1520,1500,2,40 to 44 years
+Woodstock,2750,1405,1345,2,45 to 49 years
+Woodstock,2650,1310,1340,2,50 to 54 years
+Woodstock,3170,1540,1630,2,55 to 59 years
+Woodstock,3045,1415,1630,2,60 to 64 years
+Woodstock,2640,1235,1410,2,65 to 69 years
+Woodstock,2335,1055,1275,2,70 to 74 years
+Woodstock,1665,740,920,2,75 to 79 years
+Woodstock,1175,495,680,2,80 to 84 years
+Woodstock,1335,465,870,2,85 years and over
+Tillsonburg,885,445,440,2,0 to 4 years
+Tillsonburg,860,435,425,2,5 to 9 years
+Tillsonburg,885,455,435,2,10 to 14 years
+Tillsonburg,965,475,490,2,15 to 19 years
+Tillsonburg,895,480,415,2,20 to 24 years
+Tillsonburg,970,490,480,2,25 to 29 years
+Tillsonburg,1010,495,520,2,30 to 34 years
+Tillsonburg,990,495,495,2,35 to 39 years
+Tillsonburg,990,460,530,2,40 to 44 years
+Tillsonburg,980,505,475,2,45 to 49 years
+Tillsonburg,1095,555,540,2,50 to 54 years
+Tillsonburg,1280,590,690,2,55 to 59 years
+Tillsonburg,1365,610,760,2,60 to 64 years
+Tillsonburg,1405,635,775,2,65 to 69 years
+Tillsonburg,1390,630,760,2,70 to 74 years
+Tillsonburg,1080,475,605,2,75 to 79 years
+Tillsonburg,750,350,400,2,80 to 84 years
+Tillsonburg,820,305,515,2,85 years and over
+Norfolk,3165,1625,1545,2,0 to 4 years
+Norfolk,3640,1875,1760,2,5 to 9 years
+Norfolk,3490,1785,1705,2,10 to 14 years
+Norfolk,3465,1835,1625,2,15 to 19 years
+Norfolk,3190,1645,1550,2,20 to 24 years
+Norfolk,3345,1750,1595,2,25 to 29 years
+Norfolk,3695,1870,1825,2,30 to 34 years
+Norfolk,3685,1860,1825,2,35 to 39 years
+Norfolk,3470,1725,1740,2,40 to 44 years
+Norfolk,3415,1700,1715,2,45 to 49 years
+Norfolk,4140,2035,2105,2,50 to 54 years
+Norfolk,5405,2675,2725,2,55 to 59 years
+Norfolk,5955,2835,3125,2,60 to 64 years
+Norfolk,5730,2765,2970,2,65 to 69 years
+Norfolk,4730,2370,2355,2,70 to 74 years
+Norfolk,3205,1505,1695,2,75 to 79 years
+Norfolk,1930,935,995,2,80 to 84 years
+Norfolk,1855,710,1145,2,85 years and over
+Guelph,8345,4240,4105,2,0 to 4 years
+Guelph,9245,4825,4415,2,5 to 9 years
+Guelph,9345,4870,4475,2,10 to 14 years
+Guelph,9795,4960,4840,2,15 to 19 years
+Guelph,11725,5940,5790,2,20 to 24 years
+Guelph,12035,6090,5945,2,25 to 29 years
+Guelph,11945,5950,5995,2,30 to 34 years
+Guelph,11520,5740,5780,2,35 to 39 years
+Guelph,10565,5125,5435,2,40 to 44 years
+Guelph,10680,5170,5510,2,45 to 49 years
+Guelph,10760,5290,5470,2,50 to 54 years
+Guelph,11435,5655,5780,2,55 to 59 years
+Guelph,10235,4935,5305,2,60 to 64 years
+Guelph,8355,3940,4410,2,65 to 69 years
+Guelph,7165,3245,3920,2,70 to 74 years
+Guelph,4995,2285,2705,2,75 to 79 years
+Guelph,3495,1455,2040,2,80 to 84 years
+Guelph,3945,1385,2560,2,85 years and over
+Stratford,1530,755,775,2,0 to 4 years
+Stratford,1580,805,770,2,5 to 9 years
+Stratford,1695,930,760,2,10 to 14 years
+Stratford,1705,880,820,2,15 to 19 years
+Stratford,1680,870,810,2,20 to 24 years
+Stratford,1965,1025,940,2,25 to 29 years
+Stratford,2040,1060,980,2,30 to 34 years
+Stratford,2100,1010,1085,2,35 to 39 years
+Stratford,1900,920,975,2,40 to 44 years
+Stratford,1960,960,1000,2,45 to 49 years
+Stratford,1995,945,1050,2,50 to 54 years
+Stratford,2530,1195,1335,2,55 to 59 years
+Stratford,2625,1255,1370,2,60 to 64 years
+Stratford,2425,1090,1335,2,65 to 69 years
+Stratford,2015,905,1115,2,70 to 74 years
+Stratford,1400,635,770,2,75 to 79 years
+Stratford,1000,430,570,2,80 to 84 years
+Stratford,1095,380,715,2,85 years and over
+London,27030,13840,13185,2,0 to 4 years
+London,30720,15835,14890,2,5 to 9 years
+London,31965,16515,15455,2,10 to 14 years
+London,30980,15855,15120,2,15 to 19 years
+London,36875,19075,17805,2,20 to 24 years
+London,39980,20540,19440,2,25 to 29 years
+London,37535,18630,18900,2,30 to 34 years
+London,36210,17625,18585,2,35 to 39 years
+London,33440,16325,17115,2,40 to 44 years
+London,32250,15795,16455,2,45 to 49 years
+London,33100,16145,16950,2,50 to 54 years
+London,37505,18190,19315,2,55 to 59 years
+London,35720,16970,18750,2,60 to 64 years
+London,30440,14170,16265,2,65 to 69 years
+London,26330,12150,14180,2,70 to 74 years
+London,18090,8290,9800,2,75 to 79 years
+London,12260,5335,6925,2,80 to 84 years
+London,13120,4780,8335,2,85 years and over
+Chatham-Kent,5075,2635,2435,2,0 to 4 years
+Chatham-Kent,5670,2940,2730,2,5 to 9 years
+Chatham-Kent,5875,2990,2885,2,10 to 14 years
+Chatham-Kent,5810,3020,2795,2,15 to 19 years
+Chatham-Kent,5520,2820,2705,2,20 to 24 years
+Chatham-Kent,5485,2780,2700,2,25 to 29 years
+Chatham-Kent,5630,2835,2795,2,30 to 34 years
+Chatham-Kent,5970,2900,3070,2,35 to 39 years
+Chatham-Kent,5675,2890,2780,2,40 to 44 years
+Chatham-Kent,5805,2830,2970,2,45 to 49 years
+Chatham-Kent,6405,3165,3240,2,50 to 54 years
+Chatham-Kent,8125,3925,4200,2,55 to 59 years
+Chatham-Kent,8675,4200,4475,2,60 to 64 years
+Chatham-Kent,7735,3810,3925,2,65 to 69 years
+Chatham-Kent,6505,3130,3375,2,70 to 74 years
+Chatham-Kent,4445,2085,2360,2,75 to 79 years
+Chatham-Kent,2960,1315,1650,2,80 to 84 years
+Chatham-Kent,2945,1090,1855,2,85 years and over
+Windsor,20375,10475,9900,2,0 to 4 years
+Windsor,23210,11950,11260,2,5 to 9 years
+Windsor,25210,12985,12220,2,10 to 14 years
+Windsor,25840,13455,12385,2,15 to 19 years
+Windsor,27555,14780,12775,2,20 to 24 years
+Windsor,27620,14720,12900,2,25 to 29 years
+Windsor,25355,12825,12535,2,30 to 34 years
+Windsor,24435,11955,12480,2,35 to 39 years
+Windsor,24985,12055,12930,2,40 to 44 years
+Windsor,26930,13085,13845,2,45 to 49 years
+Windsor,28470,14070,14400,2,50 to 54 years
+Windsor,31280,15420,15855,2,55 to 59 years
+Windsor,29830,14745,15085,2,60 to 64 years
+Windsor,25375,12240,13135,2,65 to 69 years
+Windsor,21615,10230,11390,2,70 to 74 years
+Windsor,14555,6850,7700,2,75 to 79 years
+Windsor,9775,4245,5530,2,80 to 84 years
+Windsor,10220,3720,6495,2,85 years and over
+Sarnia,4725,2425,2295,2,0 to 4 years
+Sarnia,4910,2440,2470,2,5 to 9 years
+Sarnia,5235,2605,2630,2,10 to 14 years
+Sarnia,4975,2545,2420,2,15 to 19 years
+Sarnia,5155,2670,2485,2,20 to 24 years
+Sarnia,5905,3115,2790,2,25 to 29 years
+Sarnia,5865,2995,2875,2,30 to 34 years
+Sarnia,5730,2840,2895,2,35 to 39 years
+Sarnia,5375,2645,2735,2,40 to 44 years
+Sarnia,5355,2635,2720,2,45 to 49 years
+Sarnia,5735,2850,2880,2,50 to 54 years
+Sarnia,7130,3370,3760,2,55 to 59 years
+Sarnia,7955,3820,4135,2,60 to 64 years
+Sarnia,7380,3545,3835,2,65 to 69 years
+Sarnia,6195,3035,3165,2,70 to 74 years
+Sarnia,4350,2045,2300,2,75 to 79 years
+Sarnia,2765,1225,1540,2,80 to 84 years
+Sarnia,2850,1090,1755,2,85 years and over
+Essa,1455,765,695,2,0 to 4 years
+Essa,1615,820,795,2,5 to 9 years
+Essa,1550,795,755,2,10 to 14 years
+Essa,1345,695,645,2,15 to 19 years
+Essa,1220,645,570,2,20 to 24 years
+Essa,1465,735,730,2,25 to 29 years
+Essa,1825,920,905,2,30 to 34 years
+Essa,1915,955,960,2,35 to 39 years
+Essa,1545,790,755,2,40 to 44 years
+Essa,1540,780,760,2,45 to 49 years
+Essa,1560,800,755,2,50 to 54 years
+Essa,1795,915,880,2,55 to 59 years
+Essa,1410,695,715,2,60 to 64 years
+Essa,1015,505,510,2,65 to 69 years
+Essa,800,385,420,2,70 to 74 years
+Essa,480,245,235,2,75 to 79 years
+Essa,250,125,125,2,80 to 84 years
+Essa,180,80,105,2,85 years and over
+Wasaga Beach,865,440,425,2,0 to 4 years
+Wasaga Beach,950,500,450,2,5 to 9 years
+Wasaga Beach,1095,545,550,2,10 to 14 years
+Wasaga Beach,985,520,465,2,15 to 19 years
+Wasaga Beach,920,475,445,2,20 to 24 years
+Wasaga Beach,1050,550,500,2,25 to 29 years
+Wasaga Beach,1080,565,515,2,30 to 34 years
+Wasaga Beach,1215,590,625,2,35 to 39 years
+Wasaga Beach,1170,590,580,2,40 to 44 years
+Wasaga Beach,1200,585,605,2,45 to 49 years
+Wasaga Beach,1410,660,755,2,50 to 54 years
+Wasaga Beach,2025,960,1065,2,55 to 59 years
+Wasaga Beach,2280,1070,1215,2,60 to 64 years
+Wasaga Beach,2535,1145,1390,2,65 to 69 years
+Wasaga Beach,2525,1190,1335,2,70 to 74 years
+Wasaga Beach,1755,875,885,2,75 to 79 years
+Wasaga Beach,1015,480,535,2,80 to 84 years
+Wasaga Beach,785,370,415,2,85 years and over
+Owen Sound,1400,715,690,2,0 to 4 years
+Owen Sound,1605,840,765,2,5 to 9 years
+Owen Sound,1655,835,820,2,10 to 14 years
+Owen Sound,1610,845,770,2,15 to 19 years
+Owen Sound,1590,830,760,2,20 to 24 years
+Owen Sound,1710,875,840,2,25 to 29 years
+Owen Sound,1845,905,945,2,30 to 34 years
+Owen Sound,1810,880,930,2,35 to 39 years
+Owen Sound,1740,855,885,2,40 to 44 years
+Owen Sound,1665,820,855,2,45 to 49 years
+Owen Sound,1935,930,1000,2,50 to 54 years
+Owen Sound,2565,1205,1360,2,55 to 59 years
+Owen Sound,2785,1300,1490,2,60 to 64 years
+Owen Sound,2550,1185,1365,2,65 to 69 years
+Owen Sound,2290,1085,1210,2,70 to 74 years
+Owen Sound,1570,720,850,2,75 to 79 years
+Owen Sound,1075,450,625,2,80 to 84 years
+Owen Sound,1300,450,850,2,85 years and over
+Collingwood,970,495,475,2,0 to 4 years
+Collingwood,1120,555,560,2,5 to 9 years
+Collingwood,1205,640,565,2,10 to 14 years
+Collingwood,1165,590,570,2,15 to 19 years
+Collingwood,1060,570,490,2,20 to 24 years
+Collingwood,1260,630,625,2,25 to 29 years
+Collingwood,1350,690,660,2,30 to 34 years
+Collingwood,1325,645,680,2,35 to 39 years
+Collingwood,1315,625,690,2,40 to 44 years
+Collingwood,1420,695,720,2,45 to 49 years
+Collingwood,1350,635,715,2,50 to 54 years
+Collingwood,1740,735,1005,2,55 to 59 years
+Collingwood,2095,925,1170,2,60 to 64 years
+Collingwood,2085,935,1150,2,65 to 69 years
+Collingwood,1930,885,1045,2,70 to 74 years
+Collingwood,1395,635,760,2,75 to 79 years
+Collingwood,950,420,530,2,80 to 84 years
+Collingwood,1080,390,685,2,85 years and over
+Barrie,10830,5625,5205,2,0 to 4 years
+Barrie,12245,6320,5930,2,5 to 9 years
+Barrie,13125,6775,6350,2,10 to 14 years
+Barrie,13070,6760,6310,2,15 to 19 years
+Barrie,13330,7055,6270,2,20 to 24 years
+Barrie,14160,7310,6855,2,25 to 29 years
+Barrie,14720,7315,7405,2,30 to 34 years
+Barrie,14455,7145,7310,2,35 to 39 years
+Barrie,13960,6770,7190,2,40 to 44 years
+Barrie,14110,6955,7155,2,45 to 49 years
+Barrie,14330,7035,7295,2,50 to 54 years
+Barrie,16150,7835,8315,2,55 to 59 years
+Barrie,13930,6775,7155,2,60 to 64 years
+Barrie,10660,5035,5625,2,65 to 69 years
+Barrie,8835,4140,4695,2,70 to 74 years
+Barrie,6165,2770,3395,2,75 to 79 years
+Barrie,4235,1805,2430,2,80 to 84 years
+Barrie,4540,1655,2885,2,85 years and over
+Orillia,1550,795,760,2,0 to 4 years
+Orillia,1525,780,750,2,5 to 9 years
+Orillia,1570,800,760,2,10 to 14 years
+Orillia,1600,820,780,2,15 to 19 years
+Orillia,1690,855,835,2,20 to 24 years
+Orillia,2175,1040,1135,2,25 to 29 years
+Orillia,2275,1150,1125,2,30 to 34 years
+Orillia,1970,940,1035,2,35 to 39 years
+Orillia,1680,810,875,2,40 to 44 years
+Orillia,1720,835,885,2,45 to 49 years
+Orillia,1900,890,1010,2,50 to 54 years
+Orillia,2460,1115,1340,2,55 to 59 years
+Orillia,2620,1185,1435,2,60 to 64 years
+Orillia,2335,1010,1320,2,65 to 69 years
+Orillia,2110,985,1125,2,70 to 74 years
+Orillia,1530,640,890,2,75 to 79 years
+Orillia,1210,510,695,2,80 to 84 years
+Orillia,1490,520,965,2,85 years and over
+Midland,1075,545,535,2,0 to 4 years
+Midland,1215,650,565,2,5 to 9 years
+Midland,1195,630,565,2,10 to 14 years
+Midland,1250,640,605,2,15 to 19 years
+Midland,1300,710,590,2,20 to 24 years
+Midland,1545,810,740,2,25 to 29 years
+Midland,1680,900,780,2,30 to 34 years
+Midland,1555,795,765,2,35 to 39 years
+Midland,1365,705,670,2,40 to 44 years
+Midland,1515,710,805,2,45 to 49 years
+Midland,1540,745,800,2,50 to 54 years
+Midland,2240,1055,1185,2,55 to 59 years
+Midland,2460,1145,1315,2,60 to 64 years
+Midland,2315,1055,1260,2,65 to 69 years
+Midland,2010,950,1060,2,70 to 74 years
+Midland,1445,645,800,2,75 to 79 years
+Midland,955,405,550,2,80 to 84 years
+Midland,1230,445,780,2,85 years and over
+North Bay,3115,1570,1545,2,0 to 4 years
+North Bay,3580,1895,1680,2,5 to 9 years
+North Bay,3735,1895,1840,2,10 to 14 years
+North Bay,3720,1880,1845,2,15 to 19 years
+North Bay,4100,2065,2030,2,20 to 24 years
+North Bay,4225,2140,2085,2,25 to 29 years
+North Bay,4440,2270,2170,2,30 to 34 years
+North Bay,4420,2145,2275,2,35 to 39 years
+North Bay,4015,2010,2005,2,40 to 44 years
+North Bay,4205,2050,2155,2,45 to 49 years
+North Bay,4485,2225,2255,2,50 to 54 years
+North Bay,5935,2880,3055,2,55 to 59 years
+North Bay,5870,2855,3015,2,60 to 64 years
+North Bay,4870,2330,2545,2,65 to 69 years
+North Bay,4145,2010,2130,2,70 to 74 years
+North Bay,2835,1285,1550,2,75 to 79 years
+North Bay,2090,935,1155,2,80 to 84 years
+North Bay,1950,780,1175,2,85 years and over
+Greater Sudbury / Grand Sudbury,7740,3965,3775,2,0 to 4 years
+Greater Sudbury / Grand Sudbury,9215,4725,4495,2,5 to 9 years
+Greater Sudbury / Grand Sudbury,9385,4885,4500,2,10 to 14 years
+Greater Sudbury / Grand Sudbury,9040,4650,4400,2,15 to 19 years
+Greater Sudbury / Grand Sudbury,10675,5615,5055,2,20 to 24 years
+Greater Sudbury / Grand Sudbury,10990,5660,5325,2,25 to 29 years
+Greater Sudbury / Grand Sudbury,10585,5285,5300,2,30 to 34 years
+Greater Sudbury / Grand Sudbury,10490,5185,5300,2,35 to 39 years
+Greater Sudbury / Grand Sudbury,10410,5065,5345,2,40 to 44 years
+Greater Sudbury / Grand Sudbury,10565,5335,5235,2,45 to 49 years
+Greater Sudbury / Grand Sudbury,10870,5405,5460,2,50 to 54 years
+Greater Sudbury / Grand Sudbury,13300,6515,6785,2,55 to 59 years
+Greater Sudbury / Grand Sudbury,12630,5985,6645,2,60 to 64 years
+Greater Sudbury / Grand Sudbury,10680,5055,5625,2,65 to 69 years
+Greater Sudbury / Grand Sudbury,8890,4340,4545,2,70 to 74 years
+Greater Sudbury / Grand Sudbury,6215,2860,3355,2,75 to 79 years
+Greater Sudbury / Grand Sudbury,4440,1930,2515,2,80 to 84 years
+Greater Sudbury / Grand Sudbury,4475,1560,2910,2,85 years and over
+Elliot Lake,355,180,175,2,0 to 4 years
+Elliot Lake,400,185,210,2,5 to 9 years
+Elliot Lake,420,220,200,2,10 to 14 years
+Elliot Lake,375,190,185,2,15 to 19 years
+Elliot Lake,350,195,155,2,20 to 24 years
+Elliot Lake,405,200,205,2,25 to 29 years
+Elliot Lake,470,230,240,2,30 to 34 years
+Elliot Lake,485,245,240,2,35 to 39 years
+Elliot Lake,445,230,215,2,40 to 44 years
+Elliot Lake,420,195,220,2,45 to 49 years
+Elliot Lake,590,290,305,2,50 to 54 years
+Elliot Lake,875,425,455,2,55 to 59 years
+Elliot Lake,1240,550,685,2,60 to 64 years
+Elliot Lake,1285,650,640,2,65 to 69 years
+Elliot Lake,1320,655,670,2,70 to 74 years
+Elliot Lake,910,445,465,2,75 to 79 years
+Elliot Lake,590,285,305,2,80 to 84 years
+Elliot Lake,430,180,260,2,85 years and over
+Timmins,1950,970,980,2,0 to 4 years
+Timmins,2285,1190,1095,2,5 to 9 years
+Timmins,2420,1230,1190,2,10 to 14 years
+Timmins,2270,1195,1080,2,15 to 19 years
+Timmins,2580,1400,1180,2,20 to 24 years
+Timmins,2720,1400,1315,2,25 to 29 years
+Timmins,2815,1420,1395,2,30 to 34 years
+Timmins,2545,1260,1290,2,35 to 39 years
+Timmins,2500,1210,1295,2,40 to 44 years
+Timmins,2580,1285,1295,2,45 to 49 years
+Timmins,2680,1330,1345,2,50 to 54 years
+Timmins,3220,1595,1625,2,55 to 59 years
+Timmins,3130,1590,1540,2,60 to 64 years
+Timmins,2525,1270,1260,2,65 to 69 years
+Timmins,1905,960,940,2,70 to 74 years
+Timmins,1305,590,710,2,75 to 79 years
+Timmins,910,370,540,2,80 to 84 years
+Timmins,805,290,515,2,85 years and over
+Sault Ste. Marie,3275,1730,1545,2,0 to 4 years
+Sault Ste. Marie,3955,2030,1930,2,5 to 9 years
+Sault Ste. Marie,3820,2030,1785,2,10 to 14 years
+Sault Ste. Marie,3740,1920,1820,2,15 to 19 years
+Sault Ste. Marie,4250,2275,1980,2,20 to 24 years
+Sault Ste. Marie,4495,2305,2195,2,25 to 29 years
+Sault Ste. Marie,4515,2235,2280,2,30 to 34 years
+Sault Ste. Marie,4320,2110,2210,2,35 to 39 years
+Sault Ste. Marie,4305,2060,2240,2,40 to 44 years
+Sault Ste. Marie,4165,2030,2130,2,45 to 49 years
+Sault Ste. Marie,4680,2300,2385,2,50 to 54 years
+Sault Ste. Marie,5935,2775,3165,2,55 to 59 years
+Sault Ste. Marie,6395,3010,3380,2,60 to 64 years
+Sault Ste. Marie,5525,2650,2880,2,65 to 69 years
+Sault Ste. Marie,4840,2320,2520,2,70 to 74 years
+Sault Ste. Marie,3365,1515,1850,2,75 to 79 years
+Sault Ste. Marie,2470,1085,1385,2,80 to 84 years
+Sault Ste. Marie,2670,1050,1620,2,85 years and over
+Thunder Bay,5550,2825,2720,2,0 to 4 years
+Thunder Bay,5965,3135,2830,2,5 to 9 years
+Thunder Bay,6145,3140,3005,2,10 to 14 years
+Thunder Bay,6125,3145,2980,2,15 to 19 years
+Thunder Bay,7975,4235,3740,2,20 to 24 years
+Thunder Bay,8735,4490,4240,2,25 to 29 years
+Thunder Bay,7780,3970,3810,2,30 to 34 years
+Thunder Bay,7280,3640,3640,2,35 to 39 years
+Thunder Bay,6740,3295,3445,2,40 to 44 years
+Thunder Bay,7085,3475,3615,2,45 to 49 years
+Thunder Bay,7815,3790,4025,2,50 to 54 years
+Thunder Bay,9235,4480,4755,2,55 to 59 years
+Thunder Bay,9780,4720,5065,2,60 to 64 years
+Thunder Bay,8450,4155,4295,2,65 to 69 years
+Thunder Bay,7235,3495,3740,2,70 to 74 years
+Thunder Bay,4615,2170,2445,2,75 to 79 years
+Thunder Bay,3230,1400,1830,2,80 to 84 years
+Thunder Bay,3520,1355,2165,2,85 years and over
+Kenora,695,355,340,2,0 to 4 years
+Kenora,770,395,375,2,5 to 9 years
+Kenora,825,430,395,2,10 to 14 years
+Kenora,745,380,365,2,15 to 19 years
+Kenora,790,410,375,2,20 to 24 years
+Kenora,960,505,450,2,25 to 29 years
+Kenora,1000,500,495,2,30 to 34 years
+Kenora,890,445,455,2,35 to 39 years
+Kenora,915,460,455,2,40 to 44 years
+Kenora,875,435,430,2,45 to 49 years
+Kenora,890,435,455,2,50 to 54 years
+Kenora,1165,560,605,2,55 to 59 years
+Kenora,1260,625,635,2,60 to 64 years
+Kenora,1025,495,525,2,65 to 69 years
+Kenora,845,430,415,2,70 to 74 years
+Kenora,505,255,255,2,75 to 79 years
+Kenora,375,160,220,2,80 to 84 years
+Kenora,430,155,275,2,85 years and over
+Winnipeg,44715,22765,21945,2,0 to 4 years
+Winnipeg,47990,24775,23215,2,5 to 9 years
+Winnipeg,48420,24835,23585,2,10 to 14 years
+Winnipeg,47940,24895,23050,2,15 to 19 years
+Winnipeg,61050,32290,28765,2,20 to 24 years
+Winnipeg,59295,30345,28950,2,25 to 29 years
+Winnipeg,59905,29810,30090,2,30 to 34 years
+Winnipeg,59540,29450,30090,2,35 to 39 years
+Winnipeg,55865,27380,28485,2,40 to 44 years
+Winnipeg,52475,26105,26375,2,45 to 49 years
+Winnipeg,50385,24915,25470,2,50 to 54 years
+Winnipeg,54875,27150,27725,2,55 to 59 years
+Winnipeg,51820,25455,26360,2,60 to 64 years
+Winnipeg,44510,21155,23350,2,65 to 69 years
+Winnipeg,37020,17070,19950,2,70 to 74 years
+Winnipeg,24280,10975,13310,2,75 to 79 years
+Winnipeg,16295,6835,9460,2,80 to 84 years
+Winnipeg,18295,6195,12100,2,85 years and over
+Winkler,2540,1280,1260,2,0 to 4 years
+Winkler,2750,1390,1355,2,5 to 9 years
+Winkler,2650,1390,1260,2,10 to 14 years
+Winkler,2495,1310,1185,2,15 to 19 years
+Winkler,2210,1175,1030,2,20 to 24 years
+Winkler,2245,1120,1125,2,25 to 29 years
+Winkler,2185,1070,1115,2,30 to 34 years
+Winkler,2160,1100,1060,2,35 to 39 years
+Winkler,1965,970,1000,2,40 to 44 years
+Winkler,1855,925,930,2,45 to 49 years
+Winkler,1695,840,855,2,50 to 54 years
+Winkler,1670,800,865,2,55 to 59 years
+Winkler,1655,785,870,2,60 to 64 years
+Winkler,1395,710,685,2,65 to 69 years
+Winkler,1100,530,565,2,70 to 74 years
+Winkler,780,345,435,2,75 to 79 years
+Winkler,615,265,360,2,80 to 84 years
+Winkler,695,230,465,2,85 years and over
+Steinbach,1265,655,610,2,0 to 4 years
+Steinbach,1295,650,645,2,5 to 9 years
+Steinbach,1230,665,565,2,10 to 14 years
+Steinbach,1090,545,540,2,15 to 19 years
+Steinbach,1330,665,660,2,20 to 24 years
+Steinbach,1260,655,605,2,25 to 29 years
+Steinbach,1225,615,605,2,30 to 34 years
+Steinbach,1275,615,660,2,35 to 39 years
+Steinbach,1130,565,565,2,40 to 44 years
+Steinbach,1000,485,515,2,45 to 49 years
+Steinbach,880,420,460,2,50 to 54 years
+Steinbach,945,430,510,2,55 to 59 years
+Steinbach,835,405,425,2,60 to 64 years
+Steinbach,825,380,445,2,65 to 69 years
+Steinbach,725,310,410,2,70 to 74 years
+Steinbach,595,255,335,2,75 to 79 years
+Steinbach,435,175,260,2,80 to 84 years
+Steinbach,480,170,305,2,85 years and over
+Portage la Prairie,765,395,375,2,0 to 4 years
+Portage la Prairie,890,455,435,2,5 to 9 years
+Portage la Prairie,820,390,430,2,10 to 14 years
+Portage la Prairie,800,410,385,2,15 to 19 years
+Portage la Prairie,805,440,365,2,20 to 24 years
+Portage la Prairie,795,390,405,2,25 to 29 years
+Portage la Prairie,925,455,470,2,30 to 34 years
+Portage la Prairie,815,415,390,2,35 to 39 years
+Portage la Prairie,715,330,385,2,40 to 44 years
+Portage la Prairie,700,345,355,2,45 to 49 years
+Portage la Prairie,750,375,375,2,50 to 54 years
+Portage la Prairie,895,420,480,2,55 to 59 years
+Portage la Prairie,925,455,475,2,60 to 64 years
+Portage la Prairie,765,350,415,2,65 to 69 years
+Portage la Prairie,650,300,350,2,70 to 74 years
+Portage la Prairie,490,210,285,2,75 to 79 years
+Portage la Prairie,345,140,200,2,80 to 84 years
+Portage la Prairie,410,135,270,2,85 years and over
+Brandon,3160,1630,1535,2,0 to 4 years
+Brandon,3540,1835,1710,2,5 to 9 years
+Brandon,3310,1715,1595,2,10 to 14 years
+Brandon,3340,1705,1635,2,15 to 19 years
+Brandon,4090,2095,2000,2,20 to 24 years
+Brandon,3880,2010,1875,2,25 to 29 years
+Brandon,4040,1985,2055,2,30 to 34 years
+Brandon,4015,2035,1975,2,35 to 39 years
+Brandon,3755,1855,1900,2,40 to 44 years
+Brandon,3300,1675,1620,2,45 to 49 years
+Brandon,2840,1410,1430,2,50 to 54 years
+Brandon,3160,1500,1655,2,55 to 59 years
+Brandon,3000,1420,1580,2,60 to 64 years
+Brandon,2575,1240,1335,2,65 to 69 years
+Brandon,2240,990,1250,2,70 to 74 years
+Brandon,1475,615,870,2,75 to 79 years
+Brandon,1230,500,730,2,80 to 84 years
+Brandon,1310,445,865,2,85 years and over
+Thompson,1095,565,530,2,0 to 4 years
+Thompson,1135,580,555,2,5 to 9 years
+Thompson,1140,560,575,2,10 to 14 years
+Thompson,905,460,445,2,15 to 19 years
+Thompson,925,475,450,2,20 to 24 years
+Thompson,1070,510,560,2,25 to 29 years
+Thompson,1075,545,535,2,30 to 34 years
+Thompson,905,445,460,2,35 to 39 years
+Thompson,900,425,475,2,40 to 44 years
+Thompson,770,380,390,2,45 to 49 years
+Thompson,785,395,395,2,50 to 54 years
+Thompson,795,430,360,2,55 to 59 years
+Thompson,570,315,260,2,60 to 64 years
+Thompson,400,215,185,2,65 to 69 years
+Thompson,270,140,130,2,70 to 74 years
+Thompson,170,85,85,2,75 to 79 years
+Thompson,90,35,50,2,80 to 84 years
+Thompson,40,10,30,2,85 years and over
+Regina,14880,7510,7370,2,0 to 4 years
+Regina,16410,8330,8080,2,5 to 9 years
+Regina,16045,8360,7685,2,10 to 14 years
+Regina,14405,7440,6965,2,15 to 19 years
+Regina,15985,8355,7635,2,20 to 24 years
+Regina,16530,8255,8275,2,25 to 29 years
+Regina,18955,9355,9600,2,30 to 34 years
+Regina,19715,9845,9870,2,35 to 39 years
+Regina,17905,9035,8875,2,40 to 44 years
+Regina,15230,7575,7660,2,45 to 49 years
+Regina,14005,7025,6985,2,50 to 54 years
+Regina,15645,7575,8070,2,55 to 59 years
+Regina,15010,7335,7675,2,60 to 64 years
+Regina,12725,6120,6600,2,65 to 69 years
+Regina,9560,4495,5060,2,70 to 74 years
+Regina,6280,2815,3465,2,75 to 79 years
+Regina,4555,1855,2705,2,80 to 84 years
+Regina,5370,1845,3520,2,85 years and over
+Yorkton,1070,545,525,2,0 to 4 years
+Yorkton,1210,605,605,2,5 to 9 years
+Yorkton,1310,665,645,2,10 to 14 years
+Yorkton,1215,640,570,2,15 to 19 years
+Yorkton,1085,570,515,2,20 to 24 years
+Yorkton,1105,580,520,2,25 to 29 years
+Yorkton,1220,610,610,2,30 to 34 years
+Yorkton,1255,610,645,2,35 to 39 years
+Yorkton,1280,625,655,2,40 to 44 years
+Yorkton,1220,570,650,2,45 to 49 years
+Yorkton,1160,575,580,2,50 to 54 years
+Yorkton,1325,640,675,2,55 to 59 years
+Yorkton,1310,665,645,2,60 to 64 years
+Yorkton,1125,545,580,2,65 to 69 years
+Yorkton,935,435,500,2,70 to 74 years
+Yorkton,720,310,415,2,75 to 79 years
+Yorkton,615,255,370,2,80 to 84 years
+Yorkton,710,270,440,2,85 years and over
+Moose Jaw,1755,935,825,2,0 to 4 years
+Moose Jaw,2145,1115,1025,2,5 to 9 years
+Moose Jaw,2295,1225,1075,2,10 to 14 years
+Moose Jaw,2000,995,1005,2,15 to 19 years
+Moose Jaw,1820,975,850,2,20 to 24 years
+Moose Jaw,1960,1010,940,2,25 to 29 years
+Moose Jaw,2290,1175,1115,2,30 to 34 years
+Moose Jaw,2385,1185,1200,2,35 to 39 years
+Moose Jaw,2225,1065,1160,2,40 to 44 years
+Moose Jaw,1970,945,1025,2,45 to 49 years
+Moose Jaw,1860,895,970,2,50 to 54 years
+Moose Jaw,2330,1165,1165,2,55 to 59 years
+Moose Jaw,2525,1235,1290,2,60 to 64 years
+Moose Jaw,2250,1055,1195,2,65 to 69 years
+Moose Jaw,1790,860,935,2,70 to 74 years
+Moose Jaw,1190,555,630,2,75 to 79 years
+Moose Jaw,915,375,540,2,80 to 84 years
+Moose Jaw,1160,410,750,2,85 years and over
+Swift Current,945,510,435,2,0 to 4 years
+Swift Current,1120,550,565,2,5 to 9 years
+Swift Current,1060,535,530,2,10 to 14 years
+Swift Current,1115,580,535,2,15 to 19 years
+Swift Current,1050,545,500,2,20 to 24 years
+Swift Current,1085,545,540,2,25 to 29 years
+Swift Current,1210,610,605,2,30 to 34 years
+Swift Current,1315,650,665,2,35 to 39 years
+Swift Current,1100,550,545,2,40 to 44 years
+Swift Current,1060,520,545,2,45 to 49 years
+Swift Current,1060,515,545,2,50 to 54 years
+Swift Current,1265,615,645,2,55 to 59 years
+Swift Current,1295,645,650,2,60 to 64 years
+Swift Current,1140,510,625,2,65 to 69 years
+Swift Current,925,425,500,2,70 to 74 years
+Swift Current,675,300,375,2,75 to 79 years
+Swift Current,565,230,330,2,80 to 84 years
+Swift Current,775,280,490,2,85 years and over
+Saskatoon,19300,9975,9325,2,0 to 4 years
+Saskatoon,21180,10950,10235,2,5 to 9 years
+Saskatoon,20180,10435,9740,2,10 to 14 years
+Saskatoon,18580,9545,9035,2,15 to 19 years
+Saskatoon,21905,11015,10895,2,20 to 24 years
+Saskatoon,22775,11425,11355,2,25 to 29 years
+Saskatoon,25245,12455,12785,2,30 to 34 years
+Saskatoon,25095,12435,12660,2,35 to 39 years
+Saskatoon,22050,11070,10980,2,40 to 44 years
+Saskatoon,18850,9415,9435,2,45 to 49 years
+Saskatoon,17540,8760,8780,2,50 to 54 years
+Saskatoon,19290,9515,9770,2,55 to 59 years
+Saskatoon,18505,8935,9565,2,60 to 64 years
+Saskatoon,15645,7530,8115,2,65 to 69 years
+Saskatoon,11525,5350,6175,2,70 to 74 years
+Saskatoon,7510,3425,4085,2,75 to 79 years
+Saskatoon,5420,2255,3165,2,80 to 84 years
+Saskatoon,6890,2200,4690,2,85 years and over
+North Battleford,1220,590,630,2,0 to 4 years
+North Battleford,1290,650,640,2,5 to 9 years
+North Battleford,1310,625,685,2,10 to 14 years
+North Battleford,1275,645,630,2,15 to 19 years
+North Battleford,1085,560,525,2,20 to 24 years
+North Battleford,1095,515,580,2,25 to 29 years
+North Battleford,1255,595,660,2,30 to 34 years
+North Battleford,1300,610,690,2,35 to 39 years
+North Battleford,1205,585,620,2,40 to 44 years
+North Battleford,1085,535,550,2,45 to 49 years
+North Battleford,955,445,510,2,50 to 54 years
+North Battleford,1195,570,630,2,55 to 59 years
+North Battleford,1290,595,695,2,60 to 64 years
+North Battleford,1170,555,615,2,65 to 69 years
+North Battleford,890,430,455,2,70 to 74 years
+North Battleford,640,290,355,2,75 to 79 years
+North Battleford,470,185,285,2,80 to 84 years
+North Battleford,645,235,410,2,85 years and over
+Prince Albert,2990,1520,1475,2,0 to 4 years
+Prince Albert,3120,1600,1520,2,5 to 9 years
+Prince Albert,3365,1700,1670,2,10 to 14 years
+Prince Albert,3115,1620,1490,2,15 to 19 years
+Prince Albert,3045,1615,1435,2,20 to 24 years
+Prince Albert,3220,1675,1550,2,25 to 29 years
+Prince Albert,3140,1585,1550,2,30 to 34 years
+Prince Albert,3015,1480,1535,2,35 to 39 years
+Prince Albert,2745,1360,1385,2,40 to 44 years
+Prince Albert,2500,1205,1290,2,45 to 49 years
+Prince Albert,2500,1225,1275,2,50 to 54 years
+Prince Albert,2825,1345,1480,2,55 to 59 years
+Prince Albert,2735,1330,1405,2,60 to 64 years
+Prince Albert,2280,1145,1130,2,65 to 69 years
+Prince Albert,1895,885,1015,2,70 to 74 years
+Prince Albert,1255,570,685,2,75 to 79 years
+Prince Albert,1030,420,610,2,80 to 84 years
+Prince Albert,940,335,605,2,85 years and over
+Estevan,760,390,370,2,0 to 4 years
+Estevan,825,400,420,2,5 to 9 years
+Estevan,840,405,430,2,10 to 14 years
+Estevan,775,385,400,2,15 to 19 years
+Estevan,655,360,300,2,20 to 24 years
+Estevan,810,450,360,2,25 to 29 years
+Estevan,950,485,470,2,30 to 34 years
+Estevan,945,485,470,2,35 to 39 years
+Estevan,905,445,460,2,40 to 44 years
+Estevan,805,440,365,2,45 to 49 years
+Estevan,750,390,360,2,50 to 54 years
+Estevan,920,475,445,2,55 to 59 years
+Estevan,830,415,415,2,60 to 64 years
+Estevan,695,360,335,2,65 to 69 years
+Estevan,460,240,225,2,70 to 74 years
+Estevan,350,160,190,2,75 to 79 years
+Estevan,230,100,130,2,80 to 84 years
+Estevan,295,105,190,2,85 years and over
+Weyburn,720,365,360,2,0 to 4 years
+Weyburn,795,425,370,2,5 to 9 years
+Weyburn,815,395,420,2,10 to 14 years
+Weyburn,770,395,375,2,15 to 19 years
+Weyburn,665,350,315,2,20 to 24 years
+Weyburn,620,315,305,2,25 to 29 years
+Weyburn,835,395,440,2,30 to 34 years
+Weyburn,890,440,450,2,35 to 39 years
+Weyburn,755,385,370,2,40 to 44 years
+Weyburn,735,365,365,2,45 to 49 years
+Weyburn,670,330,340,2,50 to 54 years
+Weyburn,775,390,385,2,55 to 59 years
+Weyburn,740,355,385,2,60 to 64 years
+Weyburn,640,315,325,2,65 to 69 years
+Weyburn,505,235,265,2,70 to 74 years
+Weyburn,400,155,245,2,75 to 79 years
+Weyburn,355,140,215,2,80 to 84 years
+Weyburn,570,190,380,2,85 years and over
+Medicine Hat,3770,1990,1780,2,0 to 4 years
+Medicine Hat,4580,2365,2215,2,5 to 9 years
+Medicine Hat,4950,2590,2360,2,10 to 14 years
+Medicine Hat,4430,2230,2205,2,15 to 19 years
+Medicine Hat,4095,2080,2015,2,20 to 24 years
+Medicine Hat,4015,2015,1995,2,25 to 29 years
+Medicine Hat,4780,2360,2415,2,30 to 34 years
+Medicine Hat,5280,2570,2705,2,35 to 39 years
+Medicine Hat,5205,2550,2655,2,40 to 44 years
+Medicine Hat,4560,2285,2270,2,45 to 49 years
+Medicine Hat,4545,2275,2270,2,50 to 54 years
+Medicine Hat,5240,2515,2725,2,55 to 59 years
+Medicine Hat,5680,2755,2925,2,60 to 64 years
+Medicine Hat,5100,2455,2650,2,65 to 69 years
+Medicine Hat,3835,1820,2010,2,70 to 74 years
+Medicine Hat,2610,1210,1400,2,75 to 79 years
+Medicine Hat,1770,760,1015,2,80 to 84 years
+Medicine Hat,1935,735,1205,2,85 years and over
+Brooks,1020,540,485,2,0 to 4 years
+Brooks,1180,645,535,2,5 to 9 years
+Brooks,1205,600,610,2,10 to 14 years
+Brooks,1085,520,565,2,15 to 19 years
+Brooks,915,495,415,2,20 to 24 years
+Brooks,855,450,405,2,25 to 29 years
+Brooks,1005,525,480,2,30 to 34 years
+Brooks,1265,680,585,2,35 to 39 years
+Brooks,1300,680,620,2,40 to 44 years
+Brooks,1105,585,515,2,45 to 49 years
+Brooks,865,490,380,2,50 to 54 years
+Brooks,765,390,375,2,55 to 59 years
+Brooks,680,360,325,2,60 to 64 years
+Brooks,545,265,280,2,65 to 69 years
+Brooks,390,185,205,2,70 to 74 years
+Brooks,295,135,160,2,75 to 79 years
+Brooks,185,85,105,2,80 to 84 years
+Brooks,255,85,170,2,85 years and over
+Lethbridge,7450,3775,3675,2,0 to 4 years
+Lethbridge,8005,4075,3925,2,5 to 9 years
+Lethbridge,8090,4245,3840,2,10 to 14 years
+Lethbridge,7380,3695,3685,2,15 to 19 years
+Lethbridge,9255,4600,4655,2,20 to 24 years
+Lethbridge,8915,4610,4295,2,25 to 29 years
+Lethbridge,8835,4425,4410,2,30 to 34 years
+Lethbridge,8550,4310,4240,2,35 to 39 years
+Lethbridge,7725,3860,3865,2,40 to 44 years
+Lethbridge,6920,3520,3405,2,45 to 49 years
+Lethbridge,6545,3225,3320,2,50 to 54 years
+Lethbridge,7245,3605,3645,2,55 to 59 years
+Lethbridge,7560,3655,3910,2,60 to 64 years
+Lethbridge,6675,3175,3500,2,65 to 69 years
+Lethbridge,5480,2550,2935,2,70 to 74 years
+Lethbridge,3805,1765,2040,2,75 to 79 years
+Lethbridge,2595,1125,1470,2,80 to 84 years
+Lethbridge,2805,1085,1720,2,85 years and over
+Okotoks,1650,860,790,2,0 to 4 years
+Okotoks,2215,1120,1095,2,5 to 9 years
+Okotoks,2710,1430,1280,2,10 to 14 years
+Okotoks,2490,1285,1200,2,15 to 19 years
+Okotoks,1490,820,675,2,20 to 24 years
+Okotoks,1165,610,560,2,25 to 29 years
+Okotoks,1620,770,850,2,30 to 34 years
+Okotoks,2135,1000,1140,2,35 to 39 years
+Okotoks,2400,1120,1285,2,40 to 44 years
+Okotoks,2405,1145,1250,2,45 to 49 years
+Okotoks,2030,1020,1005,2,50 to 54 years
+Okotoks,1790,890,910,2,55 to 59 years
+Okotoks,1800,855,945,2,60 to 64 years
+Okotoks,1515,725,790,2,65 to 69 years
+Okotoks,1270,595,680,2,70 to 74 years
+Okotoks,815,365,445,2,75 to 79 years
+Okotoks,450,200,255,2,80 to 84 years
+Okotoks,435,165,270,2,85 years and over
+High River,675,335,335,2,0 to 4 years
+High River,800,445,360,2,5 to 9 years
+High River,970,515,460,2,10 to 14 years
+High River,940,505,435,2,15 to 19 years
+High River,620,330,295,2,20 to 24 years
+High River,630,300,325,2,25 to 29 years
+High River,730,350,380,2,30 to 34 years
+High River,865,420,440,2,35 to 39 years
+High River,975,485,490,2,40 to 44 years
+High River,855,430,425,2,45 to 49 years
+High River,805,380,420,2,50 to 54 years
+High River,920,460,465,2,55 to 59 years
+High River,1000,440,565,2,60 to 64 years
+High River,945,415,530,2,65 to 69 years
+High River,985,445,540,2,70 to 74 years
+High River,735,355,380,2,75 to 79 years
+High River,470,235,235,2,80 to 84 years
+High River,395,170,220,2,85 years and over
+Calgary,84655,43455,41205,2,0 to 4 years
+Calgary,94065,48125,45940,2,5 to 9 years
+Calgary,95470,49320,46150,2,10 to 14 years
+Calgary,84790,43575,41215,2,15 to 19 years
+Calgary,86665,44680,41985,2,20 to 24 years
+Calgary,96745,48085,48665,2,25 to 29 years
+Calgary,117760,57610,60150,2,30 to 34 years
+Calgary,125330,61800,63535,2,35 to 39 years
+Calgary,114275,56480,57795,2,40 to 44 years
+Calgary,104035,51840,52195,2,45 to 49 years
+Calgary,96040,48280,47755,2,50 to 54 years
+Calgary,93675,46415,47260,2,55 to 59 years
+Calgary,88445,43645,44800,2,60 to 64 years
+Calgary,70735,34700,36035,2,65 to 69 years
+Calgary,52690,25325,27365,2,70 to 74 years
+Calgary,32545,15300,17245,2,75 to 79 years
+Calgary,21365,9235,12130,2,80 to 84 years
+Calgary,22520,8395,14120,2,85 years and over
+Strathmore,745,370,375,2,0 to 4 years
+Strathmore,1005,510,495,2,5 to 9 years
+Strathmore,1080,555,525,2,10 to 14 years
+Strathmore,980,500,475,2,15 to 19 years
+Strathmore,670,355,315,2,20 to 24 years
+Strathmore,725,375,360,2,25 to 29 years
+Strathmore,925,440,480,2,30 to 34 years
+Strathmore,1015,495,525,2,35 to 39 years
+Strathmore,1000,460,540,2,40 to 44 years
+Strathmore,990,505,485,2,45 to 49 years
+Strathmore,940,460,480,2,50 to 54 years
+Strathmore,905,460,440,2,55 to 59 years
+Strathmore,815,360,450,2,60 to 64 years
+Strathmore,785,365,420,2,65 to 69 years
+Strathmore,690,315,380,2,70 to 74 years
+Strathmore,465,215,250,2,75 to 79 years
+Strathmore,325,130,195,2,80 to 84 years
+Strathmore,280,120,160,2,85 years and over
+Canmore,620,330,285,2,0 to 4 years
+Canmore,720,360,360,2,5 to 9 years
+Canmore,715,370,345,2,10 to 14 years
+Canmore,700,390,310,2,15 to 19 years
+Canmore,800,370,430,2,20 to 24 years
+Canmore,1140,570,570,2,25 to 29 years
+Canmore,1330,635,690,2,30 to 34 years
+Canmore,1330,625,705,2,35 to 39 years
+Canmore,1200,590,610,2,40 to 44 years
+Canmore,1140,545,595,2,45 to 49 years
+Canmore,1100,535,565,2,50 to 54 years
+Canmore,1215,625,590,2,55 to 59 years
+Canmore,1200,575,625,2,60 to 64 years
+Canmore,1105,580,530,2,65 to 69 years
+Canmore,755,385,370,2,70 to 74 years
+Canmore,440,230,210,2,75 to 79 years
+Canmore,245,125,130,2,80 to 84 years
+Canmore,230,90,145,2,85 years and over
+Red Deer,5405,2785,2625,2,0 to 4 years
+Red Deer,6350,3315,3035,2,5 to 9 years
+Red Deer,6610,3370,3245,2,10 to 14 years
+Red Deer,6170,3155,3015,2,15 to 19 years
+Red Deer,6075,3075,3000,2,20 to 24 years
+Red Deer,6475,3245,3230,2,25 to 29 years
+Red Deer,7505,3800,3705,2,30 to 34 years
+Red Deer,7900,3880,4020,2,35 to 39 years
+Red Deer,7515,3780,3730,2,40 to 44 years
+Red Deer,6520,3325,3190,2,45 to 49 years
+Red Deer,6030,2985,3045,2,50 to 54 years
+Red Deer,6500,3130,3375,2,55 to 59 years
+Red Deer,6600,3195,3405,2,60 to 64 years
+Red Deer,5330,2490,2840,2,65 to 69 years
+Red Deer,3865,1780,2085,2,70 to 74 years
+Red Deer,2470,1115,1355,2,75 to 79 years
+Red Deer,1795,755,1035,2,80 to 84 years
+Red Deer,1720,615,1110,2,85 years and over
+Sylvan Lake,1010,530,490,2,0 to 4 years
+Sylvan Lake,1215,635,580,2,5 to 9 years
+Sylvan Lake,1265,645,625,2,10 to 14 years
+Sylvan Lake,1085,535,550,2,15 to 19 years
+Sylvan Lake,950,485,465,2,20 to 24 years
+Sylvan Lake,1090,550,545,2,25 to 29 years
+Sylvan Lake,1265,655,610,2,30 to 34 years
+Sylvan Lake,1405,680,720,2,35 to 39 years
+Sylvan Lake,1260,645,615,2,40 to 44 years
+Sylvan Lake,1085,530,555,2,45 to 49 years
+Sylvan Lake,995,470,520,2,50 to 54 years
+Sylvan Lake,1015,465,550,2,55 to 59 years
+Sylvan Lake,980,465,515,2,60 to 64 years
+Sylvan Lake,775,355,420,2,65 to 69 years
+Sylvan Lake,545,285,265,2,70 to 74 years
+Sylvan Lake,275,120,160,2,75 to 79 years
+Sylvan Lake,185,80,105,2,80 to 84 years
+Sylvan Lake,115,40,70,2,85 years and over
+Lacombe,750,380,370,2,0 to 4 years
+Lacombe,900,465,440,2,5 to 9 years
+Lacombe,980,495,485,2,10 to 14 years
+Lacombe,875,445,435,2,15 to 19 years
+Lacombe,760,385,375,2,20 to 24 years
+Lacombe,725,365,355,2,25 to 29 years
+Lacombe,860,400,460,2,30 to 34 years
+Lacombe,930,440,495,2,35 to 39 years
+Lacombe,850,410,440,2,40 to 44 years
+Lacombe,790,410,375,2,45 to 49 years
+Lacombe,740,345,395,2,50 to 54 years
+Lacombe,890,395,495,2,55 to 59 years
+Lacombe,830,395,430,2,60 to 64 years
+Lacombe,755,350,405,2,65 to 69 years
+Lacombe,630,300,335,2,70 to 74 years
+Lacombe,445,190,250,2,75 to 79 years
+Lacombe,315,120,195,2,80 to 84 years
+Lacombe,375,130,240,2,85 years and over
+Camrose,940,480,455,2,0 to 4 years
+Camrose,1100,585,520,2,5 to 9 years
+Camrose,1135,585,555,2,10 to 14 years
+Camrose,985,495,485,2,15 to 19 years
+Camrose,1025,545,485,2,20 to 24 years
+Camrose,1105,525,580,2,25 to 29 years
+Camrose,1185,605,580,2,30 to 34 years
+Camrose,1165,560,605,2,35 to 39 years
+Camrose,1115,540,580,2,40 to 44 years
+Camrose,990,480,510,2,45 to 49 years
+Camrose,1055,515,545,2,50 to 54 years
+Camrose,1240,590,645,2,55 to 59 years
+Camrose,1220,565,655,2,60 to 64 years
+Camrose,1175,530,645,2,65 to 69 years
+Camrose,1050,465,580,2,70 to 74 years
+Camrose,855,370,485,2,75 to 79 years
+Camrose,670,275,400,2,80 to 84 years
+Camrose,770,285,480,2,85 years and over
+Edmonton,83630,42965,40670,2,0 to 4 years
+Edmonton,91040,46450,44590,2,5 to 9 years
+Edmonton,89160,45685,43475,2,10 to 14 years
+Edmonton,80195,41405,38790,2,15 to 19 years
+Edmonton,88185,45390,42795,2,20 to 24 years
+Edmonton,99195,49810,49385,2,25 to 29 years
+Edmonton,113995,56715,57275,2,30 to 34 years
+Edmonton,116235,58050,58185,2,35 to 39 years
+Edmonton,102840,51665,51175,2,40 to 44 years
+Edmonton,90635,45365,45260,2,45 to 49 years
+Edmonton,85130,42625,42505,2,50 to 54 years
+Edmonton,88310,43540,44770,2,55 to 59 years
+Edmonton,85115,41910,43200,2,60 to 64 years
+Edmonton,69870,33900,35970,2,65 to 69 years
+Edmonton,52960,25185,27775,2,70 to 74 years
+Edmonton,33995,15655,18345,2,75 to 79 years
+Edmonton,23245,10375,12870,2,80 to 84 years
+Edmonton,24395,9120,15280,2,85 years and over
+Lloydminster,2545,1325,1220,2,0 to 4 years
+Lloydminster,2790,1455,1330,2,5 to 9 years
+Lloydminster,2815,1445,1370,2,10 to 14 years
+Lloydminster,2485,1245,1240,2,15 to 19 years
+Lloydminster,2155,1120,1040,2,20 to 24 years
+Lloydminster,2280,1170,1115,2,25 to 29 years
+Lloydminster,2850,1360,1490,2,30 to 34 years
+Lloydminster,3120,1565,1555,2,35 to 39 years
+Lloydminster,2870,1455,1415,2,40 to 44 years
+Lloydminster,2375,1185,1190,2,45 to 49 years
+Lloydminster,2050,1035,1015,2,50 to 54 years
+Lloydminster,2085,1035,1050,2,55 to 59 years
+Lloydminster,1880,970,905,2,60 to 64 years
+Lloydminster,1485,700,790,2,65 to 69 years
+Lloydminster,1055,515,535,2,70 to 74 years
+Lloydminster,675,310,360,2,75 to 79 years
+Lloydminster,465,200,265,2,80 to 84 years
+Lloydminster,520,190,330,2,85 years and over
+Lloydminster (Saskatchewan part),1250,655,590,2,0 to 4 years
+Lloydminster (Saskatchewan part),1365,715,655,2,5 to 9 years
+Lloydminster (Saskatchewan part),1355,690,660,2,10 to 14 years
+Lloydminster (Saskatchewan part),1135,565,570,2,15 to 19 years
+Lloydminster (Saskatchewan part),1120,565,550,2,20 to 24 years
+Lloydminster (Saskatchewan part),1205,630,575,2,25 to 29 years
+Lloydminster (Saskatchewan part),1415,685,725,2,30 to 34 years
+Lloydminster (Saskatchewan part),1525,770,755,2,35 to 39 years
+Lloydminster (Saskatchewan part),1330,675,650,2,40 to 44 years
+Lloydminster (Saskatchewan part),1065,520,545,2,45 to 49 years
+Lloydminster (Saskatchewan part),865,440,420,2,50 to 54 years
+Lloydminster (Saskatchewan part),875,440,435,2,55 to 59 years
+Lloydminster (Saskatchewan part),800,415,385,2,60 to 64 years
+Lloydminster (Saskatchewan part),595,275,315,2,65 to 69 years
+Lloydminster (Saskatchewan part),395,210,190,2,70 to 74 years
+Lloydminster (Saskatchewan part),235,120,115,2,75 to 79 years
+Lloydminster (Saskatchewan part),145,75,75,2,80 to 84 years
+Lloydminster (Saskatchewan part),95,40,55,2,85 years and over
+Lloydminster (Alberta part),1295,670,630,2,0 to 4 years
+Lloydminster (Alberta part),1420,745,675,2,5 to 9 years
+Lloydminster (Alberta part),1465,755,710,2,10 to 14 years
+Lloydminster (Alberta part),1345,675,670,2,15 to 19 years
+Lloydminster (Alberta part),1040,550,490,2,20 to 24 years
+Lloydminster (Alberta part),1075,540,535,2,25 to 29 years
+Lloydminster (Alberta part),1435,675,765,2,30 to 34 years
+Lloydminster (Alberta part),1595,795,800,2,35 to 39 years
+Lloydminster (Alberta part),1545,780,760,2,40 to 44 years
+Lloydminster (Alberta part),1310,665,645,2,45 to 49 years
+Lloydminster (Alberta part),1185,595,590,2,50 to 54 years
+Lloydminster (Alberta part),1205,595,610,2,55 to 59 years
+Lloydminster (Alberta part),1085,560,520,2,60 to 64 years
+Lloydminster (Alberta part),890,420,470,2,65 to 69 years
+Lloydminster (Alberta part),660,315,345,2,70 to 74 years
+Lloydminster (Alberta part),440,195,245,2,75 to 79 years
+Lloydminster (Alberta part),320,130,190,2,80 to 84 years
+Lloydminster (Alberta part),430,155,275,2,85 years and over
+Grande Prairie,4680,2360,2315,2,0 to 4 years
+Grande Prairie,4790,2455,2335,2,5 to 9 years
+Grande Prairie,4505,2305,2200,2,10 to 14 years
+Grande Prairie,3800,1925,1875,2,15 to 19 years
+Grande Prairie,4115,2110,2010,2,20 to 24 years
+Grande Prairie,5330,2795,2540,2,25 to 29 years
+Grande Prairie,6050,3105,2940,2,30 to 34 years
+Grande Prairie,6080,3110,2970,2,35 to 39 years
+Grande Prairie,4860,2505,2355,2,40 to 44 years
+Grande Prairie,4150,2170,1980,2,45 to 49 years
+Grande Prairie,3335,1660,1675,2,50 to 54 years
+Grande Prairie,3480,1725,1760,2,55 to 59 years
+Grande Prairie,3045,1540,1500,2,60 to 64 years
+Grande Prairie,2295,1130,1165,2,65 to 69 years
+Grande Prairie,1405,655,750,2,70 to 74 years
+Grande Prairie,900,390,505,2,75 to 79 years
+Grande Prairie,600,255,345,2,80 to 84 years
+Grande Prairie,720,225,495,2,85 years and over
+Wood Buffalo,5905,3035,2870,2,0 to 4 years
+Wood Buffalo,6060,3110,2950,2,5 to 9 years
+Wood Buffalo,4995,2560,2440,2,10 to 14 years
+Wood Buffalo,4010,2160,1850,2,15 to 19 years
+Wood Buffalo,3980,2140,1840,2,20 to 24 years
+Wood Buffalo,5255,2655,2600,2,25 to 29 years
+Wood Buffalo,7520,3720,3805,2,30 to 34 years
+Wood Buffalo,8085,4215,3875,2,35 to 39 years
+Wood Buffalo,6615,3465,3155,2,40 to 44 years
+Wood Buffalo,5460,3010,2450,2,45 to 49 years
+Wood Buffalo,4925,2670,2250,2,50 to 54 years
+Wood Buffalo,4510,2530,1985,2,55 to 59 years
+Wood Buffalo,3260,1875,1385,2,60 to 64 years
+Wood Buffalo,1705,955,750,2,65 to 69 years
+Wood Buffalo,825,445,380,2,70 to 74 years
+Wood Buffalo,410,200,215,2,75 to 79 years
+Wood Buffalo,190,90,105,2,80 to 84 years
+Wood Buffalo,130,45,90,2,85 years and over
+Wetaskiwin,710,365,345,2,0 to 4 years
+Wetaskiwin,790,405,380,2,5 to 9 years
+Wetaskiwin,790,410,380,2,10 to 14 years
+Wetaskiwin,775,405,365,2,15 to 19 years
+Wetaskiwin,700,355,345,2,20 to 24 years
+Wetaskiwin,645,350,295,2,25 to 29 years
+Wetaskiwin,750,355,390,2,30 to 34 years
+Wetaskiwin,765,365,405,2,35 to 39 years
+Wetaskiwin,780,405,380,2,40 to 44 years
+Wetaskiwin,730,355,380,2,45 to 49 years
+Wetaskiwin,735,340,390,2,50 to 54 years
+Wetaskiwin,850,400,450,2,55 to 59 years
+Wetaskiwin,865,405,460,2,60 to 64 years
+Wetaskiwin,720,345,380,2,65 to 69 years
+Wetaskiwin,610,250,355,2,70 to 74 years
+Wetaskiwin,520,235,285,2,75 to 79 years
+Wetaskiwin,430,200,225,2,80 to 84 years
+Wetaskiwin,425,125,295,2,85 years and over
+Cranbrook,1125,580,545,2,0 to 4 years
+Cranbrook,1340,690,650,2,5 to 9 years
+Cranbrook,1550,775,775,2,10 to 14 years
+Cranbrook,1430,720,710,2,15 to 19 years
+Cranbrook,1435,765,680,2,20 to 24 years
+Cranbrook,1510,785,725,2,25 to 29 years
+Cranbrook,1590,815,780,2,30 to 34 years
+Cranbrook,1615,825,795,2,35 to 39 years
+Cranbrook,1570,775,795,2,40 to 44 years
+Cranbrook,1540,740,800,2,45 to 49 years
+Cranbrook,1730,825,910,2,50 to 54 years
+Cranbrook,2065,1035,1030,2,55 to 59 years
+Cranbrook,2150,1040,1105,2,60 to 64 years
+Cranbrook,2075,1010,1065,2,65 to 69 years
+Cranbrook,1650,800,845,2,70 to 74 years
+Cranbrook,1175,550,625,2,75 to 79 years
+Cranbrook,775,360,410,2,80 to 84 years
+Cranbrook,715,290,430,2,85 years and over
+Nelson,735,370,365,2,0 to 4 years
+Nelson,890,465,425,2,5 to 9 years
+Nelson,1055,535,520,2,10 to 14 years
+Nelson,910,485,425,2,15 to 19 years
+Nelson,765,405,360,2,20 to 24 years
+Nelson,1125,565,565,2,25 to 29 years
+Nelson,1330,650,680,2,30 to 34 years
+Nelson,1335,670,665,2,35 to 39 years
+Nelson,1410,700,710,2,40 to 44 years
+Nelson,1390,685,705,2,45 to 49 years
+Nelson,1205,610,600,2,50 to 54 years
+Nelson,1250,590,660,2,55 to 59 years
+Nelson,1455,680,775,2,60 to 64 years
+Nelson,1455,720,735,2,65 to 69 years
+Nelson,1215,615,595,2,70 to 74 years
+Nelson,705,350,355,2,75 to 79 years
+Nelson,425,160,265,2,80 to 84 years
+Nelson,460,195,265,2,85 years and over
+Trail,545,270,275,2,0 to 4 years
+Trail,695,380,315,2,5 to 9 years
+Trail,730,355,375,2,10 to 14 years
+Trail,645,325,320,2,15 to 19 years
+Trail,675,355,310,2,20 to 24 years
+Trail,865,470,395,2,25 to 29 years
+Trail,780,390,390,2,30 to 34 years
+Trail,890,450,440,2,35 to 39 years
+Trail,755,385,370,2,40 to 44 years
+Trail,760,380,380,2,45 to 49 years
+Trail,845,415,430,2,50 to 54 years
+Trail,1035,480,550,2,55 to 59 years
+Trail,1300,640,660,2,60 to 64 years
+Trail,1225,590,630,2,65 to 69 years
+Trail,990,455,535,2,70 to 74 years
+Trail,615,295,320,2,75 to 79 years
+Trail,450,195,255,2,80 to 84 years
+Trail,475,180,300,2,85 years and over
+Penticton,1600,795,800,2,0 to 4 years
+Penticton,1850,960,895,2,5 to 9 years
+Penticton,2045,1075,975,2,10 to 14 years
+Penticton,2000,1045,955,2,15 to 19 years
+Penticton,1890,975,920,2,20 to 24 years
+Penticton,2090,1015,1075,2,25 to 29 years
+Penticton,2475,1205,1270,2,30 to 34 years
+Penticton,2675,1265,1410,2,35 to 39 years
+Penticton,2530,1275,1250,2,40 to 44 years
+Penticton,2535,1215,1320,2,45 to 49 years
+Penticton,2815,1325,1490,2,50 to 54 years
+Penticton,3760,1730,2030,2,55 to 59 years
+Penticton,4540,2090,2450,2,60 to 64 years
+Penticton,4105,1910,2190,2,65 to 69 years
+Penticton,3590,1725,1860,2,70 to 74 years
+Penticton,2700,1245,1450,2,75 to 79 years
+Penticton,1950,825,1120,2,80 to 84 years
+Penticton,2230,855,1375,2,85 years and over
+Kelowna,8985,4590,4390,2,0 to 4 years
+Kelowna,10515,5375,5145,2,5 to 9 years
+Kelowna,11110,5645,5465,2,10 to 14 years
+Kelowna,11075,5680,5395,2,15 to 19 years
+Kelowna,13605,7015,6585,2,20 to 24 years
+Kelowna,14435,7290,7140,2,25 to 29 years
+Kelowna,14715,7345,7370,2,30 to 34 years
+Kelowna,14765,7350,7415,2,35 to 39 years
+Kelowna,13185,6485,6700,2,40 to 44 years
+Kelowna,12870,6430,6435,2,45 to 49 years
+Kelowna,13620,6570,7050,2,50 to 54 years
+Kelowna,16125,7500,8625,2,55 to 59 years
+Kelowna,17005,8005,9000,2,60 to 64 years
+Kelowna,15050,7090,7960,2,65 to 69 years
+Kelowna,13115,6290,6825,2,70 to 74 years
+Kelowna,9065,4310,4750,2,75 to 79 years
+Kelowna,6405,2945,3455,2,80 to 84 years
+Kelowna,6525,2595,3930,2,85 years and over
+Vernon,2555,1315,1240,2,0 to 4 years
+Vernon,3265,1665,1600,2,5 to 9 years
+Vernon,3425,1740,1685,2,10 to 14 years
+Vernon,3195,1605,1595,2,15 to 19 years
+Vernon,2865,1515,1350,2,20 to 24 years
+Vernon,3105,1605,1505,2,25 to 29 years
+Vernon,3555,1790,1760,2,30 to 34 years
+Vernon,3845,1865,1980,2,35 to 39 years
+Vernon,3790,1825,1970,2,40 to 44 years
+Vernon,3785,1855,1930,2,45 to 49 years
+Vernon,4005,1965,2040,2,50 to 54 years
+Vernon,5210,2420,2790,2,55 to 59 years
+Vernon,5790,2745,3040,2,60 to 64 years
+Vernon,5425,2480,2950,2,65 to 69 years
+Vernon,4825,2295,2530,2,70 to 74 years
+Vernon,3390,1595,1795,2,75 to 79 years
+Vernon,2430,1145,1290,2,80 to 84 years
+Vernon,2620,1035,1585,2,85 years and over
+Salmon Arm,755,395,355,2,0 to 4 years
+Salmon Arm,975,525,455,2,5 to 9 years
+Salmon Arm,1120,590,530,2,10 to 14 years
+Salmon Arm,1065,550,510,2,15 to 19 years
+Salmon Arm,730,370,360,2,20 to 24 years
+Salmon Arm,825,415,415,2,25 to 29 years
+Salmon Arm,965,460,500,2,30 to 34 years
+Salmon Arm,1005,485,525,2,35 to 39 years
+Salmon Arm,1075,510,565,2,40 to 44 years
+Salmon Arm,990,485,505,2,45 to 49 years
+Salmon Arm,1150,550,600,2,50 to 54 years
+Salmon Arm,1370,610,755,2,55 to 59 years
+Salmon Arm,1690,750,940,2,60 to 64 years
+Salmon Arm,1610,735,870,2,65 to 69 years
+Salmon Arm,1435,680,755,2,70 to 74 years
+Salmon Arm,1170,515,650,2,75 to 79 years
+Salmon Arm,825,385,440,2,80 to 84 years
+Salmon Arm,970,355,615,2,85 years and over
+Kamloops,5055,2575,2480,2,0 to 4 years
+Kamloops,5835,2935,2900,2,5 to 9 years
+Kamloops,6080,3175,2910,2,10 to 14 years
+Kamloops,5890,3110,2780,2,15 to 19 years
+Kamloops,6940,3655,3285,2,20 to 24 years
+Kamloops,7680,3995,3680,2,25 to 29 years
+Kamloops,7745,3935,3810,2,30 to 34 years
+Kamloops,7800,3865,3935,2,35 to 39 years
+Kamloops,6715,3365,3350,2,40 to 44 years
+Kamloops,6630,3280,3350,2,45 to 49 years
+Kamloops,7135,3440,3695,2,50 to 54 years
+Kamloops,8015,3885,4130,2,55 to 59 years
+Kamloops,8500,4050,4450,2,60 to 64 years
+Kamloops,7355,3560,3795,2,65 to 69 years
+Kamloops,6390,3055,3330,2,70 to 74 years
+Kamloops,4345,2025,2320,2,75 to 79 years
+Kamloops,3010,1380,1630,2,80 to 84 years
+Kamloops,3025,1160,1865,2,85 years and over
+Chilliwack,6395,3295,3100,2,0 to 4 years
+Chilliwack,6860,3535,3330,2,5 to 9 years
+Chilliwack,7130,3710,3420,2,10 to 14 years
+Chilliwack,6520,3390,3130,2,15 to 19 years
+Chilliwack,5640,2860,2780,2,20 to 24 years
+Chilliwack,6345,3225,3120,2,25 to 29 years
+Chilliwack,7000,3510,3490,2,30 to 34 years
+Chilliwack,7615,3830,3785,2,35 to 39 years
+Chilliwack,6620,3245,3370,2,40 to 44 years
+Chilliwack,6570,3270,3300,2,45 to 49 years
+Chilliwack,6945,3395,3550,2,50 to 54 years
+Chilliwack,7810,3820,3980,2,55 to 59 years
+Chilliwack,8075,3805,4270,2,60 to 64 years
+Chilliwack,7200,3390,3810,2,65 to 69 years
+Chilliwack,6530,3145,3385,2,70 to 74 years
+Chilliwack,4625,2185,2440,2,75 to 79 years
+Chilliwack,2985,1370,1615,2,80 to 84 years
+Chilliwack,2895,1175,1725,2,85 years and over
+Abbotsford - Mission,10425,5360,5065,2,0 to 4 years
+Abbotsford - Mission,11910,6140,5775,2,5 to 9 years
+Abbotsford - Mission,12225,6365,5860,2,10 to 14 years
+Abbotsford - Mission,11785,6170,5615,2,15 to 19 years
+Abbotsford - Mission,12395,6470,5930,2,20 to 24 years
+Abbotsford - Mission,12680,6440,6245,2,25 to 29 years
+Abbotsford - Mission,13690,6980,6715,2,30 to 34 years
+Abbotsford - Mission,14175,7070,7105,2,35 to 39 years
+Abbotsford - Mission,12885,6425,6465,2,40 to 44 years
+Abbotsford - Mission,12085,6015,6070,2,45 to 49 years
+Abbotsford - Mission,11960,5980,5980,2,50 to 54 years
+Abbotsford - Mission,12500,6255,6245,2,55 to 59 years
+Abbotsford - Mission,12245,5950,6295,2,60 to 64 years
+Abbotsford - Mission,10750,5080,5670,2,65 to 69 years
+Abbotsford - Mission,9160,4245,4915,2,70 to 74 years
+Abbotsford - Mission,6180,2950,3230,2,75 to 79 years
+Abbotsford - Mission,4305,1910,2400,2,80 to 84 years
+Abbotsford - Mission,4360,1680,2680,2,85 years and over
+Vancouver,114775,58780,56000,2,0 to 4 years
+Vancouver,125290,65020,60275,2,5 to 9 years
+Vancouver,131975,68430,63550,2,10 to 14 years
+Vancouver,137415,70955,66455,2,15 to 19 years
+Vancouver,174255,89245,85010,2,20 to 24 years
+Vancouver,201270,101265,100000,2,25 to 29 years
+Vancouver,210035,104750,105285,2,30 to 34 years
+Vancouver,199405,98575,100830,2,35 to 39 years
+Vancouver,178110,86165,91940,2,40 to 44 years
+Vancouver,172885,81615,91270,2,45 to 49 years
+Vancouver,183290,87530,95760,2,50 to 54 years
+Vancouver,184880,90050,94830,2,55 to 59 years
+Vancouver,168455,80970,87480,2,60 to 64 years
+Vancouver,144285,68715,75570,2,65 to 69 years
+Vancouver,121230,56855,64370,2,70 to 74 years
+Vancouver,80025,37020,43015,2,75 to 79 years
+Vancouver,56105,24940,31165,2,80 to 84 years
+Vancouver,59145,23540,35605,2,85 years and over
+Squamish,1490,760,725,2,0 to 4 years
+Squamish,1560,805,755,2,5 to 9 years
+Squamish,1510,760,750,2,10 to 14 years
+Squamish,1060,575,495,2,15 to 19 years
+Squamish,980,535,445,2,20 to 24 years
+Squamish,1725,865,860,2,25 to 29 years
+Squamish,2365,1150,1210,2,30 to 34 years
+Squamish,2605,1280,1325,2,35 to 39 years
+Squamish,2315,1165,1145,2,40 to 44 years
+Squamish,2005,1035,970,2,45 to 49 years
+Squamish,1490,785,700,2,50 to 54 years
+Squamish,1245,635,610,2,55 to 59 years
+Squamish,1035,530,500,2,60 to 64 years
+Squamish,960,450,510,2,65 to 69 years
+Squamish,745,375,370,2,70 to 74 years
+Squamish,525,275,250,2,75 to 79 years
+Squamish,325,145,175,2,80 to 84 years
+Squamish,295,110,185,2,85 years and over
+Victoria,15140,7715,7430,2,0 to 4 years
+Victoria,17725,8995,8735,2,5 to 9 years
+Victoria,17625,9060,8570,2,10 to 14 years
+Victoria,18365,9355,9010,2,15 to 19 years
+Victoria,23805,11760,12050,2,20 to 24 years
+Victoria,26575,13420,13155,2,25 to 29 years
+Victoria,27615,13745,13870,2,30 to 34 years
+Victoria,27585,13750,13835,2,35 to 39 years
+Victoria,25290,12540,12745,2,40 to 44 years
+Victoria,23615,11460,12155,2,45 to 49 years
+Victoria,25090,12160,12930,2,50 to 54 years
+Victoria,27400,13110,14295,2,55 to 59 years
+Victoria,28490,13265,15230,2,60 to 64 years
+Victoria,27680,12705,14975,2,65 to 69 years
+Victoria,25040,11630,13410,2,70 to 74 years
+Victoria,16855,7845,9010,2,75 to 79 years
+Victoria,10875,4825,6050,2,80 to 84 years
+Victoria,12465,4755,7715,2,85 years and over
+Ladysmith,600,315,280,2,0 to 4 years
+Ladysmith,760,380,375,2,5 to 9 years
+Ladysmith,795,420,370,2,10 to 14 years
+Ladysmith,730,380,350,2,15 to 19 years
+Ladysmith,575,285,290,2,20 to 24 years
+Ladysmith,645,340,300,2,25 to 29 years
+Ladysmith,735,340,390,2,30 to 34 years
+Ladysmith,865,425,440,2,35 to 39 years
+Ladysmith,805,385,425,2,40 to 44 years
+Ladysmith,755,370,385,2,45 to 49 years
+Ladysmith,970,445,525,2,50 to 54 years
+Ladysmith,1210,580,625,2,55 to 59 years
+Ladysmith,1405,635,770,2,60 to 64 years
+Ladysmith,1515,730,785,2,65 to 69 years
+Ladysmith,1340,675,665,2,70 to 74 years
+Ladysmith,845,430,415,2,75 to 79 years
+Ladysmith,500,260,245,2,80 to 84 years
+Ladysmith,460,215,250,2,85 years and over
+Duncan,1970,990,975,2,0 to 4 years
+Duncan,2445,1240,1210,2,5 to 9 years
+Duncan,2520,1265,1250,2,10 to 14 years
+Duncan,2350,1215,1135,2,15 to 19 years
+Duncan,2035,1090,945,2,20 to 24 years
+Duncan,2100,1065,1030,2,25 to 29 years
+Duncan,2510,1255,1255,2,30 to 34 years
+Duncan,2750,1270,1480,2,35 to 39 years
+Duncan,2620,1265,1355,2,40 to 44 years
+Duncan,2565,1245,1320,2,45 to 49 years
+Duncan,2845,1340,1505,2,50 to 54 years
+Duncan,3670,1705,1965,2,55 to 59 years
+Duncan,4095,1915,2175,2,60 to 64 years
+Duncan,4035,1900,2135,2,65 to 69 years
+Duncan,3645,1755,1890,2,70 to 74 years
+Duncan,2340,1105,1235,2,75 to 79 years
+Duncan,1575,760,815,2,80 to 84 years
+Duncan,1510,635,870,2,85 years and over
+Nanaimo,4660,2405,2255,2,0 to 4 years
+Nanaimo,5660,2870,2795,2,5 to 9 years
+Nanaimo,6070,3175,2895,2,10 to 14 years
+Nanaimo,5430,2800,2630,2,15 to 19 years
+Nanaimo,6330,3280,3045,2,20 to 24 years
+Nanaimo,6920,3555,3365,2,25 to 29 years
+Nanaimo,7320,3560,3765,2,30 to 34 years
+Nanaimo,7635,3775,3865,2,35 to 39 years
+Nanaimo,6795,3340,3460,2,40 to 44 years
+Nanaimo,6580,3175,3405,2,45 to 49 years
+Nanaimo,7095,3365,3730,2,50 to 54 years
+Nanaimo,8150,3885,4265,2,55 to 59 years
+Nanaimo,8645,4050,4595,2,60 to 64 years
+Nanaimo,8645,4020,4620,2,65 to 69 years
+Nanaimo,7485,3460,4025,2,70 to 74 years
+Nanaimo,5195,2500,2695,2,75 to 79 years
+Nanaimo,3400,1610,1800,2,80 to 84 years
+Nanaimo,3435,1330,2100,2,85 years and over
+Parksville,700,330,365,2,0 to 4 years
+Parksville,985,495,485,2,5 to 9 years
+Parksville,970,465,510,2,10 to 14 years
+Parksville,1000,545,455,2,15 to 19 years
+Parksville,820,455,360,2,20 to 24 years
+Parksville,825,430,395,2,25 to 29 years
+Parksville,920,460,460,2,30 to 34 years
+Parksville,1135,520,620,2,35 to 39 years
+Parksville,1160,535,620,2,40 to 44 years
+Parksville,1270,620,650,2,45 to 49 years
+Parksville,1455,650,805,2,50 to 54 years
+Parksville,2185,910,1270,2,55 to 59 years
+Parksville,3040,1310,1735,2,60 to 64 years
+Parksville,3605,1615,1995,2,65 to 69 years
+Parksville,4075,1860,2220,2,70 to 74 years
+Parksville,3100,1455,1645,2,75 to 79 years
+Parksville,1965,955,1015,2,80 to 84 years
+Parksville,1845,815,1025,2,85 years and over
+Port Alberni,1000,515,490,2,0 to 4 years
+Port Alberni,1270,615,650,2,5 to 9 years
+Port Alberni,1330,650,675,2,10 to 14 years
+Port Alberni,1245,635,605,2,15 to 19 years
+Port Alberni,1045,525,520,2,20 to 24 years
+Port Alberni,1245,635,610,2,25 to 29 years
+Port Alberni,1415,685,730,2,30 to 34 years
+Port Alberni,1445,720,725,2,35 to 39 years
+Port Alberni,1400,700,695,2,40 to 44 years
+Port Alberni,1425,670,755,2,45 to 49 years
+Port Alberni,1605,795,810,2,50 to 54 years
+Port Alberni,2070,990,1080,2,55 to 59 years
+Port Alberni,2305,1150,1150,2,60 to 64 years
+Port Alberni,2220,1075,1145,2,65 to 69 years
+Port Alberni,1885,965,915,2,70 to 74 years
+Port Alberni,1345,655,690,2,75 to 79 years
+Port Alberni,805,375,430,2,80 to 84 years
+Port Alberni,745,330,415,2,85 years and over
+Courtenay,2435,1230,1200,2,0 to 4 years
+Courtenay,3115,1555,1560,2,5 to 9 years
+Courtenay,3100,1665,1430,2,10 to 14 years
+Courtenay,2855,1510,1345,2,15 to 19 years
+Courtenay,2485,1310,1175,2,20 to 24 years
+Courtenay,2815,1390,1425,2,25 to 29 years
+Courtenay,3340,1630,1710,2,30 to 34 years
+Courtenay,3840,1810,2030,2,35 to 39 years
+Courtenay,3670,1765,1905,2,40 to 44 years
+Courtenay,3550,1730,1825,2,45 to 49 years
+Courtenay,3590,1645,1945,2,50 to 54 years
+Courtenay,4760,2200,2560,2,55 to 59 years
+Courtenay,5405,2465,2945,2,60 to 64 years
+Courtenay,5315,2360,2955,2,65 to 69 years
+Courtenay,5035,2385,2655,2,70 to 74 years
+Courtenay,3545,1700,1845,2,75 to 79 years
+Courtenay,2245,1060,1185,2,80 to 84 years
+Courtenay,2185,905,1275,2,85 years and over
+Campbell River,1675,880,790,2,0 to 4 years
+Campbell River,2055,1070,985,2,5 to 9 years
+Campbell River,2195,1130,1065,2,10 to 14 years
+Campbell River,2020,1055,965,2,15 to 19 years
+Campbell River,1740,935,810,2,20 to 24 years
+Campbell River,1980,985,1000,2,25 to 29 years
+Campbell River,2305,1145,1160,2,30 to 34 years
+Campbell River,2450,1215,1235,2,35 to 39 years
+Campbell River,2455,1210,1245,2,40 to 44 years
+Campbell River,2255,1080,1170,2,45 to 49 years
+Campbell River,2465,1190,1275,2,50 to 54 years
+Campbell River,3020,1420,1600,2,55 to 59 years
+Campbell River,3595,1750,1845,2,60 to 64 years
+Campbell River,3470,1655,1815,2,65 to 69 years
+Campbell River,2960,1460,1500,2,70 to 74 years
+Campbell River,1910,955,955,2,75 to 79 years
+Campbell River,1110,535,580,2,80 to 84 years
+Campbell River,1040,425,615,2,85 years and over
+Powell River,625,305,320,2,0 to 4 years
+Powell River,785,435,350,2,5 to 9 years
+Powell River,815,425,390,2,10 to 14 years
+Powell River,825,405,420,2,15 to 19 years
+Powell River,630,310,315,2,20 to 24 years
+Powell River,695,360,330,2,25 to 29 years
+Powell River,830,410,415,2,30 to 34 years
+Powell River,975,465,510,2,35 to 39 years
+Powell River,925,440,485,2,40 to 44 years
+Powell River,905,425,475,2,45 to 49 years
+Powell River,1085,530,550,2,50 to 54 years
+Powell River,1440,655,785,2,55 to 59 years
+Powell River,1725,810,915,2,60 to 64 years
+Powell River,1720,835,885,2,65 to 69 years
+Powell River,1505,780,730,2,70 to 74 years
+Powell River,1015,490,525,2,75 to 79 years
+Powell River,670,325,345,2,80 to 84 years
+Powell River,675,255,415,2,85 years and over
+Williams Lake,1225,620,605,2,0 to 4 years
+Williams Lake,1360,700,655,2,5 to 9 years
+Williams Lake,1390,710,680,2,10 to 14 years
+Williams Lake,1250,660,590,2,15 to 19 years
+Williams Lake,1160,620,535,2,20 to 24 years
+Williams Lake,1315,645,670,2,25 to 29 years
+Williams Lake,1420,690,730,2,30 to 34 years
+Williams Lake,1485,760,730,2,35 to 39 years
+Williams Lake,1415,705,710,2,40 to 44 years
+Williams Lake,1400,700,705,2,45 to 49 years
+Williams Lake,1555,785,770,2,50 to 54 years
+Williams Lake,1760,850,910,2,55 to 59 years
+Williams Lake,1885,950,940,2,60 to 64 years
+Williams Lake,1760,865,895,2,65 to 69 years
+Williams Lake,1370,700,665,2,70 to 74 years
+Williams Lake,885,475,415,2,75 to 79 years
+Williams Lake,495,215,275,2,80 to 84 years
+Williams Lake,470,255,215,2,85 years and over
+Quesnel,1010,515,495,2,0 to 4 years
+Quesnel,1195,620,575,2,5 to 9 years
+Quesnel,1450,760,690,2,10 to 14 years
+Quesnel,1215,625,590,2,15 to 19 years
+Quesnel,1050,550,505,2,20 to 24 years
+Quesnel,1205,615,590,2,25 to 29 years
+Quesnel,1265,625,640,2,30 to 34 years
+Quesnel,1350,655,690,2,35 to 39 years
+Quesnel,1285,660,630,2,40 to 44 years
+Quesnel,1410,700,715,2,45 to 49 years
+Quesnel,1590,770,820,2,50 to 54 years
+Quesnel,1890,975,905,2,55 to 59 years
+Quesnel,1995,985,1005,2,60 to 64 years
+Quesnel,1795,895,900,2,65 to 69 years
+Quesnel,1500,775,730,2,70 to 74 years
+Quesnel,890,455,435,2,75 to 79 years
+Quesnel,565,265,300,2,80 to 84 years
+Quesnel,460,200,260,2,85 years and over
+Prince Rupert,730,405,325,2,0 to 4 years
+Prince Rupert,755,375,380,2,5 to 9 years
+Prince Rupert,860,435,425,2,10 to 14 years
+Prince Rupert,765,395,365,2,15 to 19 years
+Prince Rupert,825,450,375,2,20 to 24 years
+Prince Rupert,965,530,430,2,25 to 29 years
+Prince Rupert,1040,550,485,2,30 to 34 years
+Prince Rupert,810,405,405,2,35 to 39 years
+Prince Rupert,785,395,390,2,40 to 44 years
+Prince Rupert,845,400,440,2,45 to 49 years
+Prince Rupert,915,460,455,2,50 to 54 years
+Prince Rupert,935,490,445,2,55 to 59 years
+Prince Rupert,1010,525,485,2,60 to 64 years
+Prince Rupert,785,430,355,2,65 to 69 years
+Prince Rupert,595,300,295,2,70 to 74 years
+Prince Rupert,390,190,200,2,75 to 79 years
+Prince Rupert,235,115,115,2,80 to 84 years
+Prince Rupert,210,85,125,2,85 years and over
+Terrace,1145,570,580,2,0 to 4 years
+Terrace,1185,580,600,2,5 to 9 years
+Terrace,1195,610,590,2,10 to 14 years
+Terrace,1085,565,520,2,15 to 19 years
+Terrace,1115,580,535,2,20 to 24 years
+Terrace,1415,750,665,2,25 to 29 years
+Terrace,1455,725,725,2,30 to 34 years
+Terrace,1340,690,645,2,35 to 39 years
+Terrace,1210,610,600,2,40 to 44 years
+Terrace,1155,560,595,2,45 to 49 years
+Terrace,1355,660,695,2,50 to 54 years
+Terrace,1380,705,675,2,55 to 59 years
+Terrace,1360,670,690,2,60 to 64 years
+Terrace,1125,595,535,2,65 to 69 years
+Terrace,910,445,465,2,70 to 74 years
+Terrace,585,285,300,2,75 to 79 years
+Terrace,340,165,175,2,80 to 84 years
+Terrace,250,110,140,2,85 years and over
+Prince George,4435,2235,2200,2,0 to 4 years
+Prince George,5130,2645,2485,2,5 to 9 years
+Prince George,5535,2870,2665,2,10 to 14 years
+Prince George,5220,2725,2495,2,15 to 19 years
+Prince George,5835,2995,2840,2,20 to 24 years
+Prince George,6495,3315,3180,2,25 to 29 years
+Prince George,6365,3230,3135,2,30 to 34 years
+Prince George,6280,3125,3155,2,35 to 39 years
+Prince George,5560,2760,2795,2,40 to 44 years
+Prince George,5625,2800,2825,2,45 to 49 years
+Prince George,5835,2880,2955,2,50 to 54 years
+Prince George,6375,3150,3230,2,55 to 59 years
+Prince George,6180,3085,3095,2,60 to 64 years
+Prince George,5070,2485,2585,2,65 to 69 years
+Prince George,4040,1980,2065,2,70 to 74 years
+Prince George,2690,1300,1385,2,75 to 79 years
+Prince George,1585,735,850,2,80 to 84 years
+Prince George,1225,480,745,2,85 years and over
+Dawson Creek,1120,585,540,2,0 to 4 years
+Dawson Creek,1215,595,620,2,5 to 9 years
+Dawson Creek,1085,585,505,2,10 to 14 years
+Dawson Creek,1045,580,470,2,15 to 19 years
+Dawson Creek,1115,585,535,2,20 to 24 years
+Dawson Creek,1290,655,640,2,25 to 29 years
+Dawson Creek,1370,705,675,2,30 to 34 years
+Dawson Creek,1345,685,655,2,35 to 39 years
+Dawson Creek,1075,525,550,2,40 to 44 years
+Dawson Creek,1050,520,525,2,45 to 49 years
+Dawson Creek,1045,475,570,2,50 to 54 years
+Dawson Creek,1230,645,585,2,55 to 59 years
+Dawson Creek,1170,565,610,2,60 to 64 years
+Dawson Creek,925,460,460,2,65 to 69 years
+Dawson Creek,695,310,390,2,70 to 74 years
+Dawson Creek,450,215,235,2,75 to 79 years
+Dawson Creek,320,140,180,2,80 to 84 years
+Dawson Creek,320,120,200,2,85 years and over
+Fort St. John,2085,1050,1025,2,0 to 4 years
+Fort St. John,2000,1050,955,2,5 to 9 years
+Fort St. John,2020,1065,955,2,10 to 14 years
+Fort St. John,1730,905,820,2,15 to 19 years
+Fort St. John,1980,1055,920,2,20 to 24 years
+Fort St. John,2520,1325,1195,2,25 to 29 years
+Fort St. John,2610,1365,1240,2,30 to 34 years
+Fort St. John,2465,1260,1200,2,35 to 39 years
+Fort St. John,2025,1040,985,2,40 to 44 years
+Fort St. John,1755,920,840,2,45 to 49 years
+Fort St. John,1675,855,820,2,50 to 54 years
+Fort St. John,1675,860,820,2,55 to 59 years
+Fort St. John,1470,760,710,2,60 to 64 years
+Fort St. John,1075,540,535,2,65 to 69 years
+Fort St. John,670,340,330,2,70 to 74 years
+Fort St. John,445,210,235,2,75 to 79 years
+Fort St. John,295,145,150,2,80 to 84 years
+Fort St. John,240,85,155,2,85 years and over
+Whitehorse,1755,880,875,2,0 to 4 years
+Whitehorse,1940,1025,905,2,5 to 9 years
+Whitehorse,1815,960,860,2,10 to 14 years
+Whitehorse,1670,895,775,2,15 to 19 years
+Whitehorse,1790,905,890,2,20 to 24 years
+Whitehorse,2250,1100,1150,2,25 to 29 years
+Whitehorse,2795,1365,1425,2,30 to 34 years
+Whitehorse,2840,1370,1475,2,35 to 39 years
+Whitehorse,2285,1095,1190,2,40 to 44 years
+Whitehorse,2140,980,1155,2,45 to 49 years
+Whitehorse,1885,925,960,2,50 to 54 years
+Whitehorse,2085,980,1100,2,55 to 59 years
+Whitehorse,2150,1050,1105,2,60 to 64 years
+Whitehorse,1745,890,860,2,65 to 69 years
+Whitehorse,1310,675,635,2,70 to 74 years
+Whitehorse,750,395,355,2,75 to 79 years
+Whitehorse,385,195,190,2,80 to 84 years
+Whitehorse,310,140,175,2,85 years and over
+Yellowknife,1360,690,670,2,0 to 4 years
+Yellowknife,1420,715,705,2,5 to 9 years
+Yellowknife,1340,675,665,2,10 to 14 years
+Yellowknife,1190,580,610,2,15 to 19 years
+Yellowknife,1310,700,605,2,20 to 24 years
+Yellowknife,1635,840,790,2,25 to 29 years
+Yellowknife,1855,895,960,2,30 to 34 years
+Yellowknife,1745,840,905,2,35 to 39 years
+Yellowknife,1665,785,880,2,40 to 44 years
+Yellowknife,1410,705,705,2,45 to 49 years
+Yellowknife,1325,665,655,2,50 to 54 years
+Yellowknife,1385,685,700,2,55 to 59 years
+Yellowknife,1115,585,525,2,60 to 64 years
+Yellowknife,725,375,355,2,65 to 69 years
+Yellowknife,425,230,195,2,70 to 74 years
+Yellowknife,235,110,130,2,75 to 79 years
+Yellowknife,95,35,55,2,80 to 84 years
+Yellowknife,105,35,70,2,85 years and over

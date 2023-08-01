@@ -1,0 +1,1281 @@
+GEO_NAME,COUNT_TOTAL,COUNT_MEN,COUNT_WOMEN,EDUCATION_LEVEL
+St. John's,14030,9895,4140,Apprenticeship or trades certificate or diploma
+St. John's,42890,18105,24780,"College, CEGEP or other non-university certificate or diploma"
+St. John's,4760,1980,2780,University certificate or diploma below bachelor level
+St. John's,29890,12760,17130,Bachelor's degree
+St. John's,2085,1015,1070,University certificate or diploma above bachelor level
+St. John's,1300,630,665,"Degree in medicine, dentistry, veterinary medicine or optometry"
+St. John's,11520,4740,6775,Master's degree
+St. John's,2205,1375,825,Earned doctorate
+Grand Falls-Windsor,1240,950,290,Apprenticeship or trades certificate or diploma
+Grand Falls-Windsor,2935,1165,1770,"College, CEGEP or other non-university certificate or diploma"
+Grand Falls-Windsor,175,70,105,University certificate or diploma below bachelor level
+Grand Falls-Windsor,1100,375,725,Bachelor's degree
+Grand Falls-Windsor,80,35,45,University certificate or diploma above bachelor level
+Grand Falls-Windsor,100,60,40,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Grand Falls-Windsor,355,130,220,Master's degree
+Grand Falls-Windsor,10,0,10,Earned doctorate
+Gander,1120,775,345,Apprenticeship or trades certificate or diploma
+Gander,3225,1470,1750,"College, CEGEP or other non-university certificate or diploma"
+Gander,210,70,140,University certificate or diploma below bachelor level
+Gander,1035,425,610,Bachelor's degree
+Gander,90,40,50,University certificate or diploma above bachelor level
+Gander,110,75,35,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Gander,370,130,240,Master's degree
+Gander,20,15,0,Earned doctorate
+Corner Brook,2815,2130,685,Apprenticeship or trades certificate or diploma
+Corner Brook,6300,2460,3835,"College, CEGEP or other non-university certificate or diploma"
+Corner Brook,465,230,240,University certificate or diploma below bachelor level
+Corner Brook,2960,1220,1735,Bachelor's degree
+Corner Brook,170,40,125,University certificate or diploma above bachelor level
+Corner Brook,145,70,70,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Corner Brook,920,375,550,Master's degree
+Corner Brook,175,115,60,Earned doctorate
+Charlottetown,3700,2700,1000,Apprenticeship or trades certificate or diploma
+Charlottetown,16310,6845,9465,"College, CEGEP or other non-university certificate or diploma"
+Charlottetown,1910,695,1215,University certificate or diploma below bachelor level
+Charlottetown,12820,5630,7195,Bachelor's degree
+Charlottetown,960,395,565,University certificate or diploma above bachelor level
+Charlottetown,490,230,260,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Charlottetown,4165,1740,2420,Master's degree
+Charlottetown,640,405,230,Earned doctorate
+Summerside,950,660,290,Apprenticeship or trades certificate or diploma
+Summerside,3765,1520,2245,"College, CEGEP or other non-university certificate or diploma"
+Summerside,395,145,250,University certificate or diploma below bachelor level
+Summerside,1665,730,930,Bachelor's degree
+Summerside,90,40,50,University certificate or diploma above bachelor level
+Summerside,70,45,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Summerside,495,215,280,Master's degree
+Summerside,30,20,10,Earned doctorate
+Halifax,27215,19170,8040,Apprenticeship or trades certificate or diploma
+Halifax,78400,34115,44285,"College, CEGEP or other non-university certificate or diploma"
+Halifax,9685,4165,5515,University certificate or diploma below bachelor level
+Halifax,83785,36620,47160,Bachelor's degree
+Halifax,7460,3290,4175,University certificate or diploma above bachelor level
+Halifax,3110,1535,1580,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Halifax,28850,11990,16865,Master's degree
+Halifax,4685,2710,1975,Earned doctorate
+Kentville,1780,1260,525,Apprenticeship or trades certificate or diploma
+Kentville,5350,2125,3225,"College, CEGEP or other non-university certificate or diploma"
+Kentville,435,165,265,University certificate or diploma below bachelor level
+Kentville,3335,1420,1915,Bachelor's degree
+Kentville,265,100,155,University certificate or diploma above bachelor level
+Kentville,190,105,80,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kentville,1030,405,620,Master's degree
+Kentville,185,115,70,Earned doctorate
+Truro,3470,2465,1005,Apprenticeship or trades certificate or diploma
+Truro,8500,3135,5370,"College, CEGEP or other non-university certificate or diploma"
+Truro,835,290,540,University certificate or diploma below bachelor level
+Truro,4530,1765,2765,Bachelor's degree
+Truro,405,160,245,University certificate or diploma above bachelor level
+Truro,215,110,105,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Truro,1585,635,945,Master's degree
+Truro,195,135,60,Earned doctorate
+New Glasgow,2830,2115,715,Apprenticeship or trades certificate or diploma
+New Glasgow,6860,2660,4200,"College, CEGEP or other non-university certificate or diploma"
+New Glasgow,515,180,335,University certificate or diploma below bachelor level
+New Glasgow,3100,1270,1830,Bachelor's degree
+New Glasgow,240,85,155,University certificate or diploma above bachelor level
+New Glasgow,120,75,45,"Degree in medicine, dentistry, veterinary medicine or optometry"
+New Glasgow,875,335,535,Master's degree
+New Glasgow,60,35,35,Earned doctorate
+Cape Breton,9010,6910,2100,Apprenticeship or trades certificate or diploma
+Cape Breton,17535,6295,11240,"College, CEGEP or other non-university certificate or diploma"
+Cape Breton,2475,1065,1415,University certificate or diploma below bachelor level
+Cape Breton,9815,3940,5875,Bachelor's degree
+Cape Breton,1450,710,735,University certificate or diploma above bachelor level
+Cape Breton,420,235,190,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Cape Breton,2375,880,1495,Master's degree
+Cape Breton,245,150,100,Earned doctorate
+Moncton,8010,5730,2280,Apprenticeship or trades certificate or diploma
+Moncton,32730,14275,18450,"College, CEGEP or other non-university certificate or diploma"
+Moncton,2725,1080,1645,University certificate or diploma below bachelor level
+Moncton,21055,8905,12150,Bachelor's degree
+Moncton,1975,775,1200,University certificate or diploma above bachelor level
+Moncton,755,365,385,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Moncton,5765,2620,3140,Master's degree
+Moncton,840,535,310,Earned doctorate
+Saint John,7995,6230,1770,Apprenticeship or trades certificate or diploma
+Saint John,25390,10965,14430,"College, CEGEP or other non-university certificate or diploma"
+Saint John,1870,755,1120,University certificate or diploma below bachelor level
+Saint John,16145,6870,9275,Bachelor's degree
+Saint John,1310,560,750,University certificate or diploma above bachelor level
+Saint John,695,415,280,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Saint John,4530,2185,2345,Master's degree
+Saint John,465,260,205,Earned doctorate
+Fredericton,5445,3900,1550,Apprenticeship or trades certificate or diploma
+Fredericton,17595,7135,10455,"College, CEGEP or other non-university certificate or diploma"
+Fredericton,1560,555,1010,University certificate or diploma below bachelor level
+Fredericton,19120,8420,10700,Bachelor's degree
+Fredericton,1230,555,680,University certificate or diploma above bachelor level
+Fredericton,610,310,300,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Fredericton,6385,3000,3385,Master's degree
+Fredericton,1415,915,500,Earned doctorate
+Bathurst,2765,1920,835,Apprenticeship or trades certificate or diploma
+Bathurst,6740,3060,3680,"College, CEGEP or other non-university certificate or diploma"
+Bathurst,510,160,345,University certificate or diploma below bachelor level
+Bathurst,2580,1005,1575,Bachelor's degree
+Bathurst,265,115,145,University certificate or diploma above bachelor level
+Bathurst,130,70,65,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Bathurst,455,200,255,Master's degree
+Bathurst,55,15,35,Earned doctorate
+Miramichi,2060,1580,485,Apprenticeship or trades certificate or diploma
+Miramichi,6070,2465,3605,"College, CEGEP or other non-university certificate or diploma"
+Miramichi,350,155,190,University certificate or diploma below bachelor level
+Miramichi,2445,855,1595,Bachelor's degree
+Miramichi,280,110,170,University certificate or diploma above bachelor level
+Miramichi,50,35,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Miramichi,660,310,350,Master's degree
+Miramichi,35,20,15,Earned doctorate
+Campbellton,1120,750,365,Apprenticeship or trades certificate or diploma
+Campbellton,2545,1020,1525,"College, CEGEP or other non-university certificate or diploma"
+Campbellton,225,75,145,University certificate or diploma below bachelor level
+Campbellton,950,350,600,Bachelor's degree
+Campbellton,100,40,65,University certificate or diploma above bachelor level
+Campbellton,55,35,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Campbellton,205,115,90,Master's degree
+Campbellton,15,15,0,Earned doctorate
+Campbellton (New Brunswick part),885,600,285,Apprenticeship or trades certificate or diploma
+Campbellton (New Brunswick part),2405,955,1450,"College, CEGEP or other non-university certificate or diploma"
+Campbellton (New Brunswick part),200,65,130,University certificate or diploma below bachelor level
+Campbellton (New Brunswick part),885,335,550,Bachelor's degree
+Campbellton (New Brunswick part),95,40,55,University certificate or diploma above bachelor level
+Campbellton (New Brunswick part),55,35,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Campbellton (New Brunswick part),205,115,90,Master's degree
+Campbellton (New Brunswick part),15,15,0,Earned doctorate
+Campbellton (Quebec part),235,150,80,Apprenticeship or trades certificate or diploma
+Campbellton (Quebec part),140,65,70,"College, CEGEP or other non-university certificate or diploma"
+Campbellton (Quebec part),25,0,15,University certificate or diploma below bachelor level
+Campbellton (Quebec part),65,15,50,Bachelor's degree
+Campbellton (Quebec part),10,0,10,University certificate or diploma above bachelor level
+Campbellton (Quebec part),0,0,0,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Campbellton (Quebec part),0,0,0,Master's degree
+Campbellton (Quebec part),0,0,0,Earned doctorate
+Edmundston,2335,1455,880,Apprenticeship or trades certificate or diploma
+Edmundston,3425,1505,1920,"College, CEGEP or other non-university certificate or diploma"
+Edmundston,540,180,360,University certificate or diploma below bachelor level
+Edmundston,2115,820,1295,Bachelor's degree
+Edmundston,210,70,135,University certificate or diploma above bachelor level
+Edmundston,140,80,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Edmundston,435,190,245,Master's degree
+Edmundston,110,50,60,Earned doctorate
+Matane,3205,2050,1155,Apprenticeship or trades certificate or diploma
+Matane,2765,1105,1660,"College, CEGEP or other non-university certificate or diploma"
+Matane,440,135,310,University certificate or diploma below bachelor level
+Matane,1295,495,795,Bachelor's degree
+Matane,145,75,70,University certificate or diploma above bachelor level
+Matane,60,35,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Matane,265,95,170,Master's degree
+Matane,15,0,10,Earned doctorate
+Rimouski,7630,4645,2990,Apprenticeship or trades certificate or diploma
+Rimouski,9290,4140,5145,"College, CEGEP or other non-university certificate or diploma"
+Rimouski,1830,635,1195,University certificate or diploma below bachelor level
+Rimouski,6675,2650,4030,Bachelor's degree
+Rimouski,670,300,365,University certificate or diploma above bachelor level
+Rimouski,360,170,185,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Rimouski,1865,835,1035,Master's degree
+Rimouski,565,380,185,Earned doctorate
+RiviÃ¨re-du-Loup,5545,3430,2115,Apprenticeship or trades certificate or diploma
+RiviÃ¨re-du-Loup,4575,1915,2660,"College, CEGEP or other non-university certificate or diploma"
+RiviÃ¨re-du-Loup,870,265,610,University certificate or diploma below bachelor level
+RiviÃ¨re-du-Loup,2605,1130,1475,Bachelor's degree
+RiviÃ¨re-du-Loup,265,145,120,University certificate or diploma above bachelor level
+RiviÃ¨re-du-Loup,125,65,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+RiviÃ¨re-du-Loup,715,350,365,Master's degree
+RiviÃ¨re-du-Loup,90,35,55,Earned doctorate
+Baie-Comeau,4805,3355,1450,Apprenticeship or trades certificate or diploma
+Baie-Comeau,4345,1790,2555,"College, CEGEP or other non-university certificate or diploma"
+Baie-Comeau,580,180,395,University certificate or diploma below bachelor level
+Baie-Comeau,2035,845,1190,Bachelor's degree
+Baie-Comeau,150,50,105,University certificate or diploma above bachelor level
+Baie-Comeau,105,45,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Baie-Comeau,305,95,210,Master's degree
+Baie-Comeau,75,45,35,Earned doctorate
+Saguenay,31530,19280,12245,Apprenticeship or trades certificate or diploma
+Saguenay,26240,11825,14420,"College, CEGEP or other non-university certificate or diploma"
+Saguenay,4690,1945,2750,University certificate or diploma below bachelor level
+Saguenay,15310,6720,8590,Bachelor's degree
+Saguenay,1785,820,965,University certificate or diploma above bachelor level
+Saguenay,730,320,405,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Saguenay,3940,1835,2100,Master's degree
+Saguenay,735,450,285,Earned doctorate
+Alma,5830,3560,2270,Apprenticeship or trades certificate or diploma
+Alma,4920,2310,2610,"College, CEGEP or other non-university certificate or diploma"
+Alma,815,290,530,University certificate or diploma below bachelor level
+Alma,2320,970,1350,Bachelor's degree
+Alma,260,125,135,University certificate or diploma above bachelor level
+Alma,105,55,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Alma,480,225,245,Master's degree
+Alma,60,35,20,Earned doctorate
+Dolbeau-Mistassini,3200,2050,1150,Apprenticeship or trades certificate or diploma
+Dolbeau-Mistassini,1905,830,1080,"College, CEGEP or other non-university certificate or diploma"
+Dolbeau-Mistassini,340,105,240,University certificate or diploma below bachelor level
+Dolbeau-Mistassini,1030,410,620,Bachelor's degree
+Dolbeau-Mistassini,120,55,65,University certificate or diploma above bachelor level
+Dolbeau-Mistassini,35,10,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Dolbeau-Mistassini,145,80,55,Master's degree
+Dolbeau-Mistassini,15,0,10,Earned doctorate
+Sept-ÃŽles,4445,2995,1450,Apprenticeship or trades certificate or diploma
+Sept-ÃŽles,4010,1830,2185,"College, CEGEP or other non-university certificate or diploma"
+Sept-ÃŽles,645,200,445,University certificate or diploma below bachelor level
+Sept-ÃŽles,2005,715,1295,Bachelor's degree
+Sept-ÃŽles,200,90,105,University certificate or diploma above bachelor level
+Sept-ÃŽles,65,20,45,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sept-ÃŽles,345,150,200,Master's degree
+Sept-ÃŽles,65,30,35,Earned doctorate
+QuÃ©bec,106035,66280,39755,Apprenticeship or trades certificate or diploma
+QuÃ©bec,139165,62125,77040,"College, CEGEP or other non-university certificate or diploma"
+QuÃ©bec,26995,10720,16280,University certificate or diploma below bachelor level
+QuÃ©bec,115655,52340,63320,Bachelor's degree
+QuÃ©bec,15225,6765,8460,University certificate or diploma above bachelor level
+QuÃ©bec,5200,2495,2705,"Degree in medicine, dentistry, veterinary medicine or optometry"
+QuÃ©bec,44015,21125,22895,Master's degree
+QuÃ©bec,8725,5140,3585,Earned doctorate
+Sainte-Marie,2075,1300,775,Apprenticeship or trades certificate or diploma
+Sainte-Marie,2075,915,1160,"College, CEGEP or other non-university certificate or diploma"
+Sainte-Marie,320,125,200,University certificate or diploma below bachelor level
+Sainte-Marie,1175,575,600,Bachelor's degree
+Sainte-Marie,170,60,110,University certificate or diploma above bachelor level
+Sainte-Marie,75,25,45,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sainte-Marie,245,95,150,Master's degree
+Sainte-Marie,25,15,10,Earned doctorate
+Saint-Georges,5825,3550,2275,Apprenticeship or trades certificate or diploma
+Saint-Georges,4970,2150,2820,"College, CEGEP or other non-university certificate or diploma"
+Saint-Georges,825,305,520,University certificate or diploma below bachelor level
+Saint-Georges,2755,1175,1585,Bachelor's degree
+Saint-Georges,360,170,190,University certificate or diploma above bachelor level
+Saint-Georges,85,45,40,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Saint-Georges,430,160,270,Master's degree
+Saint-Georges,75,35,45,Earned doctorate
+Thetford Mines,5335,3345,1990,Apprenticeship or trades certificate or diploma
+Thetford Mines,4205,1735,2470,"College, CEGEP or other non-university certificate or diploma"
+Thetford Mines,770,260,505,University certificate or diploma below bachelor level
+Thetford Mines,1790,760,1030,Bachelor's degree
+Thetford Mines,230,85,145,University certificate or diploma above bachelor level
+Thetford Mines,100,50,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Thetford Mines,335,170,165,Master's degree
+Thetford Mines,35,25,10,Earned doctorate
+Sherbrooke,31660,18705,12950,Apprenticeship or trades certificate or diploma
+Sherbrooke,33485,14695,18800,"College, CEGEP or other non-university certificate or diploma"
+Sherbrooke,6130,2505,3625,University certificate or diploma below bachelor level
+Sherbrooke,26340,11425,14915,Bachelor's degree
+Sherbrooke,3395,1500,1905,University certificate or diploma above bachelor level
+Sherbrooke,1605,710,895,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sherbrooke,10590,4880,5700,Master's degree
+Sherbrooke,2815,1790,1030,Earned doctorate
+Cowansville,2190,1210,980,Apprenticeship or trades certificate or diploma
+Cowansville,1825,800,1020,"College, CEGEP or other non-university certificate or diploma"
+Cowansville,310,105,205,University certificate or diploma below bachelor level
+Cowansville,1050,415,635,Bachelor's degree
+Cowansville,130,60,70,University certificate or diploma above bachelor level
+Cowansville,55,25,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Cowansville,215,110,110,Master's degree
+Cowansville,30,10,20,Earned doctorate
+Victoriaville,8470,5170,3305,Apprenticeship or trades certificate or diploma
+Victoriaville,7530,3040,4490,"College, CEGEP or other non-university certificate or diploma"
+Victoriaville,1325,515,805,University certificate or diploma below bachelor level
+Victoriaville,4055,1495,2560,Bachelor's degree
+Victoriaville,630,310,320,University certificate or diploma above bachelor level
+Victoriaville,255,125,125,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Victoriaville,940,425,510,Master's degree
+Victoriaville,105,55,50,Earned doctorate
+Trois-RiviÃ¨res,24080,15305,8780,Apprenticeship or trades certificate or diploma
+Trois-RiviÃ¨res,25975,11165,14810,"College, CEGEP or other non-university certificate or diploma"
+Trois-RiviÃ¨res,5120,2100,3020,University certificate or diploma below bachelor level
+Trois-RiviÃ¨res,16880,7250,9630,Bachelor's degree
+Trois-RiviÃ¨res,1925,880,1045,University certificate or diploma above bachelor level
+Trois-RiviÃ¨res,810,380,430,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Trois-RiviÃ¨res,4855,2275,2580,Master's degree
+Trois-RiviÃ¨res,965,510,455,Earned doctorate
+Shawinigan,9040,5690,3350,Apprenticeship or trades certificate or diploma
+Shawinigan,7100,2950,4150,"College, CEGEP or other non-university certificate or diploma"
+Shawinigan,1165,455,710,University certificate or diploma below bachelor level
+Shawinigan,3385,1480,1900,Bachelor's degree
+Shawinigan,405,200,205,University certificate or diploma above bachelor level
+Shawinigan,230,105,125,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Shawinigan,715,330,385,Master's degree
+Shawinigan,100,50,50,Earned doctorate
+Drummondville,16865,10650,6215,Apprenticeship or trades certificate or diploma
+Drummondville,14515,5695,8820,"College, CEGEP or other non-university certificate or diploma"
+Drummondville,2435,950,1490,University certificate or diploma below bachelor level
+Drummondville,7405,3125,4280,Bachelor's degree
+Drummondville,795,305,490,University certificate or diploma above bachelor level
+Drummondville,335,125,210,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Drummondville,1745,795,945,Master's degree
+Drummondville,170,95,70,Earned doctorate
+Granby,12605,7700,4905,Apprenticeship or trades certificate or diploma
+Granby,12570,5210,7350,"College, CEGEP or other non-university certificate or diploma"
+Granby,2480,1065,1415,University certificate or diploma below bachelor level
+Granby,7660,3320,4340,Bachelor's degree
+Granby,1140,520,620,University certificate or diploma above bachelor level
+Granby,380,200,175,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Granby,2200,1010,1190,Master's degree
+Granby,280,120,160,Earned doctorate
+Saint-Hyacinthe,8795,5160,3635,Apprenticeship or trades certificate or diploma
+Saint-Hyacinthe,7905,3370,4540,"College, CEGEP or other non-university certificate or diploma"
+Saint-Hyacinthe,1805,640,1170,University certificate or diploma below bachelor level
+Saint-Hyacinthe,4375,1765,2610,Bachelor's degree
+Saint-Hyacinthe,655,265,390,University certificate or diploma above bachelor level
+Saint-Hyacinthe,335,120,215,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Saint-Hyacinthe,1145,595,550,Master's degree
+Saint-Hyacinthe,225,115,110,Earned doctorate
+Sorel-Tracy,7315,4500,2825,Apprenticeship or trades certificate or diploma
+Sorel-Tracy,6460,2765,3700,"College, CEGEP or other non-university certificate or diploma"
+Sorel-Tracy,1195,425,770,University certificate or diploma below bachelor level
+Sorel-Tracy,2670,1150,1520,Bachelor's degree
+Sorel-Tracy,375,150,230,University certificate or diploma above bachelor level
+Sorel-Tracy,105,55,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sorel-Tracy,540,260,275,Master's degree
+Sorel-Tracy,75,60,15,Earned doctorate
+Joliette,7840,4540,3300,Apprenticeship or trades certificate or diploma
+Joliette,6975,2740,4235,"College, CEGEP or other non-university certificate or diploma"
+Joliette,1410,460,950,University certificate or diploma below bachelor level
+Joliette,4280,1770,2505,Bachelor's degree
+Joliette,525,235,285,University certificate or diploma above bachelor level
+Joliette,300,150,145,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Joliette,960,415,550,Master's degree
+Joliette,130,55,75,Earned doctorate
+MontrÃ©al,434745,254930,179815,Apprenticeship or trades certificate or diploma
+MontrÃ©al,595210,268390,326815,"College, CEGEP or other non-university certificate or diploma"
+MontrÃ©al,142515,60260,82260,University certificate or diploma below bachelor level
+MontrÃ©al,615490,276540,338950,Bachelor's degree
+MontrÃ©al,99770,44945,54820,University certificate or diploma above bachelor level
+MontrÃ©al,26165,12440,13725,"Degree in medicine, dentistry, veterinary medicine or optometry"
+MontrÃ©al,237595,116085,121505,Master's degree
+MontrÃ©al,41015,23455,17565,Earned doctorate
+Salaberry-de-Valleyfield,7615,4510,3110,Apprenticeship or trades certificate or diploma
+Salaberry-de-Valleyfield,5395,2200,3190,"College, CEGEP or other non-university certificate or diploma"
+Salaberry-de-Valleyfield,860,345,515,University certificate or diploma below bachelor level
+Salaberry-de-Valleyfield,2380,925,1455,Bachelor's degree
+Salaberry-de-Valleyfield,380,130,250,University certificate or diploma above bachelor level
+Salaberry-de-Valleyfield,90,60,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Salaberry-de-Valleyfield,535,290,245,Master's degree
+Salaberry-de-Valleyfield,50,30,20,Earned doctorate
+Sainte-Agathe-des-Monts,3000,1765,1235,Apprenticeship or trades certificate or diploma
+Sainte-Agathe-des-Monts,2785,1200,1585,"College, CEGEP or other non-university certificate or diploma"
+Sainte-Agathe-des-Monts,645,240,405,University certificate or diploma below bachelor level
+Sainte-Agathe-des-Monts,2055,885,1165,Bachelor's degree
+Sainte-Agathe-des-Monts,320,105,215,University certificate or diploma above bachelor level
+Sainte-Agathe-des-Monts,115,65,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sainte-Agathe-des-Monts,720,305,415,Master's degree
+Sainte-Agathe-des-Monts,130,80,45,Earned doctorate
+Lachute,2340,1335,1005,Apprenticeship or trades certificate or diploma
+Lachute,1475,605,870,"College, CEGEP or other non-university certificate or diploma"
+Lachute,255,85,170,University certificate or diploma below bachelor level
+Lachute,690,270,420,Bachelor's degree
+Lachute,45,10,35,University certificate or diploma above bachelor level
+Lachute,35,15,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lachute,130,55,75,Master's degree
+Lachute,10,0,10,Earned doctorate
+Val-d'Or,5840,3705,2135,Apprenticeship or trades certificate or diploma
+Val-d'Or,3915,1725,2190,"College, CEGEP or other non-university certificate or diploma"
+Val-d'Or,690,230,455,University certificate or diploma below bachelor level
+Val-d'Or,2845,1020,1820,Bachelor's degree
+Val-d'Or,305,120,185,University certificate or diploma above bachelor level
+Val-d'Or,105,50,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Val-d'Or,490,280,210,Master's degree
+Val-d'Or,120,75,45,Earned doctorate
+Amos,3565,2120,1445,Apprenticeship or trades certificate or diploma
+Amos,2245,930,1315,"College, CEGEP or other non-university certificate or diploma"
+Amos,435,150,285,University certificate or diploma below bachelor level
+Amos,1335,485,850,Bachelor's degree
+Amos,125,20,105,University certificate or diploma above bachelor level
+Amos,140,55,85,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Amos,230,135,95,Master's degree
+Amos,45,20,25,Earned doctorate
+Rouyn-Noranda,7255,4720,2530,Apprenticeship or trades certificate or diploma
+Rouyn-Noranda,5720,2560,3165,"College, CEGEP or other non-university certificate or diploma"
+Rouyn-Noranda,1210,445,765,University certificate or diploma below bachelor level
+Rouyn-Noranda,3880,1450,2430,Bachelor's degree
+Rouyn-Noranda,430,175,250,University certificate or diploma above bachelor level
+Rouyn-Noranda,130,45,85,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Rouyn-Noranda,990,470,520,Master's degree
+Rouyn-Noranda,210,135,80,Earned doctorate
+Cornwall,3710,2700,1010,Apprenticeship or trades certificate or diploma
+Cornwall,12545,5220,7325,"College, CEGEP or other non-university certificate or diploma"
+Cornwall,730,310,420,University certificate or diploma below bachelor level
+Cornwall,4375,1820,2555,Bachelor's degree
+Cornwall,420,155,260,University certificate or diploma above bachelor level
+Cornwall,140,90,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Cornwall,965,470,490,Master's degree
+Cornwall,120,95,25,Earned doctorate
+Hawkesbury,1090,555,535,Apprenticeship or trades certificate or diploma
+Hawkesbury,1720,745,970,"College, CEGEP or other non-university certificate or diploma"
+Hawkesbury,235,75,160,University certificate or diploma below bachelor level
+Hawkesbury,575,260,315,Bachelor's degree
+Hawkesbury,70,30,40,University certificate or diploma above bachelor level
+Hawkesbury,35,15,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Hawkesbury,190,95,100,Master's degree
+Hawkesbury,25,20,10,Earned doctorate
+Hawkesbury (Quebec part),290,125,165,Apprenticeship or trades certificate or diploma
+Hawkesbury (Quebec part),185,75,110,"College, CEGEP or other non-university certificate or diploma"
+Hawkesbury (Quebec part),35,10,25,University certificate or diploma below bachelor level
+Hawkesbury (Quebec part),80,30,50,Bachelor's degree
+Hawkesbury (Quebec part),0,0,0,University certificate or diploma above bachelor level
+Hawkesbury (Quebec part),10,0,0,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Hawkesbury (Quebec part),35,15,20,Master's degree
+Hawkesbury (Quebec part),0,0,0,Earned doctorate
+Hawkesbury (Ontario part),800,430,370,Apprenticeship or trades certificate or diploma
+Hawkesbury (Ontario part),1535,670,865,"College, CEGEP or other non-university certificate or diploma"
+Hawkesbury (Ontario part),195,65,135,University certificate or diploma below bachelor level
+Hawkesbury (Ontario part),495,230,265,Bachelor's degree
+Hawkesbury (Ontario part),70,30,40,University certificate or diploma above bachelor level
+Hawkesbury (Ontario part),25,15,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Hawkesbury (Ontario part),155,75,80,Master's degree
+Hawkesbury (Ontario part),25,20,10,Earned doctorate
+Ottawa - Gatineau,69880,42925,26950,Apprenticeship or trades certificate or diploma
+Ottawa - Gatineau,235770,107720,128050,"College, CEGEP or other non-university certificate or diploma"
+Ottawa - Gatineau,27740,11540,16200,University certificate or diploma below bachelor level
+Ottawa - Gatineau,269590,120795,148795,Bachelor's degree
+Ottawa - Gatineau,25900,11170,14730,University certificate or diploma above bachelor level
+Ottawa - Gatineau,9560,4435,5130,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Ottawa - Gatineau,114980,56415,58560,Master's degree
+Ottawa - Gatineau,21900,13530,8370,Earned doctorate
+Ottawa - Gatineau (Quebec part),33375,19180,14200,Apprenticeship or trades certificate or diploma
+Ottawa - Gatineau (Quebec part),51190,23090,28100,"College, CEGEP or other non-university certificate or diploma"
+Ottawa - Gatineau (Quebec part),8680,3480,5200,University certificate or diploma below bachelor level
+Ottawa - Gatineau (Quebec part),47165,19995,27175,Bachelor's degree
+Ottawa - Gatineau (Quebec part),6025,2730,3295,University certificate or diploma above bachelor level
+Ottawa - Gatineau (Quebec part),1220,570,645,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Ottawa - Gatineau (Quebec part),19570,9710,9860,Master's degree
+Ottawa - Gatineau (Quebec part),2885,1640,1245,Earned doctorate
+Ottawa - Gatineau (Ontario part),36500,23750,12755,Apprenticeship or trades certificate or diploma
+Ottawa - Gatineau (Ontario part),184580,84630,99950,"College, CEGEP or other non-university certificate or diploma"
+Ottawa - Gatineau (Ontario part),19060,8060,11000,University certificate or diploma below bachelor level
+Ottawa - Gatineau (Ontario part),222420,100800,121620,Bachelor's degree
+Ottawa - Gatineau (Ontario part),19875,8440,11430,University certificate or diploma above bachelor level
+Ottawa - Gatineau (Ontario part),8340,3865,4485,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Ottawa - Gatineau (Ontario part),95410,46705,48695,Master's degree
+Ottawa - Gatineau (Ontario part),19015,11890,7125,Earned doctorate
+Brockville,1630,1175,450,Apprenticeship or trades certificate or diploma
+Brockville,7560,2880,4675,"College, CEGEP or other non-university certificate or diploma"
+Brockville,460,160,300,University certificate or diploma below bachelor level
+Brockville,2985,1305,1675,Bachelor's degree
+Brockville,325,140,185,University certificate or diploma above bachelor level
+Brockville,125,70,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Brockville,880,415,465,Master's degree
+Brockville,110,65,40,Earned doctorate
+Pembroke,1360,1095,260,Apprenticeship or trades certificate or diploma
+Pembroke,5310,2080,3230,"College, CEGEP or other non-university certificate or diploma"
+Pembroke,285,110,180,University certificate or diploma below bachelor level
+Pembroke,1740,685,1055,Bachelor's degree
+Pembroke,135,50,90,University certificate or diploma above bachelor level
+Pembroke,115,55,65,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Pembroke,510,235,275,Master's degree
+Pembroke,70,60,15,Earned doctorate
+Petawawa,920,710,210,Apprenticeship or trades certificate or diploma
+Petawawa,3610,1500,2115,"College, CEGEP or other non-university certificate or diploma"
+Petawawa,155,65,90,University certificate or diploma below bachelor level
+Petawawa,1590,560,1035,Bachelor's degree
+Petawawa,135,40,90,University certificate or diploma above bachelor level
+Petawawa,45,15,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Petawawa,430,225,205,Master's degree
+Petawawa,80,60,20,Earned doctorate
+Kingston,7385,5510,1875,Apprenticeship or trades certificate or diploma
+Kingston,34715,13910,20805,"College, CEGEP or other non-university certificate or diploma"
+Kingston,2365,930,1435,University certificate or diploma below bachelor level
+Kingston,23735,9875,13860,Bachelor's degree
+Kingston,1655,680,975,University certificate or diploma above bachelor level
+Kingston,1610,860,745,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kingston,9685,4425,5260,Master's degree
+Kingston,3475,2165,1310,Earned doctorate
+Belleville - Quinte West,5875,4345,1530,Apprenticeship or trades certificate or diploma
+Belleville - Quinte West,25160,10275,14890,"College, CEGEP or other non-university certificate or diploma"
+Belleville - Quinte West,1315,590,725,University certificate or diploma below bachelor level
+Belleville - Quinte West,9665,3880,5785,Bachelor's degree
+Belleville - Quinte West,910,410,500,University certificate or diploma above bachelor level
+Belleville - Quinte West,345,200,145,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Belleville - Quinte West,2270,1110,1165,Master's degree
+Belleville - Quinte West,220,115,100,Earned doctorate
+Cobourg,1095,825,270,Apprenticeship or trades certificate or diploma
+Cobourg,4315,1700,2615,"College, CEGEP or other non-university certificate or diploma"
+Cobourg,270,105,165,University certificate or diploma below bachelor level
+Cobourg,2390,1030,1360,Bachelor's degree
+Cobourg,255,110,145,University certificate or diploma above bachelor level
+Cobourg,60,40,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Cobourg,625,275,350,Master's degree
+Cobourg,150,85,65,Earned doctorate
+Port Hope,995,780,210,Apprenticeship or trades certificate or diploma
+Port Hope,3625,1445,2180,"College, CEGEP or other non-university certificate or diploma"
+Port Hope,335,155,180,University certificate or diploma below bachelor level
+Port Hope,1985,840,1145,Bachelor's degree
+Port Hope,200,95,110,University certificate or diploma above bachelor level
+Port Hope,40,35,10,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Port Hope,455,200,255,Master's degree
+Port Hope,85,50,35,Earned doctorate
+Peterborough,6280,4565,1710,Apprenticeship or trades certificate or diploma
+Peterborough,27815,11400,16415,"College, CEGEP or other non-university certificate or diploma"
+Peterborough,1625,640,985,University certificate or diploma below bachelor level
+Peterborough,16385,6845,9540,Bachelor's degree
+Peterborough,1550,675,870,University certificate or diploma above bachelor level
+Peterborough,605,335,265,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Peterborough,4195,1890,2305,Master's degree
+Peterborough,845,495,350,Earned doctorate
+Kawartha Lakes,5420,4225,1195,Apprenticeship or trades certificate or diploma
+Kawartha Lakes,17330,7335,10000,"College, CEGEP or other non-university certificate or diploma"
+Kawartha Lakes,920,420,495,University certificate or diploma below bachelor level
+Kawartha Lakes,6580,2555,4025,Bachelor's degree
+Kawartha Lakes,700,245,460,University certificate or diploma above bachelor level
+Kawartha Lakes,220,115,105,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kawartha Lakes,1305,585,715,Master's degree
+Kawartha Lakes,180,80,100,Earned doctorate
+Centre Wellington,1770,1365,405,Apprenticeship or trades certificate or diploma
+Centre Wellington,6280,2670,3600,"College, CEGEP or other non-university certificate or diploma"
+Centre Wellington,410,210,195,University certificate or diploma below bachelor level
+Centre Wellington,3950,1615,2330,Bachelor's degree
+Centre Wellington,355,150,210,University certificate or diploma above bachelor level
+Centre Wellington,125,40,85,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Centre Wellington,1040,405,630,Master's degree
+Centre Wellington,150,105,50,Earned doctorate
+Oshawa,19095,14190,4900,Apprenticeship or trades certificate or diploma
+Oshawa,84135,36600,47535,"College, CEGEP or other non-university certificate or diploma"
+Oshawa,6510,2810,3690,University certificate or diploma below bachelor level
+Oshawa,54180,22230,31955,Bachelor's degree
+Oshawa,4790,2070,2720,University certificate or diploma above bachelor level
+Oshawa,1355,635,725,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Oshawa,14895,6990,7905,Master's degree
+Oshawa,1455,885,565,Earned doctorate
+Ingersoll,750,585,165,Apprenticeship or trades certificate or diploma
+Ingersoll,2940,1205,1740,"College, CEGEP or other non-university certificate or diploma"
+Ingersoll,155,55,95,University certificate or diploma below bachelor level
+Ingersoll,1000,380,620,Bachelor's degree
+Ingersoll,80,30,45,University certificate or diploma above bachelor level
+Ingersoll,15,0,10,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Ingersoll,180,70,105,Master's degree
+Ingersoll,25,20,0,Earned doctorate
+Toronto,190475,127945,62530,Apprenticeship or trades certificate or diploma
+Toronto,844180,380060,464125,"College, CEGEP or other non-university certificate or diploma"
+Toronto,150510,67785,82725,University certificate or diploma below bachelor level
+Toronto,1273260,588430,684830,Bachelor's degree
+Toronto,126965,58505,68460,University certificate or diploma above bachelor level
+Toronto,50290,23935,26350,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Toronto,459630,224215,235415,Master's degree
+Toronto,57465,33615,23850,Earned doctorate
+Hamilton,34345,24580,9760,Apprenticeship or trades certificate or diploma
+Hamilton,143125,63085,80035,"College, CEGEP or other non-university certificate or diploma"
+Hamilton,13790,6425,7370,University certificate or diploma below bachelor level
+Hamilton,119565,52525,67035,Bachelor's degree
+Hamilton,10870,4470,6395,University certificate or diploma above bachelor level
+Hamilton,5380,2695,2685,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Hamilton,36995,17320,19675,Master's degree
+Hamilton,6720,4055,2665,Earned doctorate
+St. Catharines - Niagara,24645,17795,6850,Apprenticeship or trades certificate or diploma
+St. Catharines - Niagara,85740,36575,49170,"College, CEGEP or other non-university certificate or diploma"
+St. Catharines - Niagara,6590,2925,3660,University certificate or diploma below bachelor level
+St. Catharines - Niagara,49905,21310,28600,Bachelor's degree
+St. Catharines - Niagara,4895,2220,2675,University certificate or diploma above bachelor level
+St. Catharines - Niagara,1675,965,705,"Degree in medicine, dentistry, veterinary medicine or optometry"
+St. Catharines - Niagara,14220,6485,7735,Master's degree
+St. Catharines - Niagara,2075,1200,885,Earned doctorate
+Kitchener - Cambridge - Waterloo,24165,17365,6790,Apprenticeship or trades certificate or diploma
+Kitchener - Cambridge - Waterloo,95295,43025,52265,"College, CEGEP or other non-university certificate or diploma"
+Kitchener - Cambridge - Waterloo,9005,4420,4590,University certificate or diploma below bachelor level
+Kitchener - Cambridge - Waterloo,88715,41185,47535,Bachelor's degree
+Kitchener - Cambridge - Waterloo,7710,3470,4230,University certificate or diploma above bachelor level
+Kitchener - Cambridge - Waterloo,2730,1260,1470,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kitchener - Cambridge - Waterloo,30080,14475,15605,Master's degree
+Kitchener - Cambridge - Waterloo,6275,4030,2235,Earned doctorate
+Brantford,7570,5740,1830,Apprenticeship or trades certificate or diploma
+Brantford,29220,12190,17035,"College, CEGEP or other non-university certificate or diploma"
+Brantford,1965,865,1100,University certificate or diploma below bachelor level
+Brantford,14510,5905,8605,Bachelor's degree
+Brantford,1200,500,695,University certificate or diploma above bachelor level
+Brantford,415,240,170,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Brantford,3395,1475,1925,Master's degree
+Brantford,420,245,175,Earned doctorate
+Woodstock,2130,1570,560,Apprenticeship or trades certificate or diploma
+Woodstock,9215,3810,5400,"College, CEGEP or other non-university certificate or diploma"
+Woodstock,530,250,280,University certificate or diploma below bachelor level
+Woodstock,4035,1575,2455,Bachelor's degree
+Woodstock,385,175,210,University certificate or diploma above bachelor level
+Woodstock,115,60,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Woodstock,1010,470,545,Master's degree
+Woodstock,110,50,55,Earned doctorate
+Tillsonburg,875,635,240,Apprenticeship or trades certificate or diploma
+Tillsonburg,3875,1555,2325,"College, CEGEP or other non-university certificate or diploma"
+Tillsonburg,205,80,125,University certificate or diploma below bachelor level
+Tillsonburg,1405,565,835,Bachelor's degree
+Tillsonburg,145,45,100,University certificate or diploma above bachelor level
+Tillsonburg,75,50,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Tillsonburg,245,130,115,Master's degree
+Tillsonburg,35,25,15,Earned doctorate
+Norfolk,4405,3380,1025,Apprenticeship or trades certificate or diploma
+Norfolk,14250,5805,8445,"College, CEGEP or other non-university certificate or diploma"
+Norfolk,785,365,420,University certificate or diploma below bachelor level
+Norfolk,5070,1950,3125,Bachelor's degree
+Norfolk,620,260,360,University certificate or diploma above bachelor level
+Norfolk,175,95,75,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Norfolk,1000,400,610,Master's degree
+Norfolk,110,65,50,Earned doctorate
+Guelph,6065,4320,1740,Apprenticeship or trades certificate or diploma
+Guelph,26860,12430,14430,"College, CEGEP or other non-university certificate or diploma"
+Guelph,2420,1120,1300,University certificate or diploma below bachelor level
+Guelph,28395,12475,15920,Bachelor's degree
+Guelph,2400,905,1490,University certificate or diploma above bachelor level
+Guelph,1075,545,530,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Guelph,10140,4660,5480,Master's degree
+Guelph,2925,1685,1240,Earned doctorate
+Stratford,1640,1230,405,Apprenticeship or trades certificate or diploma
+Stratford,6105,2485,3620,"College, CEGEP or other non-university certificate or diploma"
+Stratford,535,255,280,University certificate or diploma below bachelor level
+Stratford,4155,1780,2375,Bachelor's degree
+Stratford,380,130,240,University certificate or diploma above bachelor level
+Stratford,180,120,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Stratford,1165,475,685,Master's degree
+Stratford,180,90,85,Earned doctorate
+London,22910,15980,6930,Apprenticeship or trades certificate or diploma
+London,104775,45455,59320,"College, CEGEP or other non-university certificate or diploma"
+London,8855,3945,4910,University certificate or diploma below bachelor level
+London,75245,32940,42310,Bachelor's degree
+London,8585,3535,5055,University certificate or diploma above bachelor level
+London,4465,2465,1995,"Degree in medicine, dentistry, veterinary medicine or optometry"
+London,24340,11095,13245,Master's degree
+London,5950,3650,2305,Earned doctorate
+Chatham-Kent,5500,4205,1300,Apprenticeship or trades certificate or diploma
+Chatham-Kent,21840,8740,13100,"College, CEGEP or other non-university certificate or diploma"
+Chatham-Kent,1200,525,675,University certificate or diploma below bachelor level
+Chatham-Kent,8260,3230,5025,Bachelor's degree
+Chatham-Kent,820,375,445,University certificate or diploma above bachelor level
+Chatham-Kent,225,140,85,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Chatham-Kent,1605,720,890,Master's degree
+Chatham-Kent,150,95,55,Earned doctorate
+Windsor,19725,14580,5145,Apprenticeship or trades certificate or diploma
+Windsor,73130,31810,41310,"College, CEGEP or other non-university certificate or diploma"
+Windsor,5975,2705,3275,University certificate or diploma below bachelor level
+Windsor,51040,23190,27855,Bachelor's degree
+Windsor,5245,2165,3080,University certificate or diploma above bachelor level
+Windsor,2125,1275,850,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Windsor,16195,8370,7820,Master's degree
+Windsor,2815,1805,1005,Earned doctorate
+Sarnia,7565,6250,1320,Apprenticeship or trades certificate or diploma
+Sarnia,23325,10000,13330,"College, CEGEP or other non-university certificate or diploma"
+Sarnia,1140,430,710,University certificate or diploma below bachelor level
+Sarnia,9670,4240,5435,Bachelor's degree
+Sarnia,935,405,535,University certificate or diploma above bachelor level
+Sarnia,290,180,110,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sarnia,2310,1075,1230,Master's degree
+Sarnia,335,205,140,Earned doctorate
+Essa,1500,1220,285,Apprenticeship or trades certificate or diploma
+Essa,4455,1790,2660,"College, CEGEP or other non-university certificate or diploma"
+Essa,310,155,155,University certificate or diploma below bachelor level
+Essa,2015,745,1270,Bachelor's degree
+Essa,180,60,120,University certificate or diploma above bachelor level
+Essa,40,20,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Essa,490,225,270,Master's degree
+Essa,40,20,20,Earned doctorate
+Wasaga Beach,1715,1260,460,Apprenticeship or trades certificate or diploma
+Wasaga Beach,5180,2200,2980,"College, CEGEP or other non-university certificate or diploma"
+Wasaga Beach,450,200,255,University certificate or diploma below bachelor level
+Wasaga Beach,1995,785,1215,Bachelor's degree
+Wasaga Beach,200,100,95,University certificate or diploma above bachelor level
+Wasaga Beach,30,10,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Wasaga Beach,450,195,255,Master's degree
+Wasaga Beach,40,20,20,Earned doctorate
+Owen Sound,1775,1320,455,Apprenticeship or trades certificate or diploma
+Owen Sound,6890,2690,4200,"College, CEGEP or other non-university certificate or diploma"
+Owen Sound,350,135,220,University certificate or diploma below bachelor level
+Owen Sound,3175,1275,1900,Bachelor's degree
+Owen Sound,310,120,185,University certificate or diploma above bachelor level
+Owen Sound,180,115,70,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Owen Sound,890,440,450,Master's degree
+Owen Sound,90,55,40,Earned doctorate
+Collingwood,1045,725,325,Apprenticeship or trades certificate or diploma
+Collingwood,4740,1885,2845,"College, CEGEP or other non-university certificate or diploma"
+Collingwood,425,180,245,University certificate or diploma below bachelor level
+Collingwood,3915,1745,2170,Bachelor's degree
+Collingwood,405,180,220,University certificate or diploma above bachelor level
+Collingwood,185,110,70,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Collingwood,935,415,520,Master's degree
+Collingwood,85,50,35,Earned doctorate
+Barrie,10520,7985,2535,Apprenticeship or trades certificate or diploma
+Barrie,43840,19020,24820,"College, CEGEP or other non-university certificate or diploma"
+Barrie,3530,1590,1945,University certificate or diploma below bachelor level
+Barrie,24530,9980,14560,Bachelor's degree
+Barrie,2575,1025,1555,University certificate or diploma above bachelor level
+Barrie,910,475,430,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Barrie,5780,2510,3265,Master's degree
+Barrie,565,320,245,Earned doctorate
+Orillia,1665,1135,530,Apprenticeship or trades certificate or diploma
+Orillia,6670,2655,4020,"College, CEGEP or other non-university certificate or diploma"
+Orillia,515,190,325,University certificate or diploma below bachelor level
+Orillia,3455,1380,2085,Bachelor's degree
+Orillia,345,110,240,University certificate or diploma above bachelor level
+Orillia,150,100,50,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Orillia,765,325,440,Master's degree
+Orillia,110,60,55,Earned doctorate
+Midland,1555,1135,430,Apprenticeship or trades certificate or diploma
+Midland,5750,2215,3535,"College, CEGEP or other non-university certificate or diploma"
+Midland,295,135,160,University certificate or diploma below bachelor level
+Midland,2375,1030,1345,Bachelor's degree
+Midland,270,95,170,University certificate or diploma above bachelor level
+Midland,40,25,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Midland,550,240,305,Master's degree
+Midland,65,40,25,Earned doctorate
+North Bay,4195,3135,1055,Apprenticeship or trades certificate or diploma
+North Bay,17445,7350,10090,"College, CEGEP or other non-university certificate or diploma"
+North Bay,800,355,445,University certificate or diploma below bachelor level
+North Bay,7830,3200,4630,Bachelor's degree
+North Bay,795,305,490,University certificate or diploma above bachelor level
+North Bay,305,170,140,"Degree in medicine, dentistry, veterinary medicine or optometry"
+North Bay,1640,655,990,Master's degree
+North Bay,295,210,90,Earned doctorate
+Greater Sudbury / Grand Sudbury,10140,7705,2435,Apprenticeship or trades certificate or diploma
+Greater Sudbury / Grand Sudbury,39875,17945,21930,"College, CEGEP or other non-university certificate or diploma"
+Greater Sudbury / Grand Sudbury,1895,740,1155,University certificate or diploma below bachelor level
+Greater Sudbury / Grand Sudbury,19195,7940,11255,Bachelor's degree
+Greater Sudbury / Grand Sudbury,1750,655,1100,University certificate or diploma above bachelor level
+Greater Sudbury / Grand Sudbury,645,360,285,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Greater Sudbury / Grand Sudbury,4395,1900,2495,Master's degree
+Greater Sudbury / Grand Sudbury,910,580,330,Earned doctorate
+Elliot Lake,890,680,215,Apprenticeship or trades certificate or diploma
+Elliot Lake,2260,900,1360,"College, CEGEP or other non-university certificate or diploma"
+Elliot Lake,125,70,55,University certificate or diploma below bachelor level
+Elliot Lake,775,305,470,Bachelor's degree
+Elliot Lake,75,30,40,University certificate or diploma above bachelor level
+Elliot Lake,45,25,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Elliot Lake,155,80,75,Master's degree
+Elliot Lake,20,15,10,Earned doctorate
+Timmins,2415,1930,485,Apprenticeship or trades certificate or diploma
+Timmins,9285,4150,5130,"College, CEGEP or other non-university certificate or diploma"
+Timmins,405,165,240,University certificate or diploma below bachelor level
+Timmins,3065,1130,1935,Bachelor's degree
+Timmins,410,150,265,University certificate or diploma above bachelor level
+Timmins,125,85,40,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Timmins,660,285,380,Master's degree
+Timmins,45,30,15,Earned doctorate
+Sault Ste. Marie,4525,3585,940,Apprenticeship or trades certificate or diploma
+Sault Ste. Marie,16435,7300,9140,"College, CEGEP or other non-university certificate or diploma"
+Sault Ste. Marie,1070,460,610,University certificate or diploma below bachelor level
+Sault Ste. Marie,9205,3825,5390,Bachelor's degree
+Sault Ste. Marie,920,395,535,University certificate or diploma above bachelor level
+Sault Ste. Marie,350,230,120,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sault Ste. Marie,1695,785,910,Master's degree
+Sault Ste. Marie,320,190,130,Earned doctorate
+Thunder Bay,7490,5995,1495,Apprenticeship or trades certificate or diploma
+Thunder Bay,25310,10965,14345,"College, CEGEP or other non-university certificate or diploma"
+Thunder Bay,1935,890,1045,University certificate or diploma below bachelor level
+Thunder Bay,15600,6525,9080,Bachelor's degree
+Thunder Bay,1530,695,835,University certificate or diploma above bachelor level
+Thunder Bay,740,445,300,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Thunder Bay,4240,1835,2405,Master's degree
+Thunder Bay,790,445,345,Earned doctorate
+Kenora,950,760,185,Apprenticeship or trades certificate or diploma
+Kenora,2935,1210,1725,"College, CEGEP or other non-university certificate or diploma"
+Kenora,210,70,140,University certificate or diploma below bachelor level
+Kenora,1755,690,1065,Bachelor's degree
+Kenora,205,65,140,University certificate or diploma above bachelor level
+Kenora,55,25,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kenora,290,125,160,Master's degree
+Kenora,15,10,10,Earned doctorate
+Winnipeg,40970,29095,11870,Apprenticeship or trades certificate or diploma
+Winnipeg,120975,53410,67565,"College, CEGEP or other non-university certificate or diploma"
+Winnipeg,21160,9015,12155,University certificate or diploma below bachelor level
+Winnipeg,134865,59450,75415,Bachelor's degree
+Winnipeg,14780,6425,8355,University certificate or diploma above bachelor level
+Winnipeg,5250,2870,2380,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Winnipeg,32640,14835,17805,Master's degree
+Winnipeg,5725,3370,2360,Earned doctorate
+Winkler,1465,885,580,Apprenticeship or trades certificate or diploma
+Winkler,3305,1285,2020,"College, CEGEP or other non-university certificate or diploma"
+Winkler,705,345,355,University certificate or diploma below bachelor level
+Winkler,2135,905,1235,Bachelor's degree
+Winkler,290,135,160,University certificate or diploma above bachelor level
+Winkler,100,50,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Winkler,485,240,245,Master's degree
+Winkler,20,15,10,Earned doctorate
+Steinbach,715,485,230,Apprenticeship or trades certificate or diploma
+Steinbach,2310,905,1405,"College, CEGEP or other non-university certificate or diploma"
+Steinbach,340,125,215,University certificate or diploma below bachelor level
+Steinbach,1750,760,990,Bachelor's degree
+Steinbach,200,95,105,University certificate or diploma above bachelor level
+Steinbach,110,80,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Steinbach,305,155,150,Master's degree
+Steinbach,50,40,10,Earned doctorate
+Portage la Prairie,835,560,275,Apprenticeship or trades certificate or diploma
+Portage la Prairie,2115,805,1310,"College, CEGEP or other non-university certificate or diploma"
+Portage la Prairie,240,125,120,University certificate or diploma below bachelor level
+Portage la Prairie,1230,530,705,Bachelor's degree
+Portage la Prairie,130,50,80,University certificate or diploma above bachelor level
+Portage la Prairie,30,15,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Portage la Prairie,235,90,140,Master's degree
+Portage la Prairie,15,10,0,Earned doctorate
+Brandon,3005,2110,890,Apprenticeship or trades certificate or diploma
+Brandon,8475,3410,5065,"College, CEGEP or other non-university certificate or diploma"
+Brandon,1085,415,670,University certificate or diploma below bachelor level
+Brandon,6165,2595,3570,Bachelor's degree
+Brandon,595,275,320,University certificate or diploma above bachelor level
+Brandon,285,170,115,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Brandon,1500,715,790,Master's degree
+Brandon,230,125,100,Earned doctorate
+Thompson,625,530,95,Apprenticeship or trades certificate or diploma
+Thompson,1360,585,775,"College, CEGEP or other non-university certificate or diploma"
+Thompson,320,125,200,University certificate or diploma below bachelor level
+Thompson,1245,445,805,Bachelor's degree
+Thompson,220,85,135,University certificate or diploma above bachelor level
+Thompson,45,10,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Thompson,280,125,150,Master's degree
+Thompson,20,0,20,Earned doctorate
+Regina,16610,12085,4530,Apprenticeship or trades certificate or diploma
+Regina,29030,11465,17570,"College, CEGEP or other non-university certificate or diploma"
+Regina,8305,3270,5035,University certificate or diploma below bachelor level
+Regina,38670,17060,21615,Bachelor's degree
+Regina,2765,1240,1530,University certificate or diploma above bachelor level
+Regina,1390,670,720,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Regina,10590,4905,5680,Master's degree
+Regina,1490,890,605,Earned doctorate
+Yorkton,1425,1065,355,Apprenticeship or trades certificate or diploma
+Yorkton,2610,885,1725,"College, CEGEP or other non-university certificate or diploma"
+Yorkton,480,170,310,University certificate or diploma below bachelor level
+Yorkton,1955,775,1180,Bachelor's degree
+Yorkton,135,50,85,University certificate or diploma above bachelor level
+Yorkton,95,55,40,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Yorkton,345,145,190,Master's degree
+Yorkton,20,10,15,Earned doctorate
+Moose Jaw,3090,2205,885,Apprenticeship or trades certificate or diploma
+Moose Jaw,5140,1905,3235,"College, CEGEP or other non-university certificate or diploma"
+Moose Jaw,805,300,505,University certificate or diploma below bachelor level
+Moose Jaw,3290,1435,1855,Bachelor's degree
+Moose Jaw,235,110,130,University certificate or diploma above bachelor level
+Moose Jaw,95,65,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Moose Jaw,690,305,385,Master's degree
+Moose Jaw,75,55,20,Earned doctorate
+Swift Current,1395,1055,335,Apprenticeship or trades certificate or diploma
+Swift Current,2880,1020,1860,"College, CEGEP or other non-university certificate or diploma"
+Swift Current,375,145,235,University certificate or diploma below bachelor level
+Swift Current,1915,710,1200,Bachelor's degree
+Swift Current,160,55,100,University certificate or diploma above bachelor level
+Swift Current,110,60,45,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Swift Current,345,160,185,Master's degree
+Swift Current,60,45,15,Earned doctorate
+Saskatoon,21435,15690,5745,Apprenticeship or trades certificate or diploma
+Saskatoon,41520,14985,26540,"College, CEGEP or other non-university certificate or diploma"
+Saskatoon,7420,2930,4495,University certificate or diploma below bachelor level
+Saskatoon,49060,20860,28205,Bachelor's degree
+Saskatoon,3315,1480,1835,University certificate or diploma above bachelor level
+Saskatoon,2390,1230,1160,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Saskatoon,13955,6490,7460,Master's degree
+Saskatoon,3620,2205,1415,Earned doctorate
+North Battleford,1495,1055,440,Apprenticeship or trades certificate or diploma
+North Battleford,2710,950,1755,"College, CEGEP or other non-university certificate or diploma"
+North Battleford,515,195,320,University certificate or diploma below bachelor level
+North Battleford,1860,655,1210,Bachelor's degree
+North Battleford,165,50,115,University certificate or diploma above bachelor level
+North Battleford,80,55,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+North Battleford,365,140,225,Master's degree
+North Battleford,20,10,10,Earned doctorate
+Prince Albert,3185,2275,910,Apprenticeship or trades certificate or diploma
+Prince Albert,5770,2005,3760,"College, CEGEP or other non-university certificate or diploma"
+Prince Albert,1150,440,710,University certificate or diploma below bachelor level
+Prince Albert,4020,1455,2565,Bachelor's degree
+Prince Albert,310,135,170,University certificate or diploma above bachelor level
+Prince Albert,205,110,95,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Prince Albert,780,295,485,Master's degree
+Prince Albert,100,75,25,Earned doctorate
+Estevan,1275,1020,255,Apprenticeship or trades certificate or diploma
+Estevan,1575,525,1050,"College, CEGEP or other non-university certificate or diploma"
+Estevan,225,90,135,University certificate or diploma below bachelor level
+Estevan,1065,425,635,Bachelor's degree
+Estevan,70,35,35,University certificate or diploma above bachelor level
+Estevan,15,0,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Estevan,130,40,85,Master's degree
+Estevan,0,0,0,Earned doctorate
+Weyburn,970,670,300,Apprenticeship or trades certificate or diploma
+Weyburn,1495,525,970,"College, CEGEP or other non-university certificate or diploma"
+Weyburn,365,140,220,University certificate or diploma below bachelor level
+Weyburn,1195,440,760,Bachelor's degree
+Weyburn,105,60,45,University certificate or diploma above bachelor level
+Weyburn,50,25,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Weyburn,175,65,110,Master's degree
+Weyburn,10,10,0,Earned doctorate
+Medicine Hat,6480,5040,1440,Apprenticeship or trades certificate or diploma
+Medicine Hat,13105,4620,8480,"College, CEGEP or other non-university certificate or diploma"
+Medicine Hat,1410,505,905,University certificate or diploma below bachelor level
+Medicine Hat,6455,2485,3975,Bachelor's degree
+Medicine Hat,340,150,185,University certificate or diploma above bachelor level
+Medicine Hat,270,185,75,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Medicine Hat,1480,700,785,Master's degree
+Medicine Hat,230,115,115,Earned doctorate
+Brooks,875,635,235,Apprenticeship or trades certificate or diploma
+Brooks,1485,565,920,"College, CEGEP or other non-university certificate or diploma"
+Brooks,240,120,120,University certificate or diploma below bachelor level
+Brooks,1000,415,580,Bachelor's degree
+Brooks,100,30,70,University certificate or diploma above bachelor level
+Brooks,40,25,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Brooks,170,85,85,Master's degree
+Brooks,25,20,0,Earned doctorate
+Lethbridge,8350,6405,1935,Apprenticeship or trades certificate or diploma
+Lethbridge,20360,8055,12305,"College, CEGEP or other non-university certificate or diploma"
+Lethbridge,1830,740,1095,University certificate or diploma below bachelor level
+Lethbridge,13995,5675,8315,Bachelor's degree
+Lethbridge,845,400,440,University certificate or diploma above bachelor level
+Lethbridge,590,405,180,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lethbridge,3495,1565,1925,Master's degree
+Lethbridge,1075,700,370,Earned doctorate
+Okotoks,2225,1760,465,Apprenticeship or trades certificate or diploma
+Okotoks,5245,2055,3195,"College, CEGEP or other non-university certificate or diploma"
+Okotoks,605,255,350,University certificate or diploma below bachelor level
+Okotoks,3675,1590,2085,Bachelor's degree
+Okotoks,295,120,180,University certificate or diploma above bachelor level
+Okotoks,135,60,75,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Okotoks,780,375,405,Master's degree
+Okotoks,95,60,35,Earned doctorate
+High River,1245,955,290,Apprenticeship or trades certificate or diploma
+High River,2395,830,1565,"College, CEGEP or other non-university certificate or diploma"
+High River,420,155,270,University certificate or diploma below bachelor level
+High River,1335,620,710,Bachelor's degree
+High River,105,40,65,University certificate or diploma above bachelor level
+High River,30,10,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+High River,285,135,150,Master's degree
+High River,20,10,10,Earned doctorate
+Calgary,75245,56245,18995,Apprenticeship or trades certificate or diploma
+Calgary,201940,85135,116800,"College, CEGEP or other non-university certificate or diploma"
+Calgary,40360,17045,23315,University certificate or diploma below bachelor level
+Calgary,282585,132000,150585,Bachelor's degree
+Calgary,21500,9695,11805,University certificate or diploma above bachelor level
+Calgary,10270,4780,5490,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Calgary,83425,41555,41880,Master's degree
+Calgary,12450,7570,4875,Earned doctorate
+Strathmore,1030,810,225,Apprenticeship or trades certificate or diploma
+Strathmore,2385,950,1435,"College, CEGEP or other non-university certificate or diploma"
+Strathmore,320,145,180,University certificate or diploma below bachelor level
+Strathmore,1245,480,760,Bachelor's degree
+Strathmore,105,65,40,University certificate or diploma above bachelor level
+Strathmore,45,35,10,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Strathmore,230,75,155,Master's degree
+Strathmore,10,0,10,Earned doctorate
+Canmore,905,700,205,Apprenticeship or trades certificate or diploma
+Canmore,2410,1065,1345,"College, CEGEP or other non-university certificate or diploma"
+Canmore,550,205,345,University certificate or diploma below bachelor level
+Canmore,3735,1655,2080,Bachelor's degree
+Canmore,335,160,175,University certificate or diploma above bachelor level
+Canmore,190,100,80,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Canmore,1215,495,725,Master's degree
+Canmore,275,160,110,Earned doctorate
+Red Deer,8025,6095,1930,Apprenticeship or trades certificate or diploma
+Red Deer,16690,6250,10445,"College, CEGEP or other non-university certificate or diploma"
+Red Deer,2300,760,1540,University certificate or diploma below bachelor level
+Red Deer,10360,4075,6285,Bachelor's degree
+Red Deer,860,380,480,University certificate or diploma above bachelor level
+Red Deer,520,285,235,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Red Deer,2100,910,1190,Master's degree
+Red Deer,210,110,105,Earned doctorate
+Sylvan Lake,1590,1285,300,Apprenticeship or trades certificate or diploma
+Sylvan Lake,2815,985,1830,"College, CEGEP or other non-university certificate or diploma"
+Sylvan Lake,370,115,255,University certificate or diploma below bachelor level
+Sylvan Lake,1320,465,850,Bachelor's degree
+Sylvan Lake,70,15,55,University certificate or diploma above bachelor level
+Sylvan Lake,60,35,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Sylvan Lake,200,65,130,Master's degree
+Sylvan Lake,15,0,15,Earned doctorate
+Lacombe,1120,900,220,Apprenticeship or trades certificate or diploma
+Lacombe,2090,765,1320,"College, CEGEP or other non-university certificate or diploma"
+Lacombe,275,80,195,University certificate or diploma below bachelor level
+Lacombe,1425,525,900,Bachelor's degree
+Lacombe,65,10,50,University certificate or diploma above bachelor level
+Lacombe,40,20,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lacombe,385,180,205,Master's degree
+Lacombe,85,60,25,Earned doctorate
+Camrose,1480,1155,330,Apprenticeship or trades certificate or diploma
+Camrose,3055,1045,2010,"College, CEGEP or other non-university certificate or diploma"
+Camrose,430,130,300,University certificate or diploma below bachelor level
+Camrose,1750,675,1085,Bachelor's degree
+Camrose,130,50,80,University certificate or diploma above bachelor level
+Camrose,90,55,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Camrose,400,195,200,Master's degree
+Camrose,100,70,25,Earned doctorate
+Edmonton,100125,80340,19780,Apprenticeship or trades certificate or diploma
+Edmonton,202975,85485,117485,"College, CEGEP or other non-university certificate or diploma"
+Edmonton,41025,16075,24950,University certificate or diploma below bachelor level
+Edmonton,207315,88680,118630,Bachelor's degree
+Edmonton,15310,6640,8670,University certificate or diploma above bachelor level
+Edmonton,8975,4630,4350,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Edmonton,57165,26960,30205,Master's degree
+Edmonton,11385,6735,4645,Earned doctorate
+Lloydminster,3190,2495,695,Apprenticeship or trades certificate or diploma
+Lloydminster,5670,2050,3625,"College, CEGEP or other non-university certificate or diploma"
+Lloydminster,765,340,430,University certificate or diploma below bachelor level
+Lloydminster,3170,1030,2140,Bachelor's degree
+Lloydminster,180,70,110,University certificate or diploma above bachelor level
+Lloydminster,170,85,80,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lloydminster,495,205,290,Master's degree
+Lloydminster,45,35,10,Earned doctorate
+Lloydminster (Saskatchewan part),1460,1130,325,Apprenticeship or trades certificate or diploma
+Lloydminster (Saskatchewan part),2360,800,1560,"College, CEGEP or other non-university certificate or diploma"
+Lloydminster (Saskatchewan part),310,135,175,University certificate or diploma below bachelor level
+Lloydminster (Saskatchewan part),1270,380,890,Bachelor's degree
+Lloydminster (Saskatchewan part),100,30,75,University certificate or diploma above bachelor level
+Lloydminster (Saskatchewan part),50,20,35,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lloydminster (Saskatchewan part),180,60,120,Master's degree
+Lloydminster (Saskatchewan part),25,20,0,Earned doctorate
+Lloydminster (Alberta part),1730,1360,365,Apprenticeship or trades certificate or diploma
+Lloydminster (Alberta part),3315,1250,2060,"College, CEGEP or other non-university certificate or diploma"
+Lloydminster (Alberta part),455,200,255,University certificate or diploma below bachelor level
+Lloydminster (Alberta part),1895,645,1250,Bachelor's degree
+Lloydminster (Alberta part),75,40,40,University certificate or diploma above bachelor level
+Lloydminster (Alberta part),110,70,45,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Lloydminster (Alberta part),320,150,170,Master's degree
+Lloydminster (Alberta part),25,15,0,Earned doctorate
+Grande Prairie,5790,4780,1015,Apprenticeship or trades certificate or diploma
+Grande Prairie,8970,3445,5525,"College, CEGEP or other non-university certificate or diploma"
+Grande Prairie,1385,515,870,University certificate or diploma below bachelor level
+Grande Prairie,6140,2240,3900,Bachelor's degree
+Grande Prairie,370,150,225,University certificate or diploma above bachelor level
+Grande Prairie,175,85,90,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Grande Prairie,1015,480,535,Master's degree
+Grande Prairie,100,55,45,Earned doctorate
+Wood Buffalo,8090,6640,1450,Apprenticeship or trades certificate or diploma
+Wood Buffalo,11540,5470,6070,"College, CEGEP or other non-university certificate or diploma"
+Wood Buffalo,1735,720,1015,University certificate or diploma below bachelor level
+Wood Buffalo,7815,3165,4650,Bachelor's degree
+Wood Buffalo,675,300,375,University certificate or diploma above bachelor level
+Wood Buffalo,195,75,125,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Wood Buffalo,1970,950,1025,Master's degree
+Wood Buffalo,155,85,70,Earned doctorate
+Wetaskiwin,935,730,205,Apprenticeship or trades certificate or diploma
+Wetaskiwin,1565,525,1040,"College, CEGEP or other non-university certificate or diploma"
+Wetaskiwin,250,80,170,University certificate or diploma below bachelor level
+Wetaskiwin,930,365,575,Bachelor's degree
+Wetaskiwin,85,45,40,University certificate or diploma above bachelor level
+Wetaskiwin,35,25,10,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Wetaskiwin,150,60,85,Master's degree
+Wetaskiwin,15,0,15,Earned doctorate
+Cranbrook,2625,2135,495,Apprenticeship or trades certificate or diploma
+Cranbrook,5085,1885,3200,"College, CEGEP or other non-university certificate or diploma"
+Cranbrook,550,210,340,University certificate or diploma below bachelor level
+Cranbrook,2200,925,1280,Bachelor's degree
+Cranbrook,165,70,100,University certificate or diploma above bachelor level
+Cranbrook,190,135,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Cranbrook,680,290,390,Master's degree
+Cranbrook,65,35,25,Earned doctorate
+Nelson,1480,1140,345,Apprenticeship or trades certificate or diploma
+Nelson,3360,1350,2015,"College, CEGEP or other non-university certificate or diploma"
+Nelson,550,210,335,University certificate or diploma below bachelor level
+Nelson,3100,1410,1690,Bachelor's degree
+Nelson,325,125,200,University certificate or diploma above bachelor level
+Nelson,165,100,65,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Nelson,1120,425,690,Master's degree
+Nelson,145,70,75,Earned doctorate
+Trail,1710,1445,265,Apprenticeship or trades certificate or diploma
+Trail,2950,1110,1840,"College, CEGEP or other non-university certificate or diploma"
+Trail,340,155,190,University certificate or diploma below bachelor level
+Trail,1075,450,630,Bachelor's degree
+Trail,135,35,95,University certificate or diploma above bachelor level
+Trail,30,10,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Trail,270,145,130,Master's degree
+Trail,35,25,0,Earned doctorate
+Penticton,4050,3080,970,Apprenticeship or trades certificate or diploma
+Penticton,8750,3125,5625,"College, CEGEP or other non-university certificate or diploma"
+Penticton,1305,495,810,University certificate or diploma below bachelor level
+Penticton,4570,2020,2550,Bachelor's degree
+Penticton,525,205,315,University certificate or diploma above bachelor level
+Penticton,280,180,105,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Penticton,1365,610,750,Master's degree
+Penticton,310,200,110,Earned doctorate
+Kelowna,18050,13745,4310,Apprenticeship or trades certificate or diploma
+Kelowna,40595,15985,24605,"College, CEGEP or other non-university certificate or diploma"
+Kelowna,6360,2490,3870,University certificate or diploma below bachelor level
+Kelowna,27785,12035,15750,Bachelor's degree
+Kelowna,2905,1165,1735,University certificate or diploma above bachelor level
+Kelowna,1345,860,490,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kelowna,8555,3910,4650,Master's degree
+Kelowna,1555,920,635,Earned doctorate
+Vernon,6080,4650,1430,Apprenticeship or trades certificate or diploma
+Vernon,12000,4445,7555,"College, CEGEP or other non-university certificate or diploma"
+Vernon,1815,655,1155,University certificate or diploma below bachelor level
+Vernon,6520,2680,3835,Bachelor's degree
+Vernon,705,305,400,University certificate or diploma above bachelor level
+Vernon,455,265,190,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Vernon,2200,1035,1160,Master's degree
+Vernon,255,155,100,Earned doctorate
+Salmon Arm,1655,1300,355,Apprenticeship or trades certificate or diploma
+Salmon Arm,3655,1180,2475,"College, CEGEP or other non-university certificate or diploma"
+Salmon Arm,495,185,310,University certificate or diploma below bachelor level
+Salmon Arm,2010,935,1075,Bachelor's degree
+Salmon Arm,210,75,135,University certificate or diploma above bachelor level
+Salmon Arm,115,70,40,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Salmon Arm,580,295,290,Master's degree
+Salmon Arm,55,30,25,Earned doctorate
+Kamloops,10365,8290,2075,Apprenticeship or trades certificate or diploma
+Kamloops,16400,6045,10360,"College, CEGEP or other non-university certificate or diploma"
+Kamloops,4570,1655,2915,University certificate or diploma below bachelor level
+Kamloops,12250,5130,7115,Bachelor's degree
+Kamloops,1430,570,860,University certificate or diploma above bachelor level
+Kamloops,565,340,225,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Kamloops,3570,1465,2105,Master's degree
+Kamloops,495,270,225,Earned doctorate
+Chilliwack,9130,6870,2260,Apprenticeship or trades certificate or diploma
+Chilliwack,16090,5925,10165,"College, CEGEP or other non-university certificate or diploma"
+Chilliwack,4275,1350,2925,University certificate or diploma below bachelor level
+Chilliwack,8995,3780,5210,Bachelor's degree
+Chilliwack,1375,530,850,University certificate or diploma above bachelor level
+Chilliwack,385,230,155,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Chilliwack,2600,1245,1350,Master's degree
+Chilliwack,375,230,140,Earned doctorate
+Abbotsford - Mission,12790,9735,3055,Apprenticeship or trades certificate or diploma
+Abbotsford - Mission,24025,9130,14895,"College, CEGEP or other non-university certificate or diploma"
+Abbotsford - Mission,7445,2900,4540,University certificate or diploma below bachelor level
+Abbotsford - Mission,18525,8000,10525,Bachelor's degree
+Abbotsford - Mission,2350,830,1515,University certificate or diploma above bachelor level
+Abbotsford - Mission,700,435,265,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Abbotsford - Mission,5905,2700,3205,Master's degree
+Abbotsford - Mission,655,405,260,Earned doctorate
+Vancouver,125770,90605,35165,Apprenticeship or trades certificate or diploma
+Vancouver,340715,145610,195105,"College, CEGEP or other non-university certificate or diploma"
+Vancouver,92495,39815,52680,University certificate or diploma below bachelor level
+Vancouver,511110,234090,277025,Bachelor's degree
+Vancouver,54185,23010,31175,University certificate or diploma above bachelor level
+Vancouver,20895,10875,10020,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Vancouver,173475,82085,91395,Master's degree
+Vancouver,27850,16560,11290,Earned doctorate
+Squamish,1705,1355,350,Apprenticeship or trades certificate or diploma
+Squamish,3250,1405,1845,"College, CEGEP or other non-university certificate or diploma"
+Squamish,895,320,575,University certificate or diploma below bachelor level
+Squamish,4365,2045,2325,Bachelor's degree
+Squamish,485,145,340,University certificate or diploma above bachelor level
+Squamish,120,50,75,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Squamish,1450,590,855,Master's degree
+Squamish,200,105,105,Earned doctorate
+Victoria,23920,17855,6070,Apprenticeship or trades certificate or diploma
+Victoria,60645,24535,36110,"College, CEGEP or other non-university certificate or diploma"
+Victoria,10780,4130,6650,University certificate or diploma below bachelor level
+Victoria,69475,30615,38865,Bachelor's degree
+Victoria,7115,2995,4120,University certificate or diploma above bachelor level
+Victoria,3115,1805,1310,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Victoria,27665,11985,15680,Master's degree
+Victoria,6270,3900,2380,Earned doctorate
+Ladysmith,1435,1130,300,Apprenticeship or trades certificate or diploma
+Ladysmith,2610,995,1610,"College, CEGEP or other non-university certificate or diploma"
+Ladysmith,560,170,390,University certificate or diploma below bachelor level
+Ladysmith,1510,595,910,Bachelor's degree
+Ladysmith,250,85,170,University certificate or diploma above bachelor level
+Ladysmith,60,30,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Ladysmith,540,270,275,Master's degree
+Ladysmith,95,60,35,Earned doctorate
+Duncan,4135,3110,1025,Apprenticeship or trades certificate or diploma
+Duncan,7415,2900,4515,"College, CEGEP or other non-university certificate or diploma"
+Duncan,1725,565,1160,University certificate or diploma below bachelor level
+Duncan,4490,1765,2725,Bachelor's degree
+Duncan,485,175,310,University certificate or diploma above bachelor level
+Duncan,210,135,70,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Duncan,1520,730,800,Master's degree
+Duncan,195,100,95,Earned doctorate
+Nanaimo,9405,6875,2535,Apprenticeship or trades certificate or diploma
+Nanaimo,17505,6890,10620,"College, CEGEP or other non-university certificate or diploma"
+Nanaimo,4680,1665,3020,University certificate or diploma below bachelor level
+Nanaimo,13625,5865,7760,Bachelor's degree
+Nanaimo,1585,745,845,University certificate or diploma above bachelor level
+Nanaimo,705,415,290,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Nanaimo,4920,2090,2825,Master's degree
+Nanaimo,830,425,410,Earned doctorate
+Parksville,2800,2070,725,Apprenticeship or trades certificate or diploma
+Parksville,6310,2370,3940,"College, CEGEP or other non-university certificate or diploma"
+Parksville,1190,370,820,University certificate or diploma below bachelor level
+Parksville,3570,1660,1910,Bachelor's degree
+Parksville,475,190,285,University certificate or diploma above bachelor level
+Parksville,135,110,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Parksville,1320,610,710,Master's degree
+Parksville,240,130,105,Earned doctorate
+Port Alberni,2720,2085,630,Apprenticeship or trades certificate or diploma
+Port Alberni,4160,1595,2565,"College, CEGEP or other non-university certificate or diploma"
+Port Alberni,700,235,470,University certificate or diploma below bachelor level
+Port Alberni,1655,675,980,Bachelor's degree
+Port Alberni,195,65,135,University certificate or diploma above bachelor level
+Port Alberni,80,55,25,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Port Alberni,435,150,285,Master's degree
+Port Alberni,45,30,20,Earned doctorate
+Courtenay,5245,3810,1440,Apprenticeship or trades certificate or diploma
+Courtenay,11115,4225,6890,"College, CEGEP or other non-university certificate or diploma"
+Courtenay,1600,550,1055,University certificate or diploma below bachelor level
+Courtenay,7530,3220,4310,Bachelor's degree
+Courtenay,935,350,585,University certificate or diploma above bachelor level
+Courtenay,440,240,205,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Courtenay,2930,1200,1730,Master's degree
+Courtenay,405,250,150,Earned doctorate
+Campbell River,4040,3165,875,Apprenticeship or trades certificate or diploma
+Campbell River,7205,2705,4500,"College, CEGEP or other non-university certificate or diploma"
+Campbell River,910,295,615,University certificate or diploma below bachelor level
+Campbell River,3285,1420,1865,Bachelor's degree
+Campbell River,425,200,225,University certificate or diploma above bachelor level
+Campbell River,195,115,80,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Campbell River,1020,435,585,Master's degree
+Campbell River,100,45,50,Earned doctorate
+Powell River,2010,1495,515,Apprenticeship or trades certificate or diploma
+Powell River,3110,1210,1900,"College, CEGEP or other non-university certificate or diploma"
+Powell River,565,170,395,University certificate or diploma below bachelor level
+Powell River,1495,590,905,Bachelor's degree
+Powell River,190,85,105,University certificate or diploma above bachelor level
+Powell River,80,50,30,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Powell River,515,230,285,Master's degree
+Powell River,115,50,60,Earned doctorate
+Williams Lake,2310,1885,425,Apprenticeship or trades certificate or diploma
+Williams Lake,3040,1190,1855,"College, CEGEP or other non-university certificate or diploma"
+Williams Lake,830,240,595,University certificate or diploma below bachelor level
+Williams Lake,1615,655,960,Bachelor's degree
+Williams Lake,160,55,100,University certificate or diploma above bachelor level
+Williams Lake,90,35,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Williams Lake,500,230,275,Master's degree
+Williams Lake,25,10,20,Earned doctorate
+Quesnel,2235,1845,400,Apprenticeship or trades certificate or diploma
+Quesnel,3255,1140,2115,"College, CEGEP or other non-university certificate or diploma"
+Quesnel,475,190,285,University certificate or diploma below bachelor level
+Quesnel,1375,475,900,Bachelor's degree
+Quesnel,165,40,125,University certificate or diploma above bachelor level
+Quesnel,55,40,20,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Quesnel,365,155,205,Master's degree
+Quesnel,30,15,15,Earned doctorate
+Prince Rupert,1175,990,185,Apprenticeship or trades certificate or diploma
+Prince Rupert,1515,635,880,"College, CEGEP or other non-university certificate or diploma"
+Prince Rupert,295,125,170,University certificate or diploma below bachelor level
+Prince Rupert,1115,485,630,Bachelor's degree
+Prince Rupert,145,55,95,University certificate or diploma above bachelor level
+Prince Rupert,35,25,10,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Prince Rupert,335,120,210,Master's degree
+Prince Rupert,30,10,10,Earned doctorate
+Terrace,2035,1690,350,Apprenticeship or trades certificate or diploma
+Terrace,3075,1295,1780,"College, CEGEP or other non-university certificate or diploma"
+Terrace,485,230,250,University certificate or diploma below bachelor level
+Terrace,1745,670,1075,Bachelor's degree
+Terrace,180,80,95,University certificate or diploma above bachelor level
+Terrace,130,75,60,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Terrace,520,210,305,Master's degree
+Terrace,75,30,45,Earned doctorate
+Prince George,8130,6760,1370,Apprenticeship or trades certificate or diploma
+Prince George,13355,5160,8195,"College, CEGEP or other non-university certificate or diploma"
+Prince George,1590,615,975,University certificate or diploma below bachelor level
+Prince George,8505,3390,5110,Bachelor's degree
+Prince George,820,335,490,University certificate or diploma above bachelor level
+Prince George,390,175,210,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Prince George,2540,1050,1495,Master's degree
+Prince George,460,240,225,Earned doctorate
+Dawson Creek,1910,1560,350,Apprenticeship or trades certificate or diploma
+Dawson Creek,2620,990,1630,"College, CEGEP or other non-university certificate or diploma"
+Dawson Creek,360,130,225,University certificate or diploma below bachelor level
+Dawson Creek,1250,415,835,Bachelor's degree
+Dawson Creek,105,50,60,University certificate or diploma above bachelor level
+Dawson Creek,35,20,15,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Dawson Creek,270,95,180,Master's degree
+Dawson Creek,15,0,0,Earned doctorate
+Fort St. John,2980,2400,580,Apprenticeship or trades certificate or diploma
+Fort St. John,3480,1440,2035,"College, CEGEP or other non-university certificate or diploma"
+Fort St. John,570,195,370,University certificate or diploma below bachelor level
+Fort St. John,2380,1000,1380,Bachelor's degree
+Fort St. John,250,120,130,University certificate or diploma above bachelor level
+Fort St. John,80,45,35,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Fort St. John,500,190,315,Master's degree
+Fort St. John,60,30,25,Earned doctorate
+Whitehorse,2345,1875,470,Apprenticeship or trades certificate or diploma
+Whitehorse,4980,1910,3065,"College, CEGEP or other non-university certificate or diploma"
+Whitehorse,970,405,570,University certificate or diploma below bachelor level
+Whitehorse,4895,2010,2885,Bachelor's degree
+Whitehorse,465,175,290,University certificate or diploma above bachelor level
+Whitehorse,140,65,75,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Whitehorse,2180,855,1325,Master's degree
+Whitehorse,200,105,95,Earned doctorate
+Yellowknife,1040,815,225,Apprenticeship or trades certificate or diploma
+Yellowknife,2635,1245,1385,"College, CEGEP or other non-university certificate or diploma"
+Yellowknife,530,230,305,University certificate or diploma below bachelor level
+Yellowknife,3355,1410,1945,Bachelor's degree
+Yellowknife,310,120,190,University certificate or diploma above bachelor level
+Yellowknife,85,25,55,"Degree in medicine, dentistry, veterinary medicine or optometry"
+Yellowknife,1265,510,750,Master's degree
+Yellowknife,70,30,40,Earned doctorate
